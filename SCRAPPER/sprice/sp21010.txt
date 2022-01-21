@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Watchmen: The End Is Nigh Steam Price History & Sales</title><meta name="description" content="Steam price data 2014-2018: current price, the highest price, the lowest price, sales and the price history chart."><link rel="canonical" href="https://steampricehistory.com/app/21010"/><meta property="og:title" content="Watchmen: The End Is Nigh Steam Price History & Sales" /><meta property="og:description" content="Steam price data 2014-2018: current price, the highest price, the lowest price, sales and the price history chart." /><meta property="og:url" content="https://steampricehistory.com/app/21010" /><meta property="og:image" content="https://steampricehistory.com/theme/img/share.png" />
+    <link rel="stylesheet" href="/theme/css/style.min.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600&display=swap" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0277bd">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GMN23W8HC5"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-GMN23W8HC5');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3887117950946081"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+    <svg width="0" height="0" class="hidden">
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 32" id="search">
+        <path d="M20.576 14.848q0-3.296-2.336-5.632t-5.664-2.368-5.664 2.368-2.336 5.632 2.336 5.664 5.664 2.336 5.664-2.336 2.336-5.664zm9.152 14.88q0 .928-.704 1.6t-1.6.672q-.96 0-1.6-.672l-6.112-6.112q-3.2 2.208-7.136 2.208-2.56 0-4.896-.992t-4-2.688-2.688-4T0 14.848t.992-4.864T3.68 5.952t4-2.688 4.896-.992 4.896.992 4 2.688 2.688 4.032.992 4.864q0 3.936-2.208 7.136l6.112 6.112q.672.672.672 1.632z"></path>
+    </symbol>
+</svg>
+
+<header class="master-header">
+    <div class="container">
+        <a href="/" class="logo">
+            <img src="/theme/img/logo.png" alt="SteamPriceHistory.com">
+        </a>
+
+        <form action="https://steampricehistory.com/search" method="get" class="search-form">
+                        <input name="q" type="text" placeholder="Search games" value="" class="input-field">
+            
+            <button class="submit-btn" type="submit">
+                <svg class="icon">
+                    <use xlink:href="#search"></use>
+                </svg>
+            </button>
+        </form>
+
+        <ul class="navigation">
+            <li class="item">
+                <a href="/" class="link">Home</a>
+            </li>
+            <li class="item">
+                <a href="/popular" class="link">Popular</a>
+            </li>
+            <li class="item">
+                <a href="/discounts" class="link">Discounts</a>
+            </li>
+            <li class="item">
+                <form action="https://steampricehistory.com/search" method="get" class="search-form">
+                                        <input name="q" type="text" placeholder="Search games" value="" class="input-field">
+                    
+                    <button class="submit-btn" type="submit">
+                        <svg class="icon">
+                            <use xlink:href="#search"></use>
+                        </svg>
+                    </button>
+                </form>
+            </li>
+        </ul>
+
+        <div class="hamburger-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</header>
+    <div class="bg-container">
+    <div class="bg-container-img"style="background:url(https://cdn.akamai.steamstatic.com/steam/apps/21010/library_hero.jpg?t=1447351702) center top no-repeat;background-size:cover;"></div>
+
+    <div class="container">
+        <h1 class="title-big">Watchmen: The End Is Nigh Price History</h1>
+
+        <div id="data-big" class="data-big" data-app="21010">
+            <div class="img-col">
+                                <img src="https://cdn.akamai.steamstatic.com/steam/apps/21010/header.jpg?t=1447351702" alt="Watchmen: The End Is Nigh">
+                            </div>
+
+            <div class="text-col">
+                <table class="data-table">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <span class="big-text">$4.99</span>
+                            </td>
+
+                            <td>
+                                <span class="big-text highest">$9.99</span>
+                            </td>
+
+                            <td>
+                                <span class="big-text lowest">$1.24</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>current price</th>
+                            <th>highest price</th>
+                            <th>lowest price</th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <p class="data-text"></p>
+
+        <section class="steam-charts">
+            <h2 class="title-medium">Price Charts</h2>
+
+            <figure class="chart-figure">
+                <div id="chart-container"></div>
+            </figure>
+
+            <p class="desc-grey">All time on the site, except for the charts, is in UTC. The time of the charts is in your time zone.</p>
+        </section>
+
+        <section class="breakdown">
+            <table class="breakdown-table">
+    <tbody>
+        <tr>
+            <th>Date</th>
+            <th>Price</th>
+            <th>Gain</th>
+            <th>Discount</th>
+        </tr>
+                <tr>
+            <td>July 5, 2018</td>
+            <td>$4.99</td>
+
+                        <td class="gain-plus">-$5.00</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>July 4, 2018</td>
+            <td>$9.99</td>
+
+                        <td class="gain-minuse">+$5.00</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>September 21, 2015</td>
+            <td>$4.99</td>
+
+                        <td class="gain-minuse">+$3.75</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>September 17, 2015</td>
+            <td>$1.24</td>
+
+                        <td class="gain-plus">-$3.75</td>
+            
+                        <td class="gain-plus">-75%</td>
+                    </tr>
+                <tr>
+            <td>November 27, 2014</td>
+            <td>$4.99</td>
+
+                        <td>-</td>
+            
+                        <td>-</td>
+                    </tr>
+            </tbody>
+</table>
+        </section>
+
+        
+        <h2 class="title-medium">Games You May Like</h2>
+        <table class="app-table">
+    <tbody>
+        <tr>
+            <th colspan="2">Game</th>
+            <th>Price</th>
+            <th>Discount</th>
+            <th>Recom.</th>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21690">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21690/capsule_sm_120.jpg" alt="Resident Evil 5" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21690" class="app-link">Resident Evil 5</a>
+            </td>
+            <td>$19.99</td>
+                        <td>0</td>
+                        <td>14,695</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21090">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21090/capsule_sm_120.jpg" alt="F.E.A.R." class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21090" class="app-link">F.E.A.R.</a>
+            </td>
+            <td>$54.99</td>
+                        <td>0</td>
+                        <td>6,304</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21110">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21110/capsule_sm_120.jpg" alt="F.E.A.R.: Extraction Point" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21110" class="app-link">F.E.A.R.: Extraction Point</a>
+            </td>
+            <td>$54.99</td>
+                        <td>0</td>
+                        <td>6,304</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21120">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21120/capsule_sm_120.jpg" alt="F.E.A.R.: Perseus Mandate" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21120" class="app-link">F.E.A.R.: Perseus Mandate</a>
+            </td>
+            <td>$54.99</td>
+                        <td>0</td>
+                        <td>6,304</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21100">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21100/capsule_sm_120.jpg" alt="F.E.A.R. 3" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21100" class="app-link">F.E.A.R. 3</a>
+            </td>
+            <td>$19.99</td>
+                        <td>0</td>
+                        <td>4,354</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/22000">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/22000/capsule_sm_120.jpg" alt="World of Goo" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/22000" class="app-link">World of Goo</a>
+            </td>
+            <td>$14.99</td>
+                        <td>0</td>
+                        <td>3,199</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21130">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21130/capsule_sm_120.jpg" alt="LEGO® Harry Potter: Years 1-4" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21130" class="app-link">LEGO® Harry Potter: Years 1-4</a>
+            </td>
+            <td>$19.99</td>
+                        <td>0</td>
+                        <td>3,135</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21980">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21980/capsule_sm_120.jpg" alt="Call of Juarez: Bound in Blood" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21980" class="app-link">Call of Juarez: Bound in Blood</a>
+            </td>
+            <td>$9.99</td>
+                        <td>0</td>
+                        <td>1,948</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21670">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21670/capsule_sm_120.jpg" alt="Bionic Commando" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21670" class="app-link">Bionic Commando</a>
+            </td>
+            <td>$9.99</td>
+                        <td>0</td>
+                        <td>858</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21780">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21780/capsule_sm_120.jpg" alt="Driver: Parallel Lines" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21780" class="app-link">Driver: Parallel Lines</a>
+            </td>
+            <td>$9.99</td>
+                        <td>0</td>
+                        <td>570</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21680">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21680/capsule_sm_120.jpg" alt="Bionic Commando Rearmed" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21680" class="app-link">Bionic Commando Rearmed</a>
+            </td>
+            <td>$9.99</td>
+                        <td>0</td>
+                        <td>530</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21800">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21800/capsule_sm_120.jpg" alt="Tom Clancy&#039;s EndWar" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21800" class="app-link">Tom Clancy&#039;s EndWar</a>
+            </td>
+            <td>$9.99</td>
+                        <td>0</td>
+                        <td>512</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21660">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21660/capsule_sm_120.jpg" alt="Street Fighter IV" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21660" class="app-link">Street Fighter IV</a>
+            </td>
+            <td>$19.99</td>
+                        <td>0</td>
+                        <td>412</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21030">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21030/capsule_sm_120.jpg" alt="Watchmen: The End Is Nigh Part 2" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21030" class="app-link">Watchmen: The End Is Nigh Part 2</a>
+            </td>
+            <td>$4.99</td>
+                        <td>0</td>
+                        <td>143</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/21640">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/21640/capsule_sm_120.jpg" alt="FLOCK!" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/21640" class="app-link">FLOCK!</a>
+            </td>
+            <td>$4.99</td>
+                        <td>0</td>
+                        <td>121</td>
+        </tr>
+            </tbody>
+</table>
+    </div>
+</div>
+    <footer class="master-footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-col">
+
+                <ul class="navigation">
+                    
+                    <li class="item">
+                        <a href="/privacy-policy" class="link">Privacy Policy</a>
+                    </li>
+                    <li class="item">
+                        <a href="/terms-of-use" class="link">Terms of Use</a>
+                    </li>
+                </ul>
+
+
+                <p class="copyright">© 2021 SteamPriceHistory.com</p>
+            </div>
+
+            <div class="footer-col">
+                
+            </div>
+
+            <div class="footer-col">
+                SteamPriceHistory is a community website and is not affiliated with Valve or Steam in any way.
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" defer></script>
+    <script src="/theme/js/script.min.js" defer></script>
+</body>
+</html>

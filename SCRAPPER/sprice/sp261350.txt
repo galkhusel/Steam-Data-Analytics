@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Steam Bandits: Outpost Steam Price History & Sales</title><meta name="description" content="Steam price data 2014-2021: current price, the highest price, the lowest price, sales and the price history chart."><link rel="canonical" href="https://steampricehistory.com/app/261350"/><meta property="og:title" content="Steam Bandits: Outpost Steam Price History & Sales" /><meta property="og:description" content="Steam price data 2014-2021: current price, the highest price, the lowest price, sales and the price history chart." /><meta property="og:url" content="https://steampricehistory.com/app/261350" /><meta property="og:image" content="https://steampricehistory.com/theme/img/share.png" />
+    <link rel="stylesheet" href="/theme/css/style.min.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600&display=swap" rel="stylesheet">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0277bd">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GMN23W8HC5"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-GMN23W8HC5');
+</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3887117950946081" crossorigin="anonymous"></script>
+</head>
+<body>
+    <svg width="0" height="0" class="hidden">
+    <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 32" id="search">
+        <path d="M20.576 14.848q0-3.296-2.336-5.632t-5.664-2.368-5.664 2.368-2.336 5.632 2.336 5.664 5.664 2.336 5.664-2.336 2.336-5.664zm9.152 14.88q0 .928-.704 1.6t-1.6.672q-.96 0-1.6-.672l-6.112-6.112q-3.2 2.208-7.136 2.208-2.56 0-4.896-.992t-4-2.688-2.688-4T0 14.848t.992-4.864T3.68 5.952t4-2.688 4.896-.992 4.896.992 4 2.688 2.688 4.032.992 4.864q0 3.936-2.208 7.136l6.112 6.112q.672.672.672 1.632z"></path>
+    </symbol>
+</svg>
+
+<header class="master-header">
+    <div class="container">
+        <a href="/" class="logo">
+            <img src="/theme/img/logo.png" alt="SteamPriceHistory.com">
+        </a>
+
+        <form action="https://steampricehistory.com/search" method="get" class="search-form">
+                        <input name="q" type="text" placeholder="Search games" value="" class="input-field">
+            
+            <button class="submit-btn" type="submit">
+                <svg class="icon">
+                    <use xlink:href="#search"></use>
+                </svg>
+            </button>
+        </form>
+
+        <ul class="navigation">
+            <li class="item">
+                <a href="/" class="link">Home</a>
+            </li>
+            <li class="item">
+                <a href="/popular" class="link">Popular</a>
+            </li>
+            <li class="item">
+                <a href="/discounts" class="link">Discounts</a>
+            </li>
+            <li class="item">
+                <form action="https://steampricehistory.com/search" method="get" class="search-form">
+                                        <input name="q" type="text" placeholder="Search games" value="" class="input-field">
+                    
+                    <button class="submit-btn" type="submit">
+                        <svg class="icon">
+                            <use xlink:href="#search"></use>
+                        </svg>
+                    </button>
+                </form>
+            </li>
+        </ul>
+
+        <div class="hamburger-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
+</header>
+    <div class="bg-container">
+    <div class="bg-container-img"style="background:url(https://cdn.akamai.steamstatic.com/steam/apps/261350/library_hero.jpg?t=1483735217) center top no-repeat;background-size:cover;"></div>
+
+    <div class="container">
+        <h1 class="title-big">Steam Bandits: Outpost Price History</h1>
+
+        <div id="data-big" class="data-big" data-app="261350">
+            <div class="img-col">
+                                <img src="https://cdn.akamai.steamstatic.com/steam/apps/261350/header.jpg?t=1483735217" alt="Steam Bandits: Outpost">
+                            </div>
+
+            <div class="text-col">
+                <table class="data-table">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <span class="big-text">$19.99</span>
+                            </td>
+
+                            <td>
+                                <span class="big-text highest">$29.99</span>
+                            </td>
+
+                            <td>
+                                <span class="big-text lowest">$13.49</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>current price</th>
+                            <th>highest price</th>
+                            <th>lowest price</th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-3887117950946081"
+         data-ad-slot="3184134794"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+        <p class="data-text"></p>
+
+        <section class="steam-charts">
+            <h2 class="title-medium">Price Charts</h2>
+
+            <figure class="chart-figure">
+                <div id="chart-container"></div>
+            </figure>
+
+            <p class="desc-grey">All time on the site, except for the charts, is in UTC. The time of the charts is in your time zone.</p>
+        </section>
+
+        <section class="breakdown">
+            <table class="breakdown-table">
+    <tbody>
+        <tr>
+            <th>Date</th>
+            <th>Price</th>
+            <th>Gain</th>
+            <th>Discount</th>
+        </tr>
+                <tr>
+            <td>February 9, 2021</td>
+            <td>$19.99</td>
+
+                        <td>0.00</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>February 3, 2021</td>
+            <td>$19.99</td>
+
+                        <td>0.00</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>July 4, 2016</td>
+            <td>$19.99</td>
+
+                        <td class="gain-minuse">+$2.00</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>June 23, 2016</td>
+            <td>$17.99</td>
+
+                        <td class="gain-plus">-$2.00</td>
+            
+                        <td class="gain-plus">-10%</td>
+                    </tr>
+                <tr>
+            <td>February 12, 2016</td>
+            <td>$19.99</td>
+
+                        <td class="gain-minuse">+$2.00</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>February 5, 2016</td>
+            <td>$17.99</td>
+
+                        <td class="gain-plus">-$2.00</td>
+            
+                        <td class="gain-plus">-10%</td>
+                    </tr>
+                <tr>
+            <td>January 4, 2016</td>
+            <td>$19.99</td>
+
+                        <td class="gain-minuse">+$3.00</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>December 22, 2015</td>
+            <td>$16.99</td>
+
+                        <td class="gain-plus">-$3.00</td>
+            
+                        <td class="gain-plus">-15%</td>
+                    </tr>
+                <tr>
+            <td>December 1, 2015</td>
+            <td>$19.99</td>
+
+                        <td class="gain-minuse">+$3.00</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>November 25, 2015</td>
+            <td>$16.99</td>
+
+                        <td class="gain-plus">-$3.00</td>
+            
+                        <td class="gain-plus">-15%</td>
+                    </tr>
+                <tr>
+            <td>July 16, 2015</td>
+            <td>$19.99</td>
+
+                        <td class="gain-plus">-$10.00</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>June 22, 2015</td>
+            <td>$29.99</td>
+
+                        <td class="gain-minuse">+$10.50</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>May 28, 2015</td>
+            <td>$19.49</td>
+
+                        <td class="gain-plus">-$10.50</td>
+            
+                        <td class="gain-plus">-35%</td>
+                    </tr>
+                <tr>
+            <td>May 16, 2015</td>
+            <td>$29.99</td>
+
+                        <td class="gain-minuse">+$15.00</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>January 2, 2015</td>
+            <td>$14.99</td>
+
+                        <td class="gain-minuse">+$1.50</td>
+            
+                        <td>-</td>
+                    </tr>
+                <tr>
+            <td>December 18, 2014</td>
+            <td>$13.49</td>
+
+                        <td class="gain-plus">-$1.50</td>
+            
+                        <td class="gain-plus">-10%</td>
+                    </tr>
+                <tr>
+            <td>November 27, 2014</td>
+            <td>$14.99</td>
+
+                        <td>-</td>
+            
+                        <td>-</td>
+                    </tr>
+            </tbody>
+</table>
+        </section>
+
+        <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-3887117950946081"
+         data-ad-slot="3184134794"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+
+                <h2 class="title-medium">Sales</h2>
+        <p class="desc-grey">All Steam sales with prices for the current game.</p>
+        <section class="breakdown">
+            <table class="breakdown-table sale">
+    <tbody>
+        <tr>
+            <th>Sale</th>
+            <th>Date Start</th>
+            <th>Price</th>
+            <th>Discount</th>
+        </tr>
+                <tr>
+            <td>Summer Sale 2016 (Picnic)</td>
+            <td>Jun 23, 2016</td>
+            <td>$17.99</td>
+
+                        <td class="gain-plus">-10%</td>
+                    </tr>
+                <tr>
+            <td>Lunar New Year Sale 2016</td>
+            <td>Feb 5, 2016</td>
+            <td>$17.99</td>
+
+                        <td class="gain-plus">-10%</td>
+                    </tr>
+                <tr>
+            <td>Winter Sale 2015 (Gingerbread Jake In: North Pole Noir)</td>
+            <td>Dec 22, 2015</td>
+            <td>$16.99</td>
+
+                        <td class="gain-plus">-15%</td>
+                    </tr>
+                <tr>
+            <td>Winter Sale 2014 (Holiday Auction)</td>
+            <td>Dec 18, 2014</td>
+            <td>$13.49</td>
+
+                        <td class="gain-plus">-10%</td>
+                    </tr>
+            </tbody>
+</table>
+        </section>
+        
+        <h2 class="title-medium">Games You May Like</h2>
+        <table class="app-table">
+    <tbody>
+        <tr>
+            <th colspan="2">Game</th>
+            <th>Price</th>
+            <th>Discount</th>
+            <th>Recom.</th>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/261550">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/261550/capsule_sm_120.jpg" alt="Mount &amp; Blade II: Bannerlord" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/261550" class="app-link">Mount &amp; Blade II: Bannerlord</a>
+            </td>
+            <td>$49.99</td>
+                        <td>0</td>
+                        <td>119,795</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/262060">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/262060/capsule_sm_120.jpg" alt="Darkest Dungeon®" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/262060" class="app-link">Darkest Dungeon®</a>
+            </td>
+            <td>$24.99</td>
+                        <td>0</td>
+                        <td>75,869</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/261640">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/261640/capsule_sm_120.jpg" alt="Borderlands: The Pre-Sequel" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/261640" class="app-link">Borderlands: The Pre-Sequel</a>
+            </td>
+            <td>$11.99</td>
+                        <td class="gain-plus">-70%</td>
+                        <td>24,086</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/261530">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/261530/capsule_sm_120.jpg" alt="Lifeless Planet" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/261530" class="app-link">Lifeless Planet</a>
+            </td>
+            <td>$19.99</td>
+                        <td>0</td>
+                        <td>2,131</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/261760">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/261760/capsule_sm_120.jpg" alt="Lichdom: Battlemage" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/261760" class="app-link">Lichdom: Battlemage</a>
+            </td>
+            <td>$9.99</td>
+                        <td>0</td>
+                        <td>1,895</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/262150">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/262150/capsule_sm_120.jpg" alt="Vanguard Princess" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/262150" class="app-link">Vanguard Princess</a>
+            </td>
+            <td>$4.99</td>
+                        <td>0</td>
+                        <td>1,448</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/261470">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/261470/capsule_sm_120.jpg" alt="Distant Worlds: Universe" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/261470" class="app-link">Distant Worlds: Universe</a>
+            </td>
+            <td>$59.99</td>
+                        <td>0</td>
+                        <td>1,112</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/261700">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/261700/capsule_sm_120.jpg" alt="Eryi&#039;s Action" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/261700" class="app-link">Eryi&#039;s Action</a>
+            </td>
+            <td>$4.99</td>
+                        <td>0</td>
+                        <td>812</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/262120">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/262120/capsule_sm_120.jpg" alt="Toy Soldiers: Complete" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/262120" class="app-link">Toy Soldiers: Complete</a>
+            </td>
+            <td>$14.99</td>
+                        <td>0</td>
+                        <td>668</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/262000">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/262000/capsule_sm_120.jpg" alt="Gabriel Knight - Sins of the Fathers" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/262000" class="app-link">Gabriel Knight - Sins of the Fathers</a>
+            </td>
+            <td>$19.99</td>
+                        <td>0</td>
+                        <td>650</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/261510">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/261510/capsule_sm_120.jpg" alt="Tesla Effect" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/261510" class="app-link">Tesla Effect</a>
+            </td>
+            <td>$19.99</td>
+                        <td>0</td>
+                        <td>521</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/261880">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/261880/capsule_sm_120.jpg" alt="Corporate Lifestyle Simulator" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/261880" class="app-link">Corporate Lifestyle Simulator</a>
+            </td>
+            <td>$4.99</td>
+                        <td>0</td>
+                        <td>313</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/261680">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/261680/capsule_sm_120.jpg" alt="Journal" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/261680" class="app-link">Journal</a>
+            </td>
+            <td>$9.99</td>
+                        <td>0</td>
+                        <td>305</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/262190">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/262190/capsule_sm_120.jpg" alt="Zombeer" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/262190" class="app-link">Zombeer</a>
+            </td>
+            <td>$4.99</td>
+                        <td>0</td>
+                        <td>203</td>
+        </tr>
+                <tr>
+            <td>
+                <a href="https://steampricehistory.com/app/261920">
+                                        <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/261920/capsule_sm_120.jpg" alt="Catzilla" class="app-img">
+                                    </a>
+            </td>
+            <td>
+                <a href="https://steampricehistory.com/app/261920" class="app-link">Catzilla</a>
+            </td>
+            <td>$14.99</td>
+                        <td>0</td>
+                        <td>133</td>
+        </tr>
+            </tbody>
+</table>
+    </div>
+</div>
+    <footer class="master-footer">
+    <div class="container">
+        <div class="row">
+            <div class="footer-col">
+
+                <ul class="navigation">
+                    
+                    <li class="item">
+                        <a href="/privacy-policy" class="link">Privacy Policy</a>
+                    </li>
+                    <li class="item">
+                        <a href="/terms-of-use" class="link">Terms of Use</a>
+                    </li>
+                </ul>
+
+
+                <p class="copyright">© 2021 SteamPriceHistory.com</p>
+            </div>
+
+            <div class="footer-col">
+                
+            </div>
+
+            <div class="footer-col">
+                SteamPriceHistory is a community website and is not affiliated with Valve or Steam in any way.
+            </div>
+        </div>
+    </div>
+</footer>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" defer></script>
+    <script src="/theme/js/script.min.js" defer></script>
+</body>
+</html>

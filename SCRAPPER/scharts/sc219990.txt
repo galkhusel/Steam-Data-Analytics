@@ -1,0 +1,1322 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<title>Grim Dawn - Steam Charts</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="An ongoing analysis of Steam&#39;s player numbers, seeing what&#39;s been played the most.">
+<meta property="twitter:account_id" content="4503599630058963">
+
+<meta name="twitter:site" content="@steamcharts"><meta name="twitter:title" content="Grim Dawn - Steam Charts"><meta name="twitter:url" content="http://steamcharts.com/app/219990">
+<script async src="https://kumo.network-n.com/dist/app.js" site="steam-charts"></script>
+<link href="/assets/style-9826f406.css" rel="stylesheet">
+<script src="/assets/script-88db269a.js"></script>	
+
+<link rel="shortcut icon" href="/assets/favicon.ico">
+
+
+</head>
+
+<body>
+
+
+<div id="nn_skinl"></div>
+<div id="nn_skinr"></div>
+
+
+<div id="content-wrapper">
+	<div id="header">
+		<a id="logo" href="/"><span id="logo-steam">STEAM</span><span id="logo-charts">CHARTS</span></a>
+		&nbsp;&nbsp;
+		<i>An ongoing analysis of Steam's concurrent players.</i>
+		<div style="float: right">
+			<form action="/search/" id="search" class="inline" role="search">
+				<input type="text" name="q" placeholder="search games">
+			</form>
+		</div>
+	</div>
+	
+	<h1 id="app-title"><a href="">Grim Dawn</a></h1>
+<div id="app-links">
+	<a href="http://store.steampowered.com/app/219990/">Store</a>
+	|
+	<a href="http://steamcommunity.com/app/219990">Hub</a>
+</div>
+<div id="app-heading" class="content">
+	<img class="app-image"
+		src="/assets/steam-images/219990.jpg"
+		alt="Grim Dawn"
+		width="184" height="69">
+	<div class="app-stat"> 
+		<span class="num">7331</span>
+		<br>playing <abbr class="timeago" title="2021-12-29T15:02:42Z"></abbr>
+	</div>
+	<div class="app-stat"> 
+		<span class="num">7343</span>
+		<br>24-hour peak
+	</div>
+	<div class="app-stat"> 
+		<span class="num">61093</span>
+		<br>all-time peak
+	</div>
+</div>
+
+
+
+<div id="app-hours-content" class="content">
+	<div id="app-longterm-chart">
+	</div>
+	<div style="float: right; margin: 0; padding: 0">
+		<a href="/cmp/219990">Compare with others...</a>
+	</div>
+</div>
+<div class="ad720">
+	<div id="nn_lb1"></div>
+</div>
+<div class="content">
+	<table class="common-table">
+		<thead>
+			<tr>
+				<th class="left">Month</th>
+				<th class="right">Avg. Players</th>
+				<th class="right">Gain</th>
+				<th class="right">% Gain</th>
+				<th class="right">Peak Players</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr class="odd">
+				<td class="month-cell left italic">Last 30 Days</td>
+				<td class="right num-f italic">4313.96</td>
+				<td class="right num-p gainorloss italic">-82.1</td>
+				<td class="right gainorloss italic">-1.87%</td>
+				<td class="right num italic">8313</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					November 2021
+				</td>
+				
+				<td class="right num-f">4396.06</td>
+				<td class="right num-p gainorloss">798.25</td>
+				<td class="right gainorloss">&#43;22.19%</td>
+				<td class="right num">8976</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					October 2021
+				</td>
+				
+				<td class="right num-f">3597.81</td>
+				<td class="right num-p gainorloss">-1481.87</td>
+				<td class="right gainorloss">-29.17%</td>
+				<td class="right num">8745</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					September 2021
+				</td>
+				
+				<td class="right num-f">5079.68</td>
+				<td class="right num-p gainorloss">1500.56</td>
+				<td class="right gainorloss">&#43;41.93%</td>
+				<td class="right num">11705</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					August 2021
+				</td>
+				
+				<td class="right num-f">3579.12</td>
+				<td class="right num-p gainorloss">-992.70</td>
+				<td class="right gainorloss">-21.71%</td>
+				<td class="right num">7091</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					July 2021
+				</td>
+				
+				<td class="right num-f">4571.82</td>
+				<td class="right num-p gainorloss">1535.87</td>
+				<td class="right gainorloss">&#43;50.59%</td>
+				<td class="right num">9582</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					June 2021
+				</td>
+				
+				<td class="right num-f">3035.95</td>
+				<td class="right num-p gainorloss">31.61</td>
+				<td class="right gainorloss">&#43;1.05%</td>
+				<td class="right num">7670</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					May 2021
+				</td>
+				
+				<td class="right num-f">3004.34</td>
+				<td class="right num-p gainorloss">-222.80</td>
+				<td class="right gainorloss">-6.90%</td>
+				<td class="right num">5121</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					April 2021
+				</td>
+				
+				<td class="right num-f">3227.14</td>
+				<td class="right num-p gainorloss">-717.30</td>
+				<td class="right gainorloss">-18.19%</td>
+				<td class="right num">5809</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					March 2021
+				</td>
+				
+				<td class="right num-f">3944.45</td>
+				<td class="right num-p gainorloss">-697.83</td>
+				<td class="right gainorloss">-15.03%</td>
+				<td class="right num">7075</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					February 2021
+				</td>
+				
+				<td class="right num-f">4642.27</td>
+				<td class="right num-p gainorloss">-886.32</td>
+				<td class="right gainorloss">-16.03%</td>
+				<td class="right num">7593</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2021
+				</td>
+				
+				<td class="right num-f">5528.60</td>
+				<td class="right num-p gainorloss">1138.65</td>
+				<td class="right gainorloss">&#43;25.94%</td>
+				<td class="right num">10514</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2020
+				</td>
+				
+				<td class="right num-f">4389.95</td>
+				<td class="right num-p gainorloss">-339.73</td>
+				<td class="right gainorloss">-7.18%</td>
+				<td class="right num">8091</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					November 2020
+				</td>
+				
+				<td class="right num-f">4729.68</td>
+				<td class="right num-p gainorloss">703.93</td>
+				<td class="right gainorloss">&#43;17.49%</td>
+				<td class="right num">9317</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					October 2020
+				</td>
+				
+				<td class="right num-f">4025.75</td>
+				<td class="right num-p gainorloss">293.06</td>
+				<td class="right gainorloss">&#43;7.85%</td>
+				<td class="right num">8312</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					September 2020
+				</td>
+				
+				<td class="right num-f">3732.69</td>
+				<td class="right num-p gainorloss">-415.09</td>
+				<td class="right gainorloss">-10.01%</td>
+				<td class="right num">6378</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					August 2020
+				</td>
+				
+				<td class="right num-f">4147.78</td>
+				<td class="right num-p gainorloss">-1749.99</td>
+				<td class="right gainorloss">-29.67%</td>
+				<td class="right num">7360</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					July 2020
+				</td>
+				
+				<td class="right num-f">5897.77</td>
+				<td class="right num-p gainorloss">1317.89</td>
+				<td class="right gainorloss">&#43;28.78%</td>
+				<td class="right num">10515</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					June 2020
+				</td>
+				
+				<td class="right num-f">4579.88</td>
+				<td class="right num-p gainorloss">-289.17</td>
+				<td class="right gainorloss">-5.94%</td>
+				<td class="right num">9901</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					May 2020
+				</td>
+				
+				<td class="right num-f">4869.06</td>
+				<td class="right num-p gainorloss">-1466.18</td>
+				<td class="right gainorloss">-23.14%</td>
+				<td class="right num">8482</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					April 2020
+				</td>
+				
+				<td class="right num-f">6335.24</td>
+				<td class="right num-p gainorloss">-135.49</td>
+				<td class="right gainorloss">-2.09%</td>
+				<td class="right num">15470</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					March 2020
+				</td>
+				
+				<td class="right num-f">6470.72</td>
+				<td class="right num-p gainorloss">15.85</td>
+				<td class="right gainorloss">&#43;0.25%</td>
+				<td class="right num">14958</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					February 2020
+				</td>
+				
+				<td class="right num-f">6454.88</td>
+				<td class="right num-p gainorloss">1855.18</td>
+				<td class="right gainorloss">&#43;40.33%</td>
+				<td class="right num">16301</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2020
+				</td>
+				
+				<td class="right num-f">4599.69</td>
+				<td class="right num-p gainorloss">-752.20</td>
+				<td class="right gainorloss">-14.05%</td>
+				<td class="right num">8473</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2019
+				</td>
+				
+				<td class="right num-f">5351.89</td>
+				<td class="right num-p gainorloss">1092.81</td>
+				<td class="right gainorloss">&#43;25.66%</td>
+				<td class="right num">10698</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					November 2019
+				</td>
+				
+				<td class="right num-f">4259.07</td>
+				<td class="right num-p gainorloss">780.63</td>
+				<td class="right gainorloss">&#43;22.44%</td>
+				<td class="right num">9853</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					October 2019
+				</td>
+				
+				<td class="right num-f">3478.45</td>
+				<td class="right num-p gainorloss">840.44</td>
+				<td class="right gainorloss">&#43;31.86%</td>
+				<td class="right num">7508</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					September 2019
+				</td>
+				
+				<td class="right num-f">2638.01</td>
+				<td class="right num-p gainorloss">-1070.67</td>
+				<td class="right gainorloss">-28.87%</td>
+				<td class="right num">5260</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					August 2019
+				</td>
+				
+				<td class="right num-f">3708.68</td>
+				<td class="right num-p gainorloss">-847.74</td>
+				<td class="right gainorloss">-18.61%</td>
+				<td class="right num">6875</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					July 2019
+				</td>
+				
+				<td class="right num-f">4556.42</td>
+				<td class="right num-p gainorloss">61.80</td>
+				<td class="right gainorloss">&#43;1.37%</td>
+				<td class="right num">8545</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					June 2019
+				</td>
+				
+				<td class="right num-f">4494.62</td>
+				<td class="right num-p gainorloss">-6025.12</td>
+				<td class="right gainorloss">-57.27%</td>
+				<td class="right num">8613</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					May 2019
+				</td>
+				
+				<td class="right num-f">10519.74</td>
+				<td class="right num-p gainorloss">1495.51</td>
+				<td class="right gainorloss">&#43;16.57%</td>
+				<td class="right num">61093</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					April 2019
+				</td>
+				
+				<td class="right num-f">9024.23</td>
+				<td class="right num-p gainorloss">4104.35</td>
+				<td class="right gainorloss">&#43;83.42%</td>
+				<td class="right num">17438</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					March 2019
+				</td>
+				
+				<td class="right num-f">4919.88</td>
+				<td class="right num-p gainorloss">1098.51</td>
+				<td class="right gainorloss">&#43;28.75%</td>
+				<td class="right num">19435</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					February 2019
+				</td>
+				
+				<td class="right num-f">3821.37</td>
+				<td class="right num-p gainorloss">253.94</td>
+				<td class="right gainorloss">&#43;7.12%</td>
+				<td class="right num">7689</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2019
+				</td>
+				
+				<td class="right num-f">3567.43</td>
+				<td class="right num-p gainorloss">42.96</td>
+				<td class="right gainorloss">&#43;1.22%</td>
+				<td class="right num">6466</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2018
+				</td>
+				
+				<td class="right num-f">3524.48</td>
+				<td class="right num-p gainorloss">26.58</td>
+				<td class="right gainorloss">&#43;0.76%</td>
+				<td class="right num">6333</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					November 2018
+				</td>
+				
+				<td class="right num-f">3497.90</td>
+				<td class="right num-p gainorloss">942.67</td>
+				<td class="right gainorloss">&#43;36.89%</td>
+				<td class="right num">6591</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					October 2018
+				</td>
+				
+				<td class="right num-f">2555.23</td>
+				<td class="right num-p gainorloss">-937.40</td>
+				<td class="right gainorloss">-26.84%</td>
+				<td class="right num">4537</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					September 2018
+				</td>
+				
+				<td class="right num-f">3492.63</td>
+				<td class="right num-p gainorloss">982.04</td>
+				<td class="right gainorloss">&#43;39.12%</td>
+				<td class="right num">7487</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					August 2018
+				</td>
+				
+				<td class="right num-f">2510.59</td>
+				<td class="right num-p gainorloss">-845.40</td>
+				<td class="right gainorloss">-25.19%</td>
+				<td class="right num">4477</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					July 2018
+				</td>
+				
+				<td class="right num-f">3355.99</td>
+				<td class="right num-p gainorloss">371.39</td>
+				<td class="right gainorloss">&#43;12.44%</td>
+				<td class="right num">6396</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					June 2018
+				</td>
+				
+				<td class="right num-f">2984.59</td>
+				<td class="right num-p gainorloss">-372.22</td>
+				<td class="right gainorloss">-11.09%</td>
+				<td class="right num">6427</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					May 2018
+				</td>
+				
+				<td class="right num-f">3356.81</td>
+				<td class="right num-p gainorloss">-66.98</td>
+				<td class="right gainorloss">-1.96%</td>
+				<td class="right num">5812</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					April 2018
+				</td>
+				
+				<td class="right num-f">3423.79</td>
+				<td class="right num-p gainorloss">-75.77</td>
+				<td class="right gainorloss">-2.17%</td>
+				<td class="right num">6467</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					March 2018
+				</td>
+				
+				<td class="right num-f">3499.56</td>
+				<td class="right num-p gainorloss">356.25</td>
+				<td class="right gainorloss">&#43;11.33%</td>
+				<td class="right num">8882</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					February 2018
+				</td>
+				
+				<td class="right num-f">3143.31</td>
+				<td class="right num-p gainorloss">-1125.89</td>
+				<td class="right gainorloss">-26.37%</td>
+				<td class="right num">5498</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2018
+				</td>
+				
+				<td class="right num-f">4269.20</td>
+				<td class="right num-p gainorloss">-75.56</td>
+				<td class="right gainorloss">-1.74%</td>
+				<td class="right num">7865</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2017
+				</td>
+				
+				<td class="right num-f">4344.76</td>
+				<td class="right num-p gainorloss">-2092.20</td>
+				<td class="right gainorloss">-32.50%</td>
+				<td class="right num">8982</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					November 2017
+				</td>
+				
+				<td class="right num-f">6436.97</td>
+				<td class="right num-p gainorloss">-1232.91</td>
+				<td class="right gainorloss">-16.07%</td>
+				<td class="right num">13627</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					October 2017
+				</td>
+				
+				<td class="right num-f">7669.88</td>
+				<td class="right num-p gainorloss">5870.00</td>
+				<td class="right gainorloss">&#43;326.13%</td>
+				<td class="right num">20415</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					September 2017
+				</td>
+				
+				<td class="right num-f">1799.88</td>
+				<td class="right num-p gainorloss">-85.64</td>
+				<td class="right gainorloss">-4.54%</td>
+				<td class="right num">3183</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					August 2017
+				</td>
+				
+				<td class="right num-f">1885.52</td>
+				<td class="right num-p gainorloss">-989.13</td>
+				<td class="right gainorloss">-34.41%</td>
+				<td class="right num">3211</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					July 2017
+				</td>
+				
+				<td class="right num-f">2874.65</td>
+				<td class="right num-p gainorloss">265.78</td>
+				<td class="right gainorloss">&#43;10.19%</td>
+				<td class="right num">6176</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					June 2017
+				</td>
+				
+				<td class="right num-f">2608.87</td>
+				<td class="right num-p gainorloss">281.49</td>
+				<td class="right gainorloss">&#43;12.09%</td>
+				<td class="right num">6546</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					May 2017
+				</td>
+				
+				<td class="right num-f">2327.38</td>
+				<td class="right num-p gainorloss">-617.23</td>
+				<td class="right gainorloss">-20.96%</td>
+				<td class="right num">3872</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					April 2017
+				</td>
+				
+				<td class="right num-f">2944.61</td>
+				<td class="right num-p gainorloss">-877.16</td>
+				<td class="right gainorloss">-22.95%</td>
+				<td class="right num">5965</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					March 2017
+				</td>
+				
+				<td class="right num-f">3821.77</td>
+				<td class="right num-p gainorloss">767.17</td>
+				<td class="right gainorloss">&#43;25.12%</td>
+				<td class="right num">11177</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					February 2017
+				</td>
+				
+				<td class="right num-f">3054.60</td>
+				<td class="right num-p gainorloss">-890.13</td>
+				<td class="right gainorloss">-22.56%</td>
+				<td class="right num">5164</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2017
+				</td>
+				
+				<td class="right num-f">3944.73</td>
+				<td class="right num-p gainorloss">504.25</td>
+				<td class="right gainorloss">&#43;14.66%</td>
+				<td class="right num">7766</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2016
+				</td>
+				
+				<td class="right num-f">3440.47</td>
+				<td class="right num-p gainorloss">244.63</td>
+				<td class="right gainorloss">&#43;7.65%</td>
+				<td class="right num">6552</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					November 2016
+				</td>
+				
+				<td class="right num-f">3195.84</td>
+				<td class="right num-p gainorloss">312.18</td>
+				<td class="right gainorloss">&#43;10.83%</td>
+				<td class="right num">6821</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					October 2016
+				</td>
+				
+				<td class="right num-f">2883.67</td>
+				<td class="right num-p gainorloss">120.01</td>
+				<td class="right gainorloss">&#43;4.34%</td>
+				<td class="right num">5318</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					September 2016
+				</td>
+				
+				<td class="right num-f">2763.66</td>
+				<td class="right num-p gainorloss">-1157.92</td>
+				<td class="right gainorloss">-29.53%</td>
+				<td class="right num">4804</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					August 2016
+				</td>
+				
+				<td class="right num-f">3921.57</td>
+				<td class="right num-p gainorloss">634.55</td>
+				<td class="right gainorloss">&#43;19.30%</td>
+				<td class="right num">8481</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					July 2016
+				</td>
+				
+				<td class="right num-f">3287.02</td>
+				<td class="right num-p gainorloss">736.32</td>
+				<td class="right gainorloss">&#43;28.87%</td>
+				<td class="right num">6442</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					June 2016
+				</td>
+				
+				<td class="right num-f">2550.70</td>
+				<td class="right num-p gainorloss">-381.78</td>
+				<td class="right gainorloss">-13.02%</td>
+				<td class="right num">5075</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					May 2016
+				</td>
+				
+				<td class="right num-f">2932.48</td>
+				<td class="right num-p gainorloss">-1907.26</td>
+				<td class="right gainorloss">-39.41%</td>
+				<td class="right num">6153</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					April 2016
+				</td>
+				
+				<td class="right num-f">4839.74</td>
+				<td class="right num-p gainorloss">-2695.99</td>
+				<td class="right gainorloss">-35.78%</td>
+				<td class="right num">10361</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					March 2016
+				</td>
+				
+				<td class="right num-f">7535.73</td>
+				<td class="right num-p gainorloss">4232.32</td>
+				<td class="right gainorloss">&#43;128.12%</td>
+				<td class="right num">13517</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					February 2016
+				</td>
+				
+				<td class="right num-f">3303.42</td>
+				<td class="right num-p gainorloss">-150.39</td>
+				<td class="right gainorloss">-4.35%</td>
+				<td class="right num">15206</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2016
+				</td>
+				
+				<td class="right num-f">3453.81</td>
+				<td class="right num-p gainorloss">1417.93</td>
+				<td class="right gainorloss">&#43;69.65%</td>
+				<td class="right num">7793</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2015
+				</td>
+				
+				<td class="right num-f">2035.88</td>
+				<td class="right num-p gainorloss">1300.34</td>
+				<td class="right gainorloss">&#43;176.79%</td>
+				<td class="right num">6129</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					November 2015
+				</td>
+				
+				<td class="right num-f">735.54</td>
+				<td class="right num-p gainorloss">111.23</td>
+				<td class="right gainorloss">&#43;17.82%</td>
+				<td class="right num">2682</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					October 2015
+				</td>
+				
+				<td class="right num-f">624.31</td>
+				<td class="right num-p gainorloss">29.25</td>
+				<td class="right gainorloss">&#43;4.91%</td>
+				<td class="right num">1217</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					September 2015
+				</td>
+				
+				<td class="right num-f">595.06</td>
+				<td class="right num-p gainorloss">42.27</td>
+				<td class="right gainorloss">&#43;7.65%</td>
+				<td class="right num">1062</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					August 2015
+				</td>
+				
+				<td class="right num-f">552.80</td>
+				<td class="right num-p gainorloss">-20.31</td>
+				<td class="right gainorloss">-3.54%</td>
+				<td class="right num">1575</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					July 2015
+				</td>
+				
+				<td class="right num-f">573.11</td>
+				<td class="right num-p gainorloss">-159.89</td>
+				<td class="right gainorloss">-21.81%</td>
+				<td class="right num">1156</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					June 2015
+				</td>
+				
+				<td class="right num-f">732.99</td>
+				<td class="right num-p gainorloss">308.28</td>
+				<td class="right gainorloss">&#43;72.59%</td>
+				<td class="right num">2060</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					May 2015
+				</td>
+				
+				<td class="right num-f">424.71</td>
+				<td class="right num-p gainorloss">90.67</td>
+				<td class="right gainorloss">&#43;27.14%</td>
+				<td class="right num">945</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					April 2015
+				</td>
+				
+				<td class="right num-f">334.04</td>
+				<td class="right num-p gainorloss">-373.72</td>
+				<td class="right gainorloss">-52.80%</td>
+				<td class="right num">688</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					March 2015
+				</td>
+				
+				<td class="right num-f">707.76</td>
+				<td class="right num-p gainorloss">365.19</td>
+				<td class="right gainorloss">&#43;106.60%</td>
+				<td class="right num">1792</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					February 2015
+				</td>
+				
+				<td class="right num-f">342.57</td>
+				<td class="right num-p gainorloss">-132.46</td>
+				<td class="right gainorloss">-27.88%</td>
+				<td class="right num">831</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2015
+				</td>
+				
+				<td class="right num-f">475.03</td>
+				<td class="right num-p gainorloss">74.50</td>
+				<td class="right gainorloss">&#43;18.60%</td>
+				<td class="right num">1036</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2014
+				</td>
+				
+				<td class="right num-f">400.53</td>
+				<td class="right num-p gainorloss">178.73</td>
+				<td class="right gainorloss">&#43;80.58%</td>
+				<td class="right num">1395</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					November 2014
+				</td>
+				
+				<td class="right num-f">221.80</td>
+				<td class="right num-p gainorloss">-26.32</td>
+				<td class="right gainorloss">-10.61%</td>
+				<td class="right num">508</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					October 2014
+				</td>
+				
+				<td class="right num-f">248.12</td>
+				<td class="right num-p gainorloss">21.18</td>
+				<td class="right gainorloss">&#43;9.33%</td>
+				<td class="right num">585</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					September 2014
+				</td>
+				
+				<td class="right num-f">226.94</td>
+				<td class="right num-p gainorloss">55.73</td>
+				<td class="right gainorloss">&#43;32.55%</td>
+				<td class="right num">540</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					August 2014
+				</td>
+				
+				<td class="right num-f">171.22</td>
+				<td class="right num-p gainorloss">-119.14</td>
+				<td class="right gainorloss">-41.03%</td>
+				<td class="right num">600</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					July 2014
+				</td>
+				
+				<td class="right num-f">290.36</td>
+				<td class="right num-p gainorloss">82.36</td>
+				<td class="right gainorloss">&#43;39.60%</td>
+				<td class="right num">715</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					June 2014
+				</td>
+				
+				<td class="right num-f">208.00</td>
+				<td class="right num-p gainorloss">90.83</td>
+				<td class="right gainorloss">&#43;77.53%</td>
+				<td class="right num">1706</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					May 2014
+				</td>
+				
+				<td class="right num-f">117.16</td>
+				<td class="right num-p gainorloss">14.92</td>
+				<td class="right gainorloss">&#43;14.60%</td>
+				<td class="right num">266</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					April 2014
+				</td>
+				
+				<td class="right num-f">102.24</td>
+				<td class="right num-p gainorloss">-113.33</td>
+				<td class="right gainorloss">-52.57%</td>
+				<td class="right num">270</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					March 2014
+				</td>
+				
+				<td class="right num-f">215.57</td>
+				<td class="right num-p gainorloss">119.50</td>
+				<td class="right gainorloss">&#43;124.39%</td>
+				<td class="right num">629</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					February 2014
+				</td>
+				
+				<td class="right num-f">96.07</td>
+				<td class="right num-p gainorloss">-3.52</td>
+				<td class="right gainorloss">-3.53%</td>
+				<td class="right num">473</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2014
+				</td>
+				
+				<td class="right num-f">99.59</td>
+				<td class="right num-p gainorloss">18.15</td>
+				<td class="right gainorloss">&#43;22.29%</td>
+				<td class="right num">240</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2013
+				</td>
+				
+				<td class="right num-f">81.44</td>
+				<td class="right num-p gainorloss">-183.34</td>
+				<td class="right gainorloss">-69.24%</td>
+				<td class="right num">193</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					November 2013
+				</td>
+				
+				<td class="right num-f">264.78</td>
+				<td class="right num-p gainorloss">-</td>
+				<td class="right gainorloss">-</td>
+				<td class="right num">708</td>
+			</tr>
+			
+		</tbody>
+	</table>
+</div>
+
+<script>
+	d3.selectAll('.num').text(app.formatText);
+	d3.selectAll('.num-f').text(app.formatF1Text);
+	d3.selectAll('.num-p').text(app.formatPlusText);
+	d3.selectAll('.gainorloss').classed('gain',
+	function() { var text = this.textContent; return (text.length > 1 && text[0] == '+');})
+		.classed('loss',
+	function() { var text = this.textContent; return (text.length > 1 && text[0] == '-');});
+
+	$('abbr.timeago').timeago();
+
+	$.getJSON('/app/219990/chart-data.json', function(data) {
+		app.gameChart('app-longterm-chart', ["Grim Dawn"], [data]);
+	});
+</script>
+
+<div>
+	<div style="float: left; width:410px">
+		
+	<a class="twitter-timeline" href="https://twitter.com/steamcharts" data-widget-id="518237975872684032">Tweets by @steamcharts</a>
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	</div>
+	<div style="float: right">
+		<div id="nn_mpu1"></div>
+	</div>
+	<div style="clear:both">
+	</div>
+</div>
+<div id="footer">
+
+	
+	<a href="/about">About</a>
+	| <a href="/privacy">Privacy</a>
+	| <a href="/ads">Advertise</a>
+</div>
+
+	<div id="closing">
+		All data is <a href="http://steampowered.com">powered by Steam</a>. Not affiliated with Valve in any way. All trademarks are property of their respective owners in the US and other countries. Our goal is to provide unique insight into gaming trends. &copy; steamcharts.com
+	</div>
+</div>
+
+<script type="text/javascript">
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script>
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-2224718-9', 'steamcharts.com');
+ga('create', 'UA-31105670-10', 'auto', {'name': 'pcn'});
+ga('send', 'pageview');
+ga('pcn.send', 'pageview');
+</script>
+
+</body>
+</html>
