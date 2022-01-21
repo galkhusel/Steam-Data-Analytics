@@ -8,7 +8,7 @@ END = 29237
 
 SCRAPPER_PATH = "F:/BACKUP/Estudios/Coding/CoderHouse Data Analytics/Steam Data Analytics/SCRAPPER"
 APP_LIST_PATH = "F:/BACKUP/Estudios/Coding/CoderHouse Data Analytics/Steam Data Analytics"
-PARSED_CSV_PATH = ""
+PARSED_CSV_PATH = "F:/BACKUP/Estudios/Coding/CoderHouse Data Analytics/Steam Data Analytics/PARSER/CSV"
 
 def parse(soup):
 
