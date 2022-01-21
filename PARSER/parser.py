@@ -4,11 +4,11 @@ import json
 import time
 
 START = 0
-END = 29237
+END = 0
 
 SCRAPPER_PATH = "F:/BACKUP/Estudios/Coding/CoderHouse Data Analytics/Steam Data Analytics/SCRAPPER"
 APP_LIST_PATH = "F:/BACKUP/Estudios/Coding/CoderHouse Data Analytics/Steam Data Analytics"
-PARSED_CSV_PATH = ""
+#PARSED_CSV_PATH = 
 
 def parse(soup):
 
