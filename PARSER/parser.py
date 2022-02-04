@@ -5,10 +5,15 @@ import time
 
 START = 0
 END = 29237
+"END_END = 29237"
 
-SCRAPPER_PATH = "F:/BACKUP/Estudios/Coding/CoderHouse Data Analytics/Steam Data Analytics/SCRAPPER"
-APP_LIST_PATH = "F:/BACKUP/Estudios/Coding/CoderHouse Data Analytics/Steam Data Analytics"
-PARSED_CSV_PATH = "F:/BACKUP/Estudios/Coding/CoderHouse Data Analytics/Steam Data Analytics/PARSER/CSV"
+SCRAPPER_PATH = "C:/Users/Mariano/Desktop/Steam-Data-Analytics-main/SCRAPPER"
+APP_LIST_PATH = "C:/Users/Mariano/Desktop/Steam-Data-Analytics-main"
+PARSED_CSV_PATH = "C:/Users/Mariano/Desktop/Steam-Data-Analytics-main/PARSER/"
+
+HEADER_PRICE_HISTORY = ['Date', 'Price', 'Gain', 'Discount','game_id']
+HEADER_SALES = ['Sale', 'Date Start', 'Price', 'Discount','game_id']
+HEADER_PLAYER_BASE = ['Month', 'Avg. Players', 'Gain', '% Gain', 'Peak Players','game_id']
 
 def parse(soup):
 
@@ -16,70 +21,66 @@ def parse(soup):
 	line =soup.find_all(['th', 'td'])
 
 	for col in line:
-		line_list.append(col.get_text())
-		
+
+		aux = col.get_text().strip()
+		print(aux)
+		line_list.append(aux)
 
 	return line_list
 
-def parser(soup):
+def parse_table(soup,game_id):
 
+	game_id = game_id.strip()
 	list_csv = []
 	tr = soup.find_all('tr')
 
 	for line in tr:
-		list_csv.append(parse(line))
+		list_csv.append(parse(line)+[game_id])
 
-	return list_csv
 
-def open_file(id_):
-	
+	return list_csv[1:]
+
+
+def parser(game_id):
+
 	try:
-		with open (SCRAPPER_PATH + "/sprice/sp"+ str(id_) + ".txt", "r") as sp_txt:
-			with open (SCRAPPER_PATH + "/scharts/sc"+ str(id_) + ".txt", "r") as sc_txt:
-				
-				soup_sp = BeautifulSoup(sp_txt, 'html.parser')
-				table_separator_sp = soup_sp.find_all('table')
+		with open (SCRAPPER_PATH + "/sprice/sp"+ str(game_id) + ".txt", "r") as sp_txt, open (SCRAPPER_PATH + "/scharts/sc"+ str(game_id) + ".txt", "r") as sc_txt:
 
-				x = 0
-				for table in table_separator_sp:
-					list_csv = parser(table)
-					print(list_csv)
-					print("------------")
-					print("------------")
-					print("------------")
-					print("------------")
-					print("------------")
-					"""
-					with open("output.csv", "wb") as f:
-					    writer = csv.writer(f)
-					    writer.writerows(a)
-					print(x)
-					x+=1"""
+			soup_sp = BeautifulSoup(sp_txt, 'html.parser')
+			table_separator_sp = soup_sp.find_all('table')
+			if len(table_separator_sp) < 4: return [],[],[]
+			_, player_price_history, sales_table, _ = table_separator_sp
+			print(game_id)
+			lph = parse_table(player_price_history,game_id)
+			ls = parse_table(sales_table,game_id)
+			soup_sc = BeautifulSoup(sc_txt, 'html.parser')
+			aux=soup_sc.find_all('table')
+			if len(aux) == 0: return [],[],[]
+			table_player_base = aux[0]
+			lpb = parse_table(table_player_base,game_id)
 
-				soup_sc = BeautifulSoup(sc_txt, 'html.parser')
-				table_separator_sc = soup_sc.find_all('table')
 
-				for table in table_separator_sc:
-					list_csv = parser(table)
-					print(list_csv)
-					print("------------")
-					print("------------")
-					print("------------")
-					print("------------")
-					print("------------")
-				
-	except:
-		return 0
+	except FileNotFoundError:
+		return [],[],[]
 
-	return 1
+	return lph, ls, lpb
 
-def file_loop (idlist,start,end):
+def write_csv (idlist,start,end):
 
-	for id_pos in range(start, end+1):
+	with open (PARSED_CSV_PATH + "player_base"+ ".csv", "w") as pb_csv, open (PARSED_CSV_PATH + "sales"+ ".csv", "w") as s_csv, open (PARSED_CSV_PATH + "price_history"+ ".csv", "w") as ph_csv:
 
-		id_ = idlist[id_pos]
-		print(id_)
-		open_file(id_)
+		pb = csv.writer(pb_csv, delimiter=';')
+		s = csv.writer(s_csv, delimiter=';')
+		ph = csv.writer(ph_csv, delimiter=';')
+		pb.writerow(HEADER_PLAYER_BASE)
+		s.writerow(HEADER_SALES)
+		ph.writerow(HEADER_PRICE_HISTORY)
+
+		for game_id_pos in idlist[start:end+1]:
+			list_pb, list_s, list_ph = parser(game_id_pos)
+			pb.writerows(list_pb)
+			s.writerows(list_s)
+			ph.writerows(list_ph)
 
 
 def get_id(PATH):
@@ -88,19 +89,18 @@ def get_id(PATH):
 
 	with open (PATH,encoding="utf8") as file:
 		fcsv = csv.reader(file,delimiter=",")
-		
+
 		for fila in fcsv:
 			list_.append(fila[0])
 
 	return list_
 
-
-
 def main():
 
 	idlist = get_id(APP_LIST_PATH + "/app_list.csv")
 	idlist.pop(0)
-	file_loop(idlist,START,END)
+	write_csv(idlist,START,END)
+	#add_column_number(csv)
 	return 1
 
 main()
