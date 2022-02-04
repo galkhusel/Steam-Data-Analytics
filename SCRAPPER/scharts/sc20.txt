@@ -49,11 +49,11 @@
 		alt="Team Fortress Classic"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">88</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:22:33Z"></abbr>
+		<span class="num">48</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:19:46Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">123</span>
+		<span class="num">105</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">63.26</td>
-				<td class="right num-p gainorloss italic">&#43;5.1</td>
-				<td class="right gainorloss italic">&#43;8.75%</td>
-				<td class="right num italic">123</td>
+				<td class="right num-f italic">65.67</td>
+				<td class="right num-p gainorloss italic">-1.7</td>
+				<td class="right gainorloss italic">-2.58%</td>
+				<td class="right num italic">145</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">67.41</td>
+				<td class="right num-p gainorloss">3.52</td>
+				<td class="right gainorloss">&#43;5.51%</td>
+				<td class="right num">145</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">63.89</td>
+				<td class="right num-p gainorloss">5.72</td>
+				<td class="right gainorloss">&#43;9.83%</td>
+				<td class="right num">129</td>
 			</tr>
 			
 			<tr >

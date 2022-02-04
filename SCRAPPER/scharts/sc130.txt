@@ -49,11 +49,11 @@
 		alt="Half-Life: Blue Shift"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">80</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T21:23:34Z"></abbr>
+		<span class="num">63</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:24:21Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">92</span>
+		<span class="num">82</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">49.72</td>
-				<td class="right num-p gainorloss italic">&#43;12.2</td>
-				<td class="right gainorloss italic">&#43;32.56%</td>
-				<td class="right num italic">110</td>
+				<td class="right num-f italic">53.83</td>
+				<td class="right num-p gainorloss italic">-2.3</td>
+				<td class="right gainorloss italic">-4.11%</td>
+				<td class="right num italic">104</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">56.14</td>
+				<td class="right num-p gainorloss">5.56</td>
+				<td class="right gainorloss">&#43;11.00%</td>
+				<td class="right num">117</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">50.57</td>
+				<td class="right num-p gainorloss">13.07</td>
+				<td class="right gainorloss">&#43;34.83%</td>
+				<td class="right num">110</td>
 			</tr>
 			
 			<tr >

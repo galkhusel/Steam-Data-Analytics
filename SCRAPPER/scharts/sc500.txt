@@ -49,11 +49,11 @@
 		alt="Left 4 Dead"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">975</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:06:06Z"></abbr>
+		<span class="num">702</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:05:15Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">1048</span>
+		<span class="num">1020</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">553.25</td>
-				<td class="right num-p gainorloss italic">-2.0</td>
-				<td class="right gainorloss italic">-0.37%</td>
-				<td class="right num italic">1060</td>
+				<td class="right num-f italic">673.72</td>
+				<td class="right num-p gainorloss italic">-19.3</td>
+				<td class="right gainorloss italic">-2.79%</td>
+				<td class="right num italic">1235</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">693.03</td>
+				<td class="right num-p gainorloss">132.83</td>
+				<td class="right gainorloss">&#43;23.71%</td>
+				<td class="right num">1308</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">560.20</td>
+				<td class="right num-p gainorloss">4.90</td>
+				<td class="right gainorloss">&#43;0.88%</td>
+				<td class="right num">1091</td>
 			</tr>
 			
 			<tr >
