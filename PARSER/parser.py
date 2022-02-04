@@ -1,5 +1,8 @@
 from bs4 import BeautifulSoup
 import csv
+import mysql.connector
+from mysql.connector import Error
+import pandas as pd
 import json
 import time
 
@@ -15,6 +18,12 @@ HEADER_PRICE_HISTORY = ['Date', 'Price', 'Gain', 'Discount','game_id']
 HEADER_SALES = ['Sale', 'Date Start', 'Price', 'Discount','game_id']
 HEADER_PLAYER_BASE = ['Month', 'Avg. Players', 'Gain', '% Gain', 'Peak Players','game_id']
 
+PLAYER_BASE_PATH = "C:/Users/Mariano/Desktop/Steam-Data-Analytics-main/PARSER/price_history.csv"
+SALES_PATH = "C:/Users/Mariano/Desktop/Steam-Data-Analytics-main/PARSER/sales.csv"
+
+
+
+
 def parse(soup):
 
 	line_list = []
@@ -23,7 +32,6 @@ def parse(soup):
 	for col in line:
 
 		aux = col.get_text().strip()
-		print(aux)
 		line_list.append(aux)
 
 	return line_list
@@ -95,12 +103,79 @@ def get_id(PATH):
 
 	return list_
 
+def update_player_base(connection, cursor):
+	try:
+		pb_csv = pd.read_csv(PLAYER_BASE_PATH, delimiter=";")
+		for i, row in pb_csv.iterrows():
+			sql = "INSERT INTO coder.player_base VALUES (%s,%s,%s,%s,%s,%s)"
+			aux = tuple(row)
+			sentinela = True
+
+			if len(aux) < 6:
+				continue
+			for i in range(6):
+				if pd.isna(aux[i]):
+					sentinela = False
+			if sentinela:
+				params = [aux[0], str(aux[1]), aux[2], aux[3], str(aux[4]), str(aux[5])]
+				cursor.execute(sql, params)
+				print("Record inserted")
+				connection.commit()
+	except Error as e:
+		print("Error de SQL: ", e)
+
+def update_sales(connection, cursor):
+try:
+	pb_csv = pd.read_csv(SALES_PATH, delimiter=";")
+	for i, row in pb_csv.iterrows():
+		sql = "INSERT INTO coder.player_base VALUES (%s,%s,%s,%s,%s,%s)"
+		aux = tuple(row)
+		sentinela = True
+
+		if len(aux) < 6:
+			continue
+		for i in range(6):
+			if pd.isna(aux[i]):
+				sentinela = False
+		if sentinela:
+			params = [aux[0], str(aux[1]), aux[2], aux[3], str(aux[4]), str(aux[5])]
+			cursor.execute(sql, params)
+			print("Record inserted")
+			connection.commit()
+except Error as e:
+	print("Error de SQL: ", e)
+
 def main():
 
-	idlist = get_id(APP_LIST_PATH + "/app_list.csv")
+	"""idlist = get_id(APP_LIST_PATH + "/app_list.csv")
 	idlist.pop(0)
 	write_csv(idlist,START,END)
-	#add_column_number(csv)
+	#add_column_number(csv)"""
+	try:
+		connection = mysql.connector.connect(host='localhost', database='coder', user='root', password='')
+		cursor = connection.cursor()
+		cursor.execute("select database();")
+		record = cursor.fetchone()
+		print("You're connected to database: ", record)
+		pb_csv = pd.read_csv(PLAYER_BASE_PATH, delimiter=";")
+		for i, row in pb_csv.iterrows():
+			sql = "INSERT INTO coder.player_base VALUES (%s,%s,%s,%s,%s,%s)"
+			aux = tuple(row)
+			sentinela = True
+
+			if len(aux) < 6:
+				continue
+			for i in range(6):
+				if pd.isna(aux[i]):
+					sentinela = False
+			if sentinela:
+				params = [aux[0], str(aux[1]), aux[2], aux[3], str(aux[4]), str(aux[5])]
+				cursor.execute(sql, params)
+				print("Record inserted")
+				connection.commit()
+
+	except Error as e:
+		print("Error de SQL: ", e)
 	return 1
 
 main()
