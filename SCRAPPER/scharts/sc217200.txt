@@ -49,11 +49,11 @@
 		alt="Worms Armageddon"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">245</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:14:38Z"></abbr>
+		<span class="num">412</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:10:15Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">418</span>
+		<span class="num">412</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">178.75</td>
-				<td class="right num-p gainorloss italic">-7.9</td>
-				<td class="right gainorloss italic">-4.23%</td>
-				<td class="right num italic">440</td>
+				<td class="right num-f italic">217.56</td>
+				<td class="right num-p gainorloss italic">-6.4</td>
+				<td class="right gainorloss italic">-2.87%</td>
+				<td class="right num italic">569</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">223.98</td>
+				<td class="right num-p gainorloss">41.53</td>
+				<td class="right gainorloss">&#43;22.76%</td>
+				<td class="right num">569</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">182.45</td>
+				<td class="right num-p gainorloss">-4.18</td>
+				<td class="right gainorloss">-2.24%</td>
+				<td class="right num">444</td>
 			</tr>
 			
 			<tr >

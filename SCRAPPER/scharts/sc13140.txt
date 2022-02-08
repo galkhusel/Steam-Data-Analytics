@@ -49,11 +49,11 @@
 		alt="America&#39;s Army 3"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">6</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:22:41Z"></abbr>
+		<span class="num">4</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:37:32Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">10</span>
+		<span class="num">6</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">2.82</td>
-				<td class="right num-p gainorloss italic">&#43;0.9</td>
-				<td class="right gainorloss italic">&#43;44.01%</td>
-				<td class="right num italic">10</td>
+				<td class="right num-f italic">3.81</td>
+				<td class="right num-p gainorloss italic">&#43;0.0</td>
+				<td class="right gainorloss italic">&#43;0.78%</td>
+				<td class="right num italic">14</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">3.78</td>
+				<td class="right num-p gainorloss">0.86</td>
+				<td class="right gainorloss">&#43;29.36%</td>
+				<td class="right num">14</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">2.92</td>
+				<td class="right num-p gainorloss">0.97</td>
+				<td class="right gainorloss">&#43;49.58%</td>
+				<td class="right num">10</td>
 			</tr>
 			
 			<tr >

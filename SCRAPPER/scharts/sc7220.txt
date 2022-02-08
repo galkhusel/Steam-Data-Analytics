@@ -49,11 +49,11 @@
 		alt="Runaway: The Dream of the Turtle"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">4</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:22:51Z"></abbr>
+		<span class="num">7</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:10:47Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">8</span>
+		<span class="num">7</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">3.53</td>
-				<td class="right num-p gainorloss italic">&#43;0.5</td>
-				<td class="right gainorloss italic">&#43;15.96%</td>
-				<td class="right num italic">11</td>
+				<td class="right num-f italic">3.85</td>
+				<td class="right num-p gainorloss italic">-0.2</td>
+				<td class="right gainorloss italic">-5.86%</td>
+				<td class="right num italic">14</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">4.09</td>
+				<td class="right num-p gainorloss">0.48</td>
+				<td class="right gainorloss">&#43;13.33%</td>
+				<td class="right num">14</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">3.61</td>
+				<td class="right num-p gainorloss">0.57</td>
+				<td class="right gainorloss">&#43;18.80%</td>
+				<td class="right num">12</td>
 			</tr>
 			
 			<tr >

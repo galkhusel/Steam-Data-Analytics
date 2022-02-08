@@ -49,11 +49,11 @@
 		alt="Call of Duty: Black Ops"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">506</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:05:38Z"></abbr>
+		<span class="num">551</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:07:58Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">827</span>
+		<span class="num">722</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">448.67</td>
-				<td class="right num-p gainorloss italic">&#43;12.0</td>
-				<td class="right gainorloss italic">&#43;2.75%</td>
-				<td class="right num italic">903</td>
+				<td class="right num-f italic">474.11</td>
+				<td class="right num-p gainorloss italic">-14.4</td>
+				<td class="right gainorloss italic">-2.94%</td>
+				<td class="right num italic">888</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">488.49</td>
+				<td class="right num-p gainorloss">26.86</td>
+				<td class="right gainorloss">&#43;5.82%</td>
+				<td class="right num">934</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">461.63</td>
+				<td class="right num-p gainorloss">24.97</td>
+				<td class="right gainorloss">&#43;5.72%</td>
+				<td class="right num">903</td>
 			</tr>
 			
 			<tr >

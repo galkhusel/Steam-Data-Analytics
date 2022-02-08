@@ -49,11 +49,11 @@
 		alt="The Secret of Monkey Island: Special Edition"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">61</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:20:36Z"></abbr>
+		<span class="num">53</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:16:51Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">131</span>
+		<span class="num">87</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">43.92</td>
-				<td class="right num-p gainorloss italic">&#43;8.0</td>
-				<td class="right gainorloss italic">&#43;22.25%</td>
-				<td class="right num italic">137</td>
+				<td class="right num-f italic">49.83</td>
+				<td class="right num-p gainorloss italic">-4.2</td>
+				<td class="right gainorloss italic">-7.72%</td>
+				<td class="right num italic">127</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">54.00</td>
+				<td class="right num-p gainorloss">7.93</td>
+				<td class="right gainorloss">&#43;17.21%</td>
+				<td class="right num">150</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">46.07</td>
+				<td class="right num-p gainorloss">10.15</td>
+				<td class="right gainorloss">&#43;28.25%</td>
+				<td class="right num">137</td>
 			</tr>
 			
 			<tr >

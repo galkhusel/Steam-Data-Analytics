@@ -49,11 +49,11 @@
 		alt="FINAL FANTASY VII"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">466</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:07:34Z"></abbr>
+		<span class="num">350</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:10:20Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">625</span>
+		<span class="num">437</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">300.04</td>
-				<td class="right num-p gainorloss italic">&#43;48.1</td>
-				<td class="right gainorloss italic">&#43;19.10%</td>
-				<td class="right num italic">648</td>
+				<td class="right num-f italic">409.64</td>
+				<td class="right num-p gainorloss italic">-30.4</td>
+				<td class="right gainorloss italic">-6.90%</td>
+				<td class="right num italic">759</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">439.99</td>
+				<td class="right num-p gainorloss">116.99</td>
+				<td class="right gainorloss">&#43;36.22%</td>
+				<td class="right num">782</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">323.00</td>
+				<td class="right num-p gainorloss">71.08</td>
+				<td class="right gainorloss">&#43;28.22%</td>
+				<td class="right num">674</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="Secret World Legends"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">86</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:22:39Z"></abbr>
+		<span class="num">110</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:17:55Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">140</span>
+		<span class="num">130</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">74.52</td>
-				<td class="right num-p gainorloss italic">-11.9</td>
-				<td class="right gainorloss italic">-13.80%</td>
-				<td class="right num italic">143</td>
+				<td class="right num-f italic">80.90</td>
+				<td class="right num-p gainorloss italic">-1.7</td>
+				<td class="right gainorloss italic">-2.11%</td>
+				<td class="right num italic">192</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">82.65</td>
+				<td class="right num-p gainorloss">6.84</td>
+				<td class="right gainorloss">&#43;9.03%</td>
+				<td class="right num">192</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">75.81</td>
+				<td class="right num-p gainorloss">-10.64</td>
+				<td class="right gainorloss">-12.31%</td>
+				<td class="right num">143</td>
 			</tr>
 			
 			<tr >

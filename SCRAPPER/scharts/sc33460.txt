@@ -49,11 +49,11 @@
 		alt="From Dust"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">15</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:44:33Z"></abbr>
+		<span class="num">8</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:36:40Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">17</span>
+		<span class="num">11</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">7.33</td>
-				<td class="right num-p gainorloss italic">&#43;0.6</td>
-				<td class="right gainorloss italic">&#43;9.35%</td>
-				<td class="right num italic">24</td>
+				<td class="right num-f italic">6.55</td>
+				<td class="right num-p gainorloss italic">-0.2</td>
+				<td class="right gainorloss italic">-2.52%</td>
+				<td class="right num italic">22</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">6.72</td>
+				<td class="right num-p gainorloss">-0.48</td>
+				<td class="right gainorloss">-6.69%</td>
+				<td class="right num">22</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">7.20</td>
+				<td class="right num-p gainorloss">0.50</td>
+				<td class="right gainorloss">&#43;7.41%</td>
+				<td class="right num">24</td>
 			</tr>
 			
 			<tr >

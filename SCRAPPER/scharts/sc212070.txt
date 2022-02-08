@@ -49,11 +49,11 @@
 		alt="Star Conflict"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">234</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:14:43Z"></abbr>
+		<span class="num">341</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:10:12Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">274</span>
+		<span class="num">341</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">158.56</td>
-				<td class="right num-p gainorloss italic">-2.8</td>
-				<td class="right gainorloss italic">-1.73%</td>
-				<td class="right num italic">299</td>
+				<td class="right num-f italic">202.23</td>
+				<td class="right num-p gainorloss italic">&#43;0.1</td>
+				<td class="right gainorloss italic">&#43;0.04%</td>
+				<td class="right num italic">361</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">202.16</td>
+				<td class="right num-p gainorloss">40.09</td>
+				<td class="right gainorloss">&#43;24.74%</td>
+				<td class="right num">361</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">162.07</td>
+				<td class="right num-p gainorloss">0.71</td>
+				<td class="right gainorloss">&#43;0.44%</td>
+				<td class="right num">299</td>
 			</tr>
 			
 			<tr >

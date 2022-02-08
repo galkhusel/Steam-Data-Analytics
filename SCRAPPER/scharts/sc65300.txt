@@ -49,11 +49,11 @@
 		alt="Dustforce"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">5</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:54:43Z"></abbr>
+		<span class="num">7</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:52:13Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">15</span>
+		<span class="num">23</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">8.11</td>
-				<td class="right num-p gainorloss italic">-0.3</td>
-				<td class="right gainorloss italic">-4.04%</td>
-				<td class="right num italic">20</td>
+				<td class="right num-f italic">9.74</td>
+				<td class="right num-p gainorloss italic">-0.0</td>
+				<td class="right gainorloss italic">-0.22%</td>
+				<td class="right num italic">28</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">9.76</td>
+				<td class="right num-p gainorloss">1.64</td>
+				<td class="right gainorloss">&#43;20.18%</td>
+				<td class="right num">28</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">8.12</td>
+				<td class="right num-p gainorloss">-0.32</td>
+				<td class="right gainorloss">-3.84%</td>
+				<td class="right num">20</td>
 			</tr>
 			
 			<tr >

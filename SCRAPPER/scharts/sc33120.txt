@@ -49,11 +49,11 @@
 		alt="Alien Shooter 2: Reloaded"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">134</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:12:33Z"></abbr>
+		<span class="num">79</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:15:13Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">232</span>
+		<span class="num">164</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">44.43</td>
-				<td class="right num-p gainorloss italic">&#43;25.3</td>
-				<td class="right gainorloss italic">&#43;131.73%</td>
-				<td class="right num italic">554</td>
+				<td class="right num-f italic">54.76</td>
+				<td class="right num-p gainorloss italic">&#43;2.6</td>
+				<td class="right gainorloss italic">&#43;4.94%</td>
+				<td class="right num italic">542</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">52.18</td>
+				<td class="right num-p gainorloss">-2.55</td>
+				<td class="right gainorloss">-4.67%</td>
+				<td class="right num">523</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">54.74</td>
+				<td class="right num-p gainorloss">35.57</td>
+				<td class="right gainorloss">&#43;185.51%</td>
+				<td class="right num">724</td>
 			</tr>
 			
 			<tr >

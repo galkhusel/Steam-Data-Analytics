@@ -49,11 +49,11 @@
 		alt="Men of War: Assault Squad"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">82</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:22:30Z"></abbr>
+		<span class="num">78</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:24:10Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">109</span>
+		<span class="num">94</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">59.14</td>
-				<td class="right num-p gainorloss italic">&#43;3.9</td>
-				<td class="right gainorloss italic">&#43;7.12%</td>
-				<td class="right num italic">113</td>
+				<td class="right num-f italic">64.10</td>
+				<td class="right num-p gainorloss italic">-1.1</td>
+				<td class="right gainorloss italic">-1.76%</td>
+				<td class="right num italic">125</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">65.25</td>
+				<td class="right num-p gainorloss">4.86</td>
+				<td class="right gainorloss">&#43;8.05%</td>
+				<td class="right num">125</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">60.39</td>
+				<td class="right num-p gainorloss">5.18</td>
+				<td class="right gainorloss">&#43;9.38%</td>
+				<td class="right num">113</td>
 			</tr>
 			
 			<tr >

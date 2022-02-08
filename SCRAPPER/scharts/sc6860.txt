@@ -49,11 +49,11 @@
 		alt="Hitman: Blood Money"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">90</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:21:42Z"></abbr>
+		<span class="num">102</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:19:35Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">124</span>
+		<span class="num">144</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">69.59</td>
-				<td class="right num-p gainorloss italic">&#43;3.3</td>
-				<td class="right gainorloss italic">&#43;4.99%</td>
-				<td class="right num italic">138</td>
+				<td class="right num-f italic">79.13</td>
+				<td class="right num-p gainorloss italic">-0.4</td>
+				<td class="right gainorloss italic">-0.50%</td>
+				<td class="right num italic">163</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">79.52</td>
+				<td class="right num-p gainorloss">9.68</td>
+				<td class="right gainorloss">&#43;13.85%</td>
+				<td class="right num">163</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">69.85</td>
+				<td class="right num-p gainorloss">3.56</td>
+				<td class="right gainorloss">&#43;5.38%</td>
+				<td class="right num">137</td>
 			</tr>
 			
 			<tr >

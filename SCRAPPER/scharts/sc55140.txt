@@ -49,11 +49,11 @@
 		alt="MX vs. ATV Reflex"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">32</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:24:40Z"></abbr>
+		<span class="num">63</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:28:58Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">71</span>
+		<span class="num">69</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">40.49</td>
-				<td class="right num-p gainorloss italic">-4.8</td>
-				<td class="right gainorloss italic">-10.54%</td>
-				<td class="right num italic">81</td>
+				<td class="right num-f italic">39.79</td>
+				<td class="right num-p gainorloss italic">-1.0</td>
+				<td class="right gainorloss italic">-2.40%</td>
+				<td class="right num italic">80</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">40.77</td>
+				<td class="right num-p gainorloss">-0.32</td>
+				<td class="right gainorloss">-0.78%</td>
+				<td class="right num">80</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">41.09</td>
+				<td class="right num-p gainorloss">-4.16</td>
+				<td class="right gainorloss">-9.20%</td>
+				<td class="right num">81</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="The Testament of Sherlock Holmes"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">23</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:42:36Z"></abbr>
+		<span class="num">26</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:39:03Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">29</span>
+		<span class="num">26</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">18.14</td>
-				<td class="right num-p gainorloss italic">&#43;3.0</td>
-				<td class="right gainorloss italic">&#43;19.58%</td>
-				<td class="right num italic">50</td>
+				<td class="right num-f italic">13.89</td>
+				<td class="right num-p gainorloss italic">-1.0</td>
+				<td class="right gainorloss italic">-6.61%</td>
+				<td class="right num italic">42</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">14.87</td>
+				<td class="right num-p gainorloss">-3.20</td>
+				<td class="right gainorloss">-17.73%</td>
+				<td class="right num">47</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">18.08</td>
+				<td class="right num-p gainorloss">2.91</td>
+				<td class="right gainorloss">&#43;19.16%</td>
+				<td class="right num">50</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="Torchlight II"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">597</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:08:27Z"></abbr>
+		<span class="num">398</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:08:41Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">597</span>
+		<span class="num">488</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">370.65</td>
-				<td class="right num-p gainorloss italic">-86.6</td>
-				<td class="right gainorloss italic">-18.94%</td>
-				<td class="right num italic">640</td>
+				<td class="right num-f italic">401.42</td>
+				<td class="right num-p gainorloss italic">-12.0</td>
+				<td class="right gainorloss italic">-2.89%</td>
+				<td class="right num italic">641</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">413.39</td>
+				<td class="right num-p gainorloss">40.40</td>
+				<td class="right gainorloss">&#43;10.83%</td>
+				<td class="right num">719</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">372.99</td>
+				<td class="right num-p gainorloss">-84.27</td>
+				<td class="right gainorloss">-18.43%</td>
+				<td class="right num">640</td>
 			</tr>
 			
 			<tr >

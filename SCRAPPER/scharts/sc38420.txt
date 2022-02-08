@@ -49,11 +49,11 @@
 		alt="Fallout Tactics"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">25</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:37:08Z"></abbr>
+		<span class="num">32</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:32:51Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">44</span>
+		<span class="num">47</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">25.31</td>
-				<td class="right num-p gainorloss italic">-1.8</td>
-				<td class="right gainorloss italic">-6.77%</td>
-				<td class="right num italic">53</td>
+				<td class="right num-f italic">26.07</td>
+				<td class="right num-p gainorloss italic">-0.4</td>
+				<td class="right gainorloss italic">-1.50%</td>
+				<td class="right num italic">59</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">26.47</td>
+				<td class="right num-p gainorloss">0.38</td>
+				<td class="right gainorloss">&#43;1.46%</td>
+				<td class="right num">59</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">26.09</td>
+				<td class="right num-p gainorloss">-1.06</td>
+				<td class="right gainorloss">-3.92%</td>
+				<td class="right num">53</td>
 			</tr>
 			
 			<tr >

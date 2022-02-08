@@ -49,11 +49,11 @@
 		alt="Rock of Ages"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">10</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:45:54Z"></abbr>
+		<span class="num">0</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T10:00:15Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">23</span>
+		<span class="num">8</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">5.06</td>
-				<td class="right num-p gainorloss italic">&#43;1.0</td>
-				<td class="right gainorloss italic">&#43;24.96%</td>
-				<td class="right num italic">23</td>
+				<td class="right num-f italic">4.49</td>
+				<td class="right num-p gainorloss italic">-0.5</td>
+				<td class="right gainorloss italic">-10.37%</td>
+				<td class="right num italic">14</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">5.01</td>
+				<td class="right num-p gainorloss">-0.23</td>
+				<td class="right gainorloss">-4.42%</td>
+				<td class="right num">18</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">5.24</td>
+				<td class="right num-p gainorloss">1.19</td>
+				<td class="right gainorloss">&#43;29.42%</td>
+				<td class="right num">23</td>
 			</tr>
 			
 			<tr >

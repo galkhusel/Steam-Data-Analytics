@@ -49,11 +49,11 @@
 		alt="Dungeon Siege 2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">31</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:29:22Z"></abbr>
+		<span class="num">58</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:27:16Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">55</span>
+		<span class="num">58</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">36.66</td>
-				<td class="right num-p gainorloss italic">&#43;1.0</td>
-				<td class="right gainorloss italic">&#43;2.89%</td>
-				<td class="right num italic">74</td>
+				<td class="right num-f italic">44.45</td>
+				<td class="right num-p gainorloss italic">-0.2</td>
+				<td class="right gainorloss italic">-0.41%</td>
+				<td class="right num italic">82</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">44.63</td>
+				<td class="right num-p gainorloss">7.59</td>
+				<td class="right gainorloss">&#43;20.50%</td>
+				<td class="right num">82</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">37.04</td>
+				<td class="right num-p gainorloss">1.41</td>
+				<td class="right gainorloss">&#43;3.95%</td>
+				<td class="right num">74</td>
 			</tr>
 			
 			<tr >

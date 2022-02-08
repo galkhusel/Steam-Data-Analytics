@@ -49,11 +49,11 @@
 		alt="Memoir &#39;44 Online"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">10</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:46:21Z"></abbr>
+		<span class="num">14</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:43:50Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">17</span>
+		<span class="num">23</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">8.63</td>
-				<td class="right num-p gainorloss italic">-0.6</td>
-				<td class="right gainorloss italic">-6.18%</td>
-				<td class="right num italic">23</td>
+				<td class="right num-f italic">10.38</td>
+				<td class="right num-p gainorloss italic">&#43;0.1</td>
+				<td class="right gainorloss italic">&#43;1.38%</td>
+				<td class="right num italic">26</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">10.24</td>
+				<td class="right num-p gainorloss">1.52</td>
+				<td class="right gainorloss">&#43;17.44%</td>
+				<td class="right num">26</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">8.72</td>
+				<td class="right num-p gainorloss">-0.48</td>
+				<td class="right gainorloss">-5.27%</td>
+				<td class="right num">23</td>
 			</tr>
 			
 			<tr >

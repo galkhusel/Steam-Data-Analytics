@@ -49,11 +49,11 @@
 		alt="Age of Empires® III (2007)"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">878</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:06:20Z"></abbr>
+		<span class="num">969</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:06:07Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">1197</span>
+		<span class="num">993</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">747.35</td>
-				<td class="right num-p gainorloss italic">-75.1</td>
-				<td class="right gainorloss italic">-9.13%</td>
-				<td class="right num italic">1239</td>
+				<td class="right num-f italic">773.63</td>
+				<td class="right num-p gainorloss italic">-19.6</td>
+				<td class="right gainorloss italic">-2.47%</td>
+				<td class="right num italic">1358</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">793.19</td>
+				<td class="right num-p gainorloss">33.83</td>
+				<td class="right gainorloss">&#43;4.46%</td>
+				<td class="right num">1395</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">759.36</td>
+				<td class="right num-p gainorloss">-63.11</td>
+				<td class="right gainorloss">-7.67%</td>
+				<td class="right num">1239</td>
 			</tr>
 			
 			<tr >

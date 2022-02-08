@@ -49,11 +49,11 @@
 		alt="Mini Ninjas"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">22</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:41:24Z"></abbr>
+		<span class="num">21</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:35:31Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">34</span>
+		<span class="num">27</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">12.24</td>
-				<td class="right num-p gainorloss italic">-4.3</td>
-				<td class="right gainorloss italic">-25.82%</td>
-				<td class="right num italic">38</td>
+				<td class="right num-f italic">13.98</td>
+				<td class="right num-p gainorloss italic">-0.0</td>
+				<td class="right gainorloss italic">-0.10%</td>
+				<td class="right num italic">37</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">13.99</td>
+				<td class="right num-p gainorloss">1.44</td>
+				<td class="right gainorloss">&#43;11.50%</td>
+				<td class="right num">37</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">12.55</td>
+				<td class="right num-p gainorloss">-3.95</td>
+				<td class="right gainorloss">-23.96%</td>
+				<td class="right num">38</td>
 			</tr>
 			
 			<tr >

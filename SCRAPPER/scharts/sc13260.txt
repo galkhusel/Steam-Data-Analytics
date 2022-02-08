@@ -49,11 +49,11 @@
 		alt="Unreal Development Kit"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">38</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:30:28Z"></abbr>
+		<span class="num">18</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:42:01Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">61</span>
+		<span class="num">50</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">35.37</td>
-				<td class="right num-p gainorloss italic">-3.4</td>
-				<td class="right gainorloss italic">-8.75%</td>
-				<td class="right num italic">95</td>
+				<td class="right num-f italic">37.60</td>
+				<td class="right num-p gainorloss italic">-1.6</td>
+				<td class="right gainorloss italic">-4.03%</td>
+				<td class="right num italic">104</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">39.18</td>
+				<td class="right num-p gainorloss">4.21</td>
+				<td class="right gainorloss">&#43;12.03%</td>
+				<td class="right num">104</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">34.97</td>
+				<td class="right num-p gainorloss">-3.80</td>
+				<td class="right gainorloss">-9.80%</td>
+				<td class="right num">93</td>
 			</tr>
 			
 			<tr >

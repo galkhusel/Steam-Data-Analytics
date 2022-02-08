@@ -49,11 +49,11 @@
 		alt="Resident Evil 6"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">815</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:07:25Z"></abbr>
+		<span class="num">616</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:05:22Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">815</span>
+		<span class="num">933</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">465.90</td>
-				<td class="right num-p gainorloss italic">-58.9</td>
-				<td class="right gainorloss italic">-11.22%</td>
-				<td class="right num italic">900</td>
+				<td class="right num-f italic">562.01</td>
+				<td class="right num-p gainorloss italic">-11.4</td>
+				<td class="right gainorloss italic">-1.99%</td>
+				<td class="right num italic">1036</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">573.43</td>
+				<td class="right num-p gainorloss">97.33</td>
+				<td class="right gainorloss">&#43;20.44%</td>
+				<td class="right num">1107</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">476.10</td>
+				<td class="right num-p gainorloss">-48.68</td>
+				<td class="right gainorloss">-9.28%</td>
+				<td class="right num">900</td>
 			</tr>
 			
 			<tr >

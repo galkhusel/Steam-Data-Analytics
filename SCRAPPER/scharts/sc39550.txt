@@ -49,11 +49,11 @@
 		alt="SpellForce 2 - Anniversary Edition"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">34</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:30:10Z"></abbr>
+		<span class="num">48</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:25:25Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">65</span>
+		<span class="num">64</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">39.66</td>
-				<td class="right num-p gainorloss italic">&#43;12.0</td>
-				<td class="right gainorloss italic">&#43;43.40%</td>
-				<td class="right num italic">106</td>
+				<td class="right num-f italic">37.09</td>
+				<td class="right num-p gainorloss italic">-1.5</td>
+				<td class="right gainorloss italic">-3.94%</td>
+				<td class="right num italic">97</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">38.61</td>
+				<td class="right num-p gainorloss">-2.12</td>
+				<td class="right gainorloss">-5.21%</td>
+				<td class="right num">97</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">40.73</td>
+				<td class="right num-p gainorloss">13.08</td>
+				<td class="right gainorloss">&#43;47.29%</td>
+				<td class="right num">106</td>
 			</tr>
 			
 			<tr >

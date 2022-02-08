@@ -49,11 +49,11 @@
 		alt="Duke Nukem Forever"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">32</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:32:03Z"></abbr>
+		<span class="num">40</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:31:25Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">47</span>
+		<span class="num">48</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">26.43</td>
-				<td class="right num-p gainorloss italic">-0.5</td>
-				<td class="right gainorloss italic">-1.86%</td>
-				<td class="right num italic">66</td>
+				<td class="right num-f italic">27.67</td>
+				<td class="right num-p gainorloss italic">-0.7</td>
+				<td class="right gainorloss italic">-2.46%</td>
+				<td class="right num italic">79</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">28.37</td>
+				<td class="right num-p gainorloss">1.48</td>
+				<td class="right gainorloss">&#43;5.51%</td>
+				<td class="right num">79</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">26.89</td>
+				<td class="right num-p gainorloss">-0.04</td>
+				<td class="right gainorloss">-0.15%</td>
+				<td class="right num">66</td>
 			</tr>
 			
 			<tr >

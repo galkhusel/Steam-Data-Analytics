@@ -49,15 +49,15 @@
 		alt="Project Zomboid"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">37552</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:01:12Z"></abbr>
+		<span class="num">37623</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:01:11Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">50608</span>
+		<span class="num">38199</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
-		<span class="num">50608</span>
+		<span class="num">65379</span>
 		<br>all-time peak
 	</div>
 </div>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">17639.24</td>
-				<td class="right num-p gainorloss italic">&#43;12680.6</td>
-				<td class="right gainorloss italic">&#43;255.73%</td>
-				<td class="right num italic">50608</td>
+				<td class="right num-f italic">39989.60</td>
+				<td class="right num-p gainorloss italic">-1967.6</td>
+				<td class="right gainorloss italic">-4.69%</td>
+				<td class="right num italic">64003</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">41957.17</td>
+				<td class="right num-p gainorloss">21634.65</td>
+				<td class="right gainorloss">&#43;106.46%</td>
+				<td class="right num">65379</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">20322.53</td>
+				<td class="right num-p gainorloss">15363.87</td>
+				<td class="right gainorloss">&#43;309.84%</td>
+				<td class="right num">53071</td>
 			</tr>
 			
 			<tr >

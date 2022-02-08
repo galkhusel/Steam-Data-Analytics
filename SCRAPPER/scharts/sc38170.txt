@@ -49,15 +49,15 @@
 		alt="Cradle of Rome"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">13</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:46:40Z"></abbr>
+		<span class="num">20</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:01:05Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">23</span>
+		<span class="num">30</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
-		<span class="num">29</span>
+		<span class="num">31</span>
 		<br>all-time peak
 	</div>
 </div>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">12.21</td>
-				<td class="right num-p gainorloss italic">&#43;0.2</td>
-				<td class="right gainorloss italic">&#43;1.46%</td>
-				<td class="right num italic">28</td>
+				<td class="right num-f italic">13.74</td>
+				<td class="right num-p gainorloss italic">-0.0</td>
+				<td class="right gainorloss italic">-0.18%</td>
+				<td class="right num italic">31</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">13.76</td>
+				<td class="right num-p gainorloss">1.24</td>
+				<td class="right gainorloss">&#43;9.93%</td>
+				<td class="right num">31</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">12.52</td>
+				<td class="right num-p gainorloss">0.48</td>
+				<td class="right gainorloss">&#43;4.02%</td>
+				<td class="right num">28</td>
 			</tr>
 			
 			<tr >

@@ -49,15 +49,15 @@
 		alt="Zuma&#39;s Revenge"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">194</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:15:10Z"></abbr>
+		<span class="num">235</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:10:43Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">234</span>
+		<span class="num">248</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
-		<span class="num">258</span>
+		<span class="num">264</span>
 		<br>all-time peak
 	</div>
 </div>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">167.65</td>
-				<td class="right num-p gainorloss italic">&#43;8.6</td>
-				<td class="right gainorloss italic">&#43;5.42%</td>
-				<td class="right num italic">238</td>
+				<td class="right num-f italic">189.60</td>
+				<td class="right num-p gainorloss italic">&#43;0.1</td>
+				<td class="right gainorloss italic">&#43;0.08%</td>
+				<td class="right num italic">264</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">189.46</td>
+				<td class="right num-p gainorloss">20.93</td>
+				<td class="right gainorloss">&#43;12.42%</td>
+				<td class="right num">264</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">168.53</td>
+				<td class="right num-p gainorloss">9.51</td>
+				<td class="right gainorloss">&#43;5.98%</td>
+				<td class="right num">238</td>
 			</tr>
 			
 			<tr >

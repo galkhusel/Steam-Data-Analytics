@@ -49,11 +49,11 @@
 		alt="IL-2 Sturmovik: 1946"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">45</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:30:11Z"></abbr>
+		<span class="num">51</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:27:46Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">64</span>
+		<span class="num">53</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">34.70</td>
-				<td class="right num-p gainorloss italic">-0.5</td>
-				<td class="right gainorloss italic">-1.31%</td>
-				<td class="right num italic">67</td>
+				<td class="right num-f italic">37.99</td>
+				<td class="right num-p gainorloss italic">-0.3</td>
+				<td class="right gainorloss italic">-0.74%</td>
+				<td class="right num italic">79</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">38.28</td>
+				<td class="right num-p gainorloss">3.39</td>
+				<td class="right gainorloss">&#43;9.72%</td>
+				<td class="right num">79</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">34.88</td>
+				<td class="right num-p gainorloss">-0.28</td>
+				<td class="right gainorloss">-0.79%</td>
+				<td class="right num">74</td>
 			</tr>
 			
 			<tr >

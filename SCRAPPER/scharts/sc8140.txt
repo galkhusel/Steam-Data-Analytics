@@ -49,11 +49,11 @@
 		alt="Tomb Raider: Underworld"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">47</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:27:43Z"></abbr>
+		<span class="num">38</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:29:17Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">66</span>
+		<span class="num">62</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">33.32</td>
-				<td class="right num-p gainorloss italic">-10.6</td>
-				<td class="right gainorloss italic">-24.21%</td>
-				<td class="right num italic">82</td>
+				<td class="right num-f italic">35.35</td>
+				<td class="right num-p gainorloss italic">-2.8</td>
+				<td class="right gainorloss italic">-7.45%</td>
+				<td class="right num italic">94</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">38.19</td>
+				<td class="right num-p gainorloss">4.43</td>
+				<td class="right gainorloss">&#43;13.11%</td>
+				<td class="right num">111</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">33.77</td>
+				<td class="right num-p gainorloss">-10.20</td>
+				<td class="right gainorloss">-23.19%</td>
+				<td class="right num">90</td>
 			</tr>
 			
 			<tr >

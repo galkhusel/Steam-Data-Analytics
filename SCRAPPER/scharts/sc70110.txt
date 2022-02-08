@@ -49,11 +49,11 @@
 		alt="Hacker Evolution - Untold"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">24</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:19:57Z"></abbr>
+		<span class="num">30</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:22:11Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">305</span>
+		<span class="num">526</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">39.08</td>
-				<td class="right num-p gainorloss italic">&#43;8.4</td>
-				<td class="right gainorloss italic">&#43;27.44%</td>
-				<td class="right num italic">1184</td>
+				<td class="right num-f italic">25.13</td>
+				<td class="right num-p gainorloss italic">-1.5</td>
+				<td class="right gainorloss italic">-5.57%</td>
+				<td class="right num italic">526</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">26.61</td>
+				<td class="right num-p gainorloss">-14.85</td>
+				<td class="right gainorloss">-35.83%</td>
+				<td class="right num">777</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">41.46</td>
+				<td class="right num-p gainorloss">10.79</td>
+				<td class="right gainorloss">&#43;35.20%</td>
+				<td class="right num">1184</td>
 			</tr>
 			
 			<tr >

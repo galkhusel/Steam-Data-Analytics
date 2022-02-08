@@ -49,11 +49,11 @@
 		alt="Victoria II"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1054</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:03:18Z"></abbr>
+		<span class="num">1606</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:05:05Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">1798</span>
+		<span class="num">1753</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">1120.65</td>
-				<td class="right num-p gainorloss italic">&#43;122.5</td>
-				<td class="right gainorloss italic">&#43;12.27%</td>
-				<td class="right num italic">1923</td>
+				<td class="right num-f italic">1240.13</td>
+				<td class="right num-p gainorloss italic">-16.5</td>
+				<td class="right gainorloss italic">-1.31%</td>
+				<td class="right num italic">2264</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">1256.64</td>
+				<td class="right num-p gainorloss">106.10</td>
+				<td class="right gainorloss">&#43;9.22%</td>
+				<td class="right num">2264</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">1150.53</td>
+				<td class="right num-p gainorloss">152.37</td>
+				<td class="right gainorloss">&#43;15.27%</td>
+				<td class="right num">1923</td>
 			</tr>
 			
 			<tr >

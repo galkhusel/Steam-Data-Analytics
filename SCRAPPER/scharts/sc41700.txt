@@ -49,11 +49,11 @@
 		alt="S.T.A.L.K.E.R.: Call of Pripyat"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">472</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:07:52Z"></abbr>
+		<span class="num">653</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:07:39Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">582</span>
+		<span class="num">701</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">318.24</td>
-				<td class="right num-p gainorloss italic">-26.1</td>
-				<td class="right gainorloss italic">-7.57%</td>
-				<td class="right num italic">638</td>
+				<td class="right num-f italic">389.94</td>
+				<td class="right num-p gainorloss italic">-6.6</td>
+				<td class="right gainorloss italic">-1.66%</td>
+				<td class="right num italic">812</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">396.53</td>
+				<td class="right num-p gainorloss">71.39</td>
+				<td class="right gainorloss">&#43;21.96%</td>
+				<td class="right num">812</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">325.14</td>
+				<td class="right num-p gainorloss">-19.15</td>
+				<td class="right gainorloss">-5.56%</td>
+				<td class="right num">638</td>
 			</tr>
 			
 			<tr >

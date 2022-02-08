@@ -49,11 +49,11 @@
 		alt="X-COM: UFO Defense"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">55</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:27:08Z"></abbr>
+		<span class="num">33</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:27:36Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">75</span>
+		<span class="num">58</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">38.87</td>
-				<td class="right num-p gainorloss italic">&#43;1.6</td>
-				<td class="right gainorloss italic">&#43;4.33%</td>
-				<td class="right num italic">79</td>
+				<td class="right num-f italic">37.99</td>
+				<td class="right num-p gainorloss italic">-1.4</td>
+				<td class="right gainorloss italic">-3.53%</td>
+				<td class="right num italic">80</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">39.38</td>
+				<td class="right num-p gainorloss">0.38</td>
+				<td class="right gainorloss">&#43;0.98%</td>
+				<td class="right num">86</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">38.99</td>
+				<td class="right num-p gainorloss">1.74</td>
+				<td class="right gainorloss">&#43;4.67%</td>
+				<td class="right num">75</td>
 			</tr>
 			
 			<tr >

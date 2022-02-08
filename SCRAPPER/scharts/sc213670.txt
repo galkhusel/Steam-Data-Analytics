@@ -49,11 +49,11 @@
 		alt="South Park™: The Stick of Truth™"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">782</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:07:13Z"></abbr>
+		<span class="num">540</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:07:46Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">1202</span>
+		<span class="num">677</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">438.00</td>
-				<td class="right num-p gainorloss italic">&#43;209.9</td>
-				<td class="right gainorloss italic">&#43;92.01%</td>
-				<td class="right num italic">1327</td>
+				<td class="right num-f italic">564.40</td>
+				<td class="right num-p gainorloss italic">-48.3</td>
+				<td class="right gainorloss italic">-7.88%</td>
+				<td class="right num italic">2108</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">612.67</td>
+				<td class="right num-p gainorloss">145.02</td>
+				<td class="right gainorloss">&#43;31.01%</td>
+				<td class="right num">2108</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">467.65</td>
+				<td class="right num-p gainorloss">239.54</td>
+				<td class="right gainorloss">&#43;105.01%</td>
+				<td class="right num">1327</td>
 			</tr>
 			
 			<tr >

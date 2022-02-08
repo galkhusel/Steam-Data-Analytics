@@ -49,11 +49,11 @@
 		alt="DmC Devil May Cry"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">143</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:17:22Z"></abbr>
+		<span class="num">128</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:14:53Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">153</span>
+		<span class="num">177</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">82.87</td>
-				<td class="right num-p gainorloss italic">&#43;7.9</td>
-				<td class="right gainorloss italic">&#43;10.54%</td>
-				<td class="right num italic">186</td>
+				<td class="right num-f italic">86.02</td>
+				<td class="right num-p gainorloss italic">-0.1</td>
+				<td class="right gainorloss italic">-0.14%</td>
+				<td class="right num italic">187</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">86.14</td>
+				<td class="right num-p gainorloss">2.67</td>
+				<td class="right gainorloss">&#43;3.19%</td>
+				<td class="right num">187</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">83.47</td>
+				<td class="right num-p gainorloss">8.51</td>
+				<td class="right gainorloss">&#43;11.35%</td>
+				<td class="right num">174</td>
 			</tr>
 			
 			<tr >

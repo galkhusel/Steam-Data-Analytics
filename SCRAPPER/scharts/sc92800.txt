@@ -49,8 +49,8 @@
 		alt="SpaceChem"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">22</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:07:50Z"></abbr>
+		<span class="num">26</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:36:22Z"></abbr>
 	</div>
 	<div class="app-stat"> 
 		<span class="num">30</span>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">20.81</td>
-				<td class="right num-p gainorloss italic">&#43;4.3</td>
-				<td class="right gainorloss italic">&#43;25.77%</td>
-				<td class="right num italic">66</td>
+				<td class="right num-f italic">16.79</td>
+				<td class="right num-p gainorloss italic">-1.0</td>
+				<td class="right gainorloss italic">-5.50%</td>
+				<td class="right num italic">39</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">17.76</td>
+				<td class="right num-p gainorloss">-3.47</td>
+				<td class="right gainorloss">-16.34%</td>
+				<td class="right num">42</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">21.23</td>
+				<td class="right num-p gainorloss">4.69</td>
+				<td class="right gainorloss">&#43;28.33%</td>
+				<td class="right num">66</td>
 			</tr>
 			
 			<tr >

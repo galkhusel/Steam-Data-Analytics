@@ -49,11 +49,11 @@
 		alt="RaceRoom Racing Experience "
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">854</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:07:27Z"></abbr>
+		<span class="num">1119</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:05:16Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">1097</span>
+		<span class="num">1119</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">468.69</td>
-				<td class="right num-p gainorloss italic">&#43;14.5</td>
-				<td class="right gainorloss italic">&#43;3.19%</td>
-				<td class="right num italic">1172</td>
+				<td class="right num-f italic">558.05</td>
+				<td class="right num-p gainorloss italic">-6.7</td>
+				<td class="right gainorloss italic">-1.19%</td>
+				<td class="right num italic">1435</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">564.78</td>
+				<td class="right num-p gainorloss">81.47</td>
+				<td class="right gainorloss">&#43;16.86%</td>
+				<td class="right num">1435</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">483.31</td>
+				<td class="right num-p gainorloss">29.10</td>
+				<td class="right gainorloss">&#43;6.41%</td>
+				<td class="right num">1172</td>
 			</tr>
 			
 			<tr >

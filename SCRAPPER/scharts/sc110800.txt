@@ -49,11 +49,11 @@
 		alt="L.A. Noire"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">315</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:11:28Z"></abbr>
+		<span class="num">356</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:11:04Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">449</span>
+		<span class="num">450</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">260.50</td>
-				<td class="right num-p gainorloss italic">&#43;46.7</td>
-				<td class="right gainorloss italic">&#43;21.84%</td>
-				<td class="right num italic">472</td>
+				<td class="right num-f italic">338.97</td>
+				<td class="right num-p gainorloss italic">-3.2</td>
+				<td class="right gainorloss italic">-0.93%</td>
+				<td class="right num italic">634</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">342.14</td>
+				<td class="right num-p gainorloss">77.27</td>
+				<td class="right gainorloss">&#43;29.17%</td>
+				<td class="right num">634</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">264.87</td>
+				<td class="right num-p gainorloss">51.07</td>
+				<td class="right gainorloss">&#43;23.89%</td>
+				<td class="right num">472</td>
 			</tr>
 			
 			<tr >

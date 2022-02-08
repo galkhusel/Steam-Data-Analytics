@@ -49,11 +49,11 @@
 		alt="Space Empires IV Deluxe"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">23</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T21:45:56Z"></abbr>
+		<span class="num">13</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:36:33Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">24</span>
+		<span class="num">28</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">15.27</td>
-				<td class="right num-p gainorloss italic">-2.3</td>
-				<td class="right gainorloss italic">-13.00%</td>
-				<td class="right num italic">30</td>
+				<td class="right num-f italic">18.76</td>
+				<td class="right num-p gainorloss italic">&#43;0.2</td>
+				<td class="right gainorloss italic">&#43;0.93%</td>
+				<td class="right num italic">31</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">18.59</td>
+				<td class="right num-p gainorloss">3.51</td>
+				<td class="right gainorloss">&#43;23.30%</td>
+				<td class="right num">31</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">15.08</td>
+				<td class="right num-p gainorloss">-2.48</td>
+				<td class="right gainorloss">-14.13%</td>
+				<td class="right num">30</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="King&#39;s Bounty: Warriors of the North"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">138</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:18:52Z"></abbr>
+		<span class="num">143</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:16:29Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">153</span>
+		<span class="num">143</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">85.11</td>
-				<td class="right num-p gainorloss italic">-2.3</td>
-				<td class="right gainorloss italic">-2.60%</td>
-				<td class="right num italic">164</td>
+				<td class="right num-f italic">92.07</td>
+				<td class="right num-p gainorloss italic">-2.6</td>
+				<td class="right gainorloss italic">-2.75%</td>
+				<td class="right num italic">179</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">94.68</td>
+				<td class="right num-p gainorloss">8.04</td>
+				<td class="right gainorloss">&#43;9.28%</td>
+				<td class="right num">182</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">86.64</td>
+				<td class="right num-p gainorloss">-0.75</td>
+				<td class="right gainorloss">-0.85%</td>
+				<td class="right num">164</td>
 			</tr>
 			
 			<tr >

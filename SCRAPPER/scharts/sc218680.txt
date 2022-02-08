@@ -49,11 +49,11 @@
 		alt="Scribblenauts Unlimited"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">95</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:24:37Z"></abbr>
+		<span class="num">74</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:24:59Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">112</span>
+		<span class="num">83</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">52.10</td>
-				<td class="right num-p gainorloss italic">&#43;6.6</td>
-				<td class="right gainorloss italic">&#43;14.61%</td>
-				<td class="right num italic">139</td>
+				<td class="right num-f italic">52.75</td>
+				<td class="right num-p gainorloss italic">-3.0</td>
+				<td class="right gainorloss italic">-5.44%</td>
+				<td class="right num italic">109</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">55.78</td>
+				<td class="right num-p gainorloss">2.19</td>
+				<td class="right gainorloss">&#43;4.09%</td>
+				<td class="right num">129</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">53.60</td>
+				<td class="right num-p gainorloss">8.14</td>
+				<td class="right gainorloss">&#43;17.90%</td>
+				<td class="right num">139</td>
 			</tr>
 			
 			<tr >

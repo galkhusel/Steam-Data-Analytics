@@ -49,11 +49,11 @@
 		alt="Arma 2: Operation Arrowhead"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">274</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:10:44Z"></abbr>
+		<span class="num">379</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:10:13Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">456</span>
+		<span class="num">477</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">258.02</td>
-				<td class="right num-p gainorloss italic">-30.5</td>
-				<td class="right gainorloss italic">-10.56%</td>
-				<td class="right num italic">560</td>
+				<td class="right num-f italic">284.97</td>
+				<td class="right num-p gainorloss italic">-6.1</td>
+				<td class="right gainorloss italic">-2.10%</td>
+				<td class="right num italic">580</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">291.08</td>
+				<td class="right num-p gainorloss">29.61</td>
+				<td class="right gainorloss">&#43;11.33%</td>
+				<td class="right num">580</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">261.46</td>
+				<td class="right num-p gainorloss">-27.02</td>
+				<td class="right gainorloss">-9.37%</td>
+				<td class="right num">560</td>
 			</tr>
 			
 			<tr >

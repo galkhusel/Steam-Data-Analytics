@@ -49,11 +49,11 @@
 		alt="Wargame: European Escalation"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">40</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:27:37Z"></abbr>
+		<span class="num">38</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:28:55Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">59</span>
+		<span class="num">61</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">25.27</td>
-				<td class="right num-p gainorloss italic">&#43;0.6</td>
-				<td class="right gainorloss italic">&#43;2.33%</td>
-				<td class="right num italic">59</td>
+				<td class="right num-f italic">33.88</td>
+				<td class="right num-p gainorloss italic">&#43;0.2</td>
+				<td class="right gainorloss italic">&#43;0.66%</td>
+				<td class="right num italic">69</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">33.66</td>
+				<td class="right num-p gainorloss">7.27</td>
+				<td class="right gainorloss">&#43;27.54%</td>
+				<td class="right num">69</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">26.39</td>
+				<td class="right num-p gainorloss">1.69</td>
+				<td class="right gainorloss">&#43;6.86%</td>
+				<td class="right num">60</td>
 			</tr>
 			
 			<tr >

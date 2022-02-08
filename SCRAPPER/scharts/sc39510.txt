@@ -49,15 +49,15 @@
 		alt="Gothic II: Gold Edition"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">664</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:05:55Z"></abbr>
+		<span class="num">719</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:07:35Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">863</span>
+		<span class="num">787</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
-		<span class="num">863</span>
+		<span class="num">1086</span>
 		<br>all-time peak
 	</div>
 </div>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">350.79</td>
-				<td class="right num-p gainorloss italic">&#43;70.5</td>
-				<td class="right gainorloss italic">&#43;25.15%</td>
-				<td class="right num italic">863</td>
+				<td class="right num-f italic">462.45</td>
+				<td class="right num-p gainorloss italic">-19.3</td>
+				<td class="right gainorloss italic">-4.01%</td>
+				<td class="right num italic">1062</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">481.74</td>
+				<td class="right num-p gainorloss">111.79</td>
+				<td class="right gainorloss">&#43;30.22%</td>
+				<td class="right num">1086</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">369.96</td>
+				<td class="right num-p gainorloss">89.67</td>
+				<td class="right gainorloss">&#43;31.99%</td>
+				<td class="right num">880</td>
 			</tr>
 			
 			<tr >

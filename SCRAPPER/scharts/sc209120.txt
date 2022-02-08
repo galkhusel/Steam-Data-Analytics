@@ -49,11 +49,11 @@
 		alt="Street Fighter X Tekken"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">5</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:22:45Z"></abbr>
+		<span class="num">2</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:43:45Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">7</span>
+		<span class="num">10</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">6.01</td>
-				<td class="right num-p gainorloss italic">&#43;0.4</td>
-				<td class="right gainorloss italic">&#43;6.18%</td>
-				<td class="right num italic">23</td>
+				<td class="right num-f italic">4.31</td>
+				<td class="right num-p gainorloss italic">-0.2</td>
+				<td class="right gainorloss italic">-4.07%</td>
+				<td class="right num italic">15</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">4.49</td>
+				<td class="right num-p gainorloss">-1.55</td>
+				<td class="right gainorloss">-25.59%</td>
+				<td class="right num">15</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">6.04</td>
+				<td class="right num-p gainorloss">0.37</td>
+				<td class="right gainorloss">&#43;6.60%</td>
+				<td class="right num">23</td>
 			</tr>
 			
 			<tr >

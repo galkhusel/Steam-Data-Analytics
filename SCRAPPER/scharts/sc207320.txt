@@ -49,8 +49,8 @@
 		alt="Ys: The Oath in Felghana"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">16</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:45:19Z"></abbr>
+		<span class="num">8</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:44:52Z"></abbr>
 	</div>
 	<div class="app-stat"> 
 		<span class="num">23</span>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">10.64</td>
-				<td class="right num-p gainorloss italic">&#43;2.9</td>
-				<td class="right gainorloss italic">&#43;36.75%</td>
-				<td class="right num italic">28</td>
+				<td class="right num-f italic">11.76</td>
+				<td class="right num-p gainorloss italic">-0.5</td>
+				<td class="right gainorloss italic">-4.08%</td>
+				<td class="right num italic">25</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">12.26</td>
+				<td class="right num-p gainorloss">1.27</td>
+				<td class="right gainorloss">&#43;11.55%</td>
+				<td class="right num">25</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">10.99</td>
+				<td class="right num-p gainorloss">3.21</td>
+				<td class="right gainorloss">&#43;41.25%</td>
+				<td class="right num">28</td>
 			</tr>
 			
 			<tr >

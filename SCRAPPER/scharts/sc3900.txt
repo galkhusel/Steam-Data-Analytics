@@ -49,11 +49,11 @@
 		alt="Sid Meier&#39;s Civilization IV"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">820</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:06:30Z"></abbr>
+		<span class="num">634</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:05:34Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">840</span>
+		<span class="num">851</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">586.29</td>
-				<td class="right num-p gainorloss italic">&#43;25.4</td>
-				<td class="right gainorloss italic">&#43;4.53%</td>
-				<td class="right num italic">901</td>
+				<td class="right num-f italic">668.94</td>
+				<td class="right num-p gainorloss italic">-5.9</td>
+				<td class="right gainorloss italic">-0.87%</td>
+				<td class="right num italic">1072</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">674.84</td>
+				<td class="right num-p gainorloss">81.00</td>
+				<td class="right gainorloss">&#43;13.64%</td>
+				<td class="right num">1072</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">593.84</td>
+				<td class="right num-p gainorloss">32.93</td>
+				<td class="right gainorloss">&#43;5.87%</td>
+				<td class="right num">901</td>
 			</tr>
 			
 			<tr >

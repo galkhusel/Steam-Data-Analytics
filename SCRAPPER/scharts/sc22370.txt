@@ -49,11 +49,11 @@
 		alt="Fallout 3 - Game of the Year Edition"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">864</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:06:35Z"></abbr>
+		<span class="num">656</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:05:42Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">943</span>
+		<span class="num">857</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">555.78</td>
-				<td class="right num-p gainorloss italic">-65.4</td>
-				<td class="right gainorloss italic">-10.53%</td>
-				<td class="right num italic">990</td>
+				<td class="right num-f italic">579.94</td>
+				<td class="right num-p gainorloss italic">-15.0</td>
+				<td class="right gainorloss italic">-2.52%</td>
+				<td class="right num italic">1038</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">594.94</td>
+				<td class="right num-p gainorloss">31.53</td>
+				<td class="right gainorloss">&#43;5.60%</td>
+				<td class="right num">1050</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">563.42</td>
+				<td class="right num-p gainorloss">-57.76</td>
+				<td class="right gainorloss">-9.30%</td>
+				<td class="right num">990</td>
 			</tr>
 			
 			<tr >

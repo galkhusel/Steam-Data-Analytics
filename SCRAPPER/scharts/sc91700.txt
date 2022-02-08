@@ -49,11 +49,11 @@
 		alt="E.Y.E: Divine Cybermancy"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">25</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:29:52Z"></abbr>
+		<span class="num">20</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:36:20Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">47</span>
+		<span class="num">39</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">24.69</td>
-				<td class="right num-p gainorloss italic">-0.5</td>
-				<td class="right gainorloss italic">-2.08%</td>
-				<td class="right num italic">55</td>
+				<td class="right num-f italic">23.77</td>
+				<td class="right num-p gainorloss italic">-1.0</td>
+				<td class="right gainorloss italic">-4.10%</td>
+				<td class="right num italic">70</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">24.78</td>
+				<td class="right num-p gainorloss">-0.02</td>
+				<td class="right gainorloss">-0.09%</td>
+				<td class="right num">70</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">24.80</td>
+				<td class="right num-p gainorloss">-0.41</td>
+				<td class="right gainorloss">-1.63%</td>
+				<td class="right num">57</td>
 			</tr>
 			
 			<tr >

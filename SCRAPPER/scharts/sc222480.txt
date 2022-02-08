@@ -49,11 +49,11 @@
 		alt="Resident Evil Revelations"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">121</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:19:11Z"></abbr>
+		<span class="num">83</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:19:25Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">136</span>
+		<span class="num">113</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">78.66</td>
-				<td class="right num-p gainorloss italic">-4.9</td>
-				<td class="right gainorloss italic">-5.89%</td>
-				<td class="right num italic">143</td>
+				<td class="right num-f italic">88.77</td>
+				<td class="right num-p gainorloss italic">-1.2</td>
+				<td class="right gainorloss italic">-1.35%</td>
+				<td class="right num italic">153</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">89.99</td>
+				<td class="right num-p gainorloss">10.34</td>
+				<td class="right gainorloss">&#43;12.98%</td>
+				<td class="right num">154</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">79.65</td>
+				<td class="right num-p gainorloss">-3.93</td>
+				<td class="right gainorloss">-4.70%</td>
+				<td class="right num">143</td>
 			</tr>
 			
 			<tr >

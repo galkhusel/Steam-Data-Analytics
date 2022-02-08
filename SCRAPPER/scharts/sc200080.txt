@@ -49,11 +49,11 @@
 		alt="Nancy Drew: Shadow at the Water&#39;s Edge"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">7</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:34:50Z"></abbr>
+		<span class="num">10</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:49:01Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">28</span>
+		<span class="num">25</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">9.49</td>
-				<td class="right num-p gainorloss italic">&#43;0.8</td>
-				<td class="right gainorloss italic">&#43;9.08%</td>
+				<td class="right num-f italic">11.60</td>
+				<td class="right num-p gainorloss italic">-0.5</td>
+				<td class="right gainorloss italic">-3.85%</td>
 				<td class="right num italic">34</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">12.06</td>
+				<td class="right num-p gainorloss">2.19</td>
+				<td class="right gainorloss">&#43;22.24%</td>
+				<td class="right num">34</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">9.87</td>
+				<td class="right num-p gainorloss">1.17</td>
+				<td class="right gainorloss">&#43;13.41%</td>
+				<td class="right num">34</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="Arsenal of Democracy"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">28</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:29:49Z"></abbr>
+		<span class="num">31</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:23:56Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">45</span>
+		<span class="num">35</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">27.39</td>
-				<td class="right num-p gainorloss italic">&#43;5.9</td>
-				<td class="right gainorloss italic">&#43;27.25%</td>
-				<td class="right num italic">60</td>
+				<td class="right num-f italic">27.87</td>
+				<td class="right num-p gainorloss italic">-0.8</td>
+				<td class="right gainorloss italic">-2.75%</td>
+				<td class="right num italic">57</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">28.66</td>
+				<td class="right num-p gainorloss">0.81</td>
+				<td class="right gainorloss">&#43;2.90%</td>
+				<td class="right num">57</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">27.85</td>
+				<td class="right num-p gainorloss">6.33</td>
+				<td class="right gainorloss">&#43;29.40%</td>
+				<td class="right num">60</td>
 			</tr>
 			
 			<tr >

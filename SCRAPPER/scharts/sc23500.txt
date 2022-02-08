@@ -49,11 +49,11 @@
 		alt="Puzzle Quest: Galactrix"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:30:48Z"></abbr>
+		<span class="num">0</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:08:40Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">4</span>
+		<span class="num">2</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">1.83</td>
-				<td class="right num-p gainorloss italic">-0.3</td>
-				<td class="right gainorloss italic">-15.62%</td>
+				<td class="right num-f italic">1.54</td>
+				<td class="right num-p gainorloss italic">-0.2</td>
+				<td class="right gainorloss italic">-10.17%</td>
 				<td class="right num italic">6</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">1.71</td>
+				<td class="right num-p gainorloss">-0.03</td>
+				<td class="right gainorloss">-1.68%</td>
+				<td class="right num">6</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">1.74</td>
+				<td class="right num-p gainorloss">-0.43</td>
+				<td class="right gainorloss">-19.72%</td>
+				<td class="right num">6</td>
 			</tr>
 			
 			<tr >

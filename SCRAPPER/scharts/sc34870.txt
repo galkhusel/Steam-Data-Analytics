@@ -49,11 +49,11 @@
 		alt="Sniper Ghost Warrior 2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">99</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:20:30Z"></abbr>
+		<span class="num">103</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:18:13Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">167</span>
+		<span class="num">156</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">73.17</td>
-				<td class="right num-p gainorloss italic">-6.7</td>
-				<td class="right gainorloss italic">-8.43%</td>
-				<td class="right num italic">188</td>
+				<td class="right num-f italic">73.04</td>
+				<td class="right num-p gainorloss italic">-2.9</td>
+				<td class="right gainorloss italic">-3.83%</td>
+				<td class="right num italic">189</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">75.95</td>
+				<td class="right num-p gainorloss">0.93</td>
+				<td class="right gainorloss">&#43;1.23%</td>
+				<td class="right num">189</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">75.02</td>
+				<td class="right num-p gainorloss">-4.88</td>
+				<td class="right gainorloss">-6.10%</td>
+				<td class="right num">188</td>
 			</tr>
 			
 			<tr >

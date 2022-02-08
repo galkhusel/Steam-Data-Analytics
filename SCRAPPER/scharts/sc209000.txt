@@ -49,11 +49,11 @@
 		alt="Batman™: Arkham Origins"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">682</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:07:50Z"></abbr>
+		<span class="num">606</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:06:04Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">915</span>
+		<span class="num">654</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">455.64</td>
-				<td class="right num-p gainorloss italic">&#43;83.5</td>
-				<td class="right gainorloss italic">&#43;22.45%</td>
-				<td class="right num italic">957</td>
+				<td class="right num-f italic">428.03</td>
+				<td class="right num-p gainorloss italic">-23.3</td>
+				<td class="right gainorloss italic">-5.16%</td>
+				<td class="right num italic">790</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">451.29</td>
+				<td class="right num-p gainorloss">-18.23</td>
+				<td class="right gainorloss">-3.88%</td>
+				<td class="right num">961</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">469.52</td>
+				<td class="right num-p gainorloss">97.43</td>
+				<td class="right gainorloss">&#43;26.18%</td>
+				<td class="right num">957</td>
 			</tr>
 			
 			<tr >

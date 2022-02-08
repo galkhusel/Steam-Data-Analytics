@@ -49,11 +49,11 @@
 		alt="Brothers in Arms: Road to Hill 30"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">13</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:46:59Z"></abbr>
+		<span class="num">14</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:43:46Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">23</span>
+		<span class="num">26</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">10.10</td>
-				<td class="right num-p gainorloss italic">&#43;0.0</td>
-				<td class="right gainorloss italic">&#43;0.39%</td>
-				<td class="right num italic">25</td>
+				<td class="right num-f italic">11.38</td>
+				<td class="right num-p gainorloss italic">&#43;0.2</td>
+				<td class="right gainorloss italic">&#43;2.13%</td>
+				<td class="right num italic">26</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">11.14</td>
+				<td class="right num-p gainorloss">0.98</td>
+				<td class="right gainorloss">&#43;9.68%</td>
+				<td class="right num">24</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">10.16</td>
+				<td class="right num-p gainorloss">0.10</td>
+				<td class="right gainorloss">&#43;0.98%</td>
+				<td class="right num">25</td>
 			</tr>
 			
 			<tr >

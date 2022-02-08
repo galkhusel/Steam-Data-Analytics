@@ -49,11 +49,11 @@
 		alt="Grim Dawn"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">7331</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:02:42Z"></abbr>
+		<span class="num">5115</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:00:56Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">7343</span>
+		<span class="num">6786</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">4313.96</td>
-				<td class="right num-p gainorloss italic">-82.1</td>
-				<td class="right gainorloss italic">-1.87%</td>
-				<td class="right num italic">8313</td>
+				<td class="right num-f italic">4720.72</td>
+				<td class="right num-p gainorloss italic">-193.2</td>
+				<td class="right gainorloss italic">-3.93%</td>
+				<td class="right num italic">8852</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">4913.96</td>
+				<td class="right num-p gainorloss">550.65</td>
+				<td class="right gainorloss">&#43;12.62%</td>
+				<td class="right num">9340</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">4363.30</td>
+				<td class="right num-p gainorloss">-32.76</td>
+				<td class="right gainorloss">-0.75%</td>
+				<td class="right num">8313</td>
 			</tr>
 			
 			<tr >

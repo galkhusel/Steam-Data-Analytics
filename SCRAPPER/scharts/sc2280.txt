@@ -49,8 +49,8 @@
 		alt="The Ultimate DOOM"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">98</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:24:24Z"></abbr>
+		<span class="num">61</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:22:06Z"></abbr>
 	</div>
 	<div class="app-stat"> 
 		<span class="num">101</span>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">53.92</td>
-				<td class="right num-p gainorloss italic">&#43;1.0</td>
-				<td class="right gainorloss italic">&#43;1.82%</td>
-				<td class="right num italic">122</td>
+				<td class="right num-f italic">59.36</td>
+				<td class="right num-p gainorloss italic">-1.1</td>
+				<td class="right gainorloss italic">-1.76%</td>
+				<td class="right num italic">127</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">60.42</td>
+				<td class="right num-p gainorloss">5.65</td>
+				<td class="right gainorloss">&#43;10.32%</td>
+				<td class="right num">127</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">54.77</td>
+				<td class="right num-p gainorloss">1.82</td>
+				<td class="right gainorloss">&#43;3.43%</td>
+				<td class="right num">122</td>
 			</tr>
 			
 			<tr >

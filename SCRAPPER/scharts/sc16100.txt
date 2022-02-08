@@ -49,11 +49,11 @@
 		alt="Virtual Villagers: A New Home"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">4</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:21:14Z"></abbr>
+		<span class="num">5</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:36:04Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">6</span>
+		<span class="num">7</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">3.50</td>
-				<td class="right num-p gainorloss italic">-0.9</td>
-				<td class="right gainorloss italic">-19.85%</td>
-				<td class="right num italic">14</td>
+				<td class="right num-f italic">4.93</td>
+				<td class="right num-p gainorloss italic">&#43;0.0</td>
+				<td class="right gainorloss italic">&#43;0.19%</td>
+				<td class="right num italic">12</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">4.92</td>
+				<td class="right num-p gainorloss">1.60</td>
+				<td class="right gainorloss">&#43;48.10%</td>
+				<td class="right num">12</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">3.32</td>
+				<td class="right num-p gainorloss">-1.05</td>
+				<td class="right gainorloss">-23.93%</td>
+				<td class="right num">10</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="Zombie Shooter 2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">8</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:35:21Z"></abbr>
+		<span class="num">7</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:07:13Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">9</span>
+		<span class="num">7</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">2.65</td>
-				<td class="right num-p gainorloss italic">-0.3</td>
-				<td class="right gainorloss italic">-9.05%</td>
-				<td class="right num italic">11</td>
+				<td class="right num-f italic">3.19</td>
+				<td class="right num-p gainorloss italic">&#43;0.1</td>
+				<td class="right gainorloss italic">&#43;4.79%</td>
+				<td class="right num italic">10</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">3.04</td>
+				<td class="right num-p gainorloss">0.07</td>
+				<td class="right gainorloss">&#43;2.26%</td>
+				<td class="right num">10</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">2.97</td>
+				<td class="right num-p gainorloss">0.06</td>
+				<td class="right gainorloss">&#43;2.13%</td>
+				<td class="right num">11</td>
 			</tr>
 			
 			<tr >

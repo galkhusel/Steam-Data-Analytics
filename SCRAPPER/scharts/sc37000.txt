@@ -49,11 +49,11 @@
 		alt="The Void"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">6</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:04:20Z"></abbr>
+		<span class="num">4</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:48:00Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">13</span>
+		<span class="num">5</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">3.12</td>
-				<td class="right num-p gainorloss italic">-1.0</td>
-				<td class="right gainorloss italic">-24.26%</td>
+				<td class="right num-f italic">3.82</td>
+				<td class="right num-p gainorloss italic">-0.5</td>
+				<td class="right gainorloss italic">-12.17%</td>
 				<td class="right num italic">13</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">4.35</td>
+				<td class="right num-p gainorloss">1.06</td>
+				<td class="right gainorloss">&#43;32.27%</td>
+				<td class="right num">17</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">3.29</td>
+				<td class="right num-p gainorloss">-0.83</td>
+				<td class="right gainorloss">-20.25%</td>
+				<td class="right num">13</td>
 			</tr>
 			
 			<tr >

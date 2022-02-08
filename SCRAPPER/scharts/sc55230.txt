@@ -49,11 +49,11 @@
 		alt="Saints Row: The Third"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">359</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:10:04Z"></abbr>
+		<span class="num">446</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:09:56Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">480</span>
+		<span class="num">464</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">320.07</td>
-				<td class="right num-p gainorloss italic">-87.5</td>
-				<td class="right gainorloss italic">-21.46%</td>
-				<td class="right num italic">648</td>
+				<td class="right num-f italic">294.90</td>
+				<td class="right num-p gainorloss italic">-6.7</td>
+				<td class="right gainorloss italic">-2.22%</td>
+				<td class="right num italic">508</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">301.60</td>
+				<td class="right num-p gainorloss">-12.97</td>
+				<td class="right gainorloss">-4.12%</td>
+				<td class="right num">533</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">314.56</td>
+				<td class="right num-p gainorloss">-92.97</td>
+				<td class="right gainorloss">-22.81%</td>
+				<td class="right num">609</td>
 			</tr>
 			
 			<tr >

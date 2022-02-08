@@ -49,11 +49,11 @@
 		alt="Aliens vs. Predator"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">172</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:17:02Z"></abbr>
+		<span class="num">97</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:19:49Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">172</span>
+		<span class="num">137</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">72.92</td>
-				<td class="right num-p gainorloss italic">&#43;10.3</td>
-				<td class="right gainorloss italic">&#43;16.48%</td>
-				<td class="right num italic">196</td>
+				<td class="right num-f italic">70.45</td>
+				<td class="right num-p gainorloss italic">-3.5</td>
+				<td class="right gainorloss italic">-4.74%</td>
+				<td class="right num italic">159</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">73.96</td>
+				<td class="right num-p gainorloss">2.18</td>
+				<td class="right gainorloss">&#43;3.04%</td>
+				<td class="right num">176</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">71.78</td>
+				<td class="right num-p gainorloss">9.17</td>
+				<td class="right gainorloss">&#43;14.65%</td>
+				<td class="right num">172</td>
 			</tr>
 			
 			<tr >

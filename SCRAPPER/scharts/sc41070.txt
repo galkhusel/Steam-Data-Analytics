@@ -49,11 +49,11 @@
 		alt="Serious Sam 3: BFE"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">190</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:14:48Z"></abbr>
+		<span class="num">301</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:12:51Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">251</span>
+		<span class="num">319</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">108.00</td>
-				<td class="right num-p gainorloss italic">&#43;10.7</td>
-				<td class="right gainorloss italic">&#43;10.96%</td>
-				<td class="right num italic">276</td>
+				<td class="right num-f italic">200.60</td>
+				<td class="right num-p gainorloss italic">&#43;1.0</td>
+				<td class="right gainorloss italic">&#43;0.50%</td>
+				<td class="right num italic">787</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">199.60</td>
+				<td class="right num-p gainorloss">88.71</td>
+				<td class="right gainorloss">&#43;80.00%</td>
+				<td class="right num">787</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">110.89</td>
+				<td class="right num-p gainorloss">13.56</td>
+				<td class="right gainorloss">&#43;13.93%</td>
+				<td class="right num">273</td>
 			</tr>
 			
 			<tr >

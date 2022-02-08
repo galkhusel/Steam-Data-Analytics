@@ -49,11 +49,11 @@
 		alt="Company of Heroes - Legacy Edition"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">161</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:17:17Z"></abbr>
+		<span class="num">119</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:17:11Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">188</span>
+		<span class="num">158</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">106.24</td>
-				<td class="right num-p gainorloss italic">&#43;13.3</td>
-				<td class="right gainorloss italic">&#43;14.28%</td>
-				<td class="right num italic">192</td>
+				<td class="right num-f italic">113.96</td>
+				<td class="right num-p gainorloss italic">-3.4</td>
+				<td class="right gainorloss italic">-2.89%</td>
+				<td class="right num italic">208</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">117.35</td>
+				<td class="right num-p gainorloss">8.21</td>
+				<td class="right gainorloss">&#43;7.53%</td>
+				<td class="right num">220</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">109.14</td>
+				<td class="right num-p gainorloss">16.17</td>
+				<td class="right gainorloss">&#43;17.39%</td>
+				<td class="right num">192</td>
 			</tr>
 			
 			<tr >

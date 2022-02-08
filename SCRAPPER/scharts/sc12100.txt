@@ -49,11 +49,11 @@
 		alt="Grand Theft Auto III"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">77</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:01:05Z"></abbr>
+		<span class="num">66</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:22:27Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">101</span>
+		<span class="num">80</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">101.27</td>
-				<td class="right num-p gainorloss italic">-81.6</td>
-				<td class="right gainorloss italic">-44.62%</td>
-				<td class="right num italic">255</td>
+				<td class="right num-f italic">64.31</td>
+				<td class="right num-p gainorloss italic">-1.7</td>
+				<td class="right gainorloss italic">-2.55%</td>
+				<td class="right num italic">119</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">65.99</td>
+				<td class="right num-p gainorloss">-28.26</td>
+				<td class="right gainorloss">-29.99%</td>
+				<td class="right num">119</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">94.25</td>
+				<td class="right num-p gainorloss">-88.62</td>
+				<td class="right gainorloss">-48.46%</td>
+				<td class="right num">217</td>
 			</tr>
 			
 			<tr >

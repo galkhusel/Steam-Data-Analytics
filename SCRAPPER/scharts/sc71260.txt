@@ -49,11 +49,11 @@
 		alt="Space Channel 5: Part 2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">10</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:52:19Z"></abbr>
+		<span class="num">4</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:58:04Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">11</span>
+		<span class="num">8</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">3.69</td>
-				<td class="right num-p gainorloss italic">&#43;0.6</td>
-				<td class="right gainorloss italic">&#43;17.89%</td>
+				<td class="right num-f italic">4.31</td>
+				<td class="right num-p gainorloss italic">-0.0</td>
+				<td class="right gainorloss italic">-1.00%</td>
 				<td class="right num italic">12</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">4.36</td>
+				<td class="right num-p gainorloss">0.44</td>
+				<td class="right gainorloss">&#43;11.26%</td>
+				<td class="right num">12</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">3.91</td>
+				<td class="right num-p gainorloss">0.78</td>
+				<td class="right gainorloss">&#43;24.99%</td>
+				<td class="right num">14</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="Delta Force: Black Hawk Down - Team Sabre"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">26</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:28:37Z"></abbr>
+		<span class="num">29</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:42:33Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">32</span>
+		<span class="num">31</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">18.69</td>
-				<td class="right num-p gainorloss italic">&#43;3.0</td>
-				<td class="right gainorloss italic">&#43;18.88%</td>
-				<td class="right num italic">37</td>
+				<td class="right num-f italic">17.20</td>
+				<td class="right num-p gainorloss italic">-0.5</td>
+				<td class="right gainorloss italic">-2.84%</td>
+				<td class="right num italic">35</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">17.71</td>
+				<td class="right num-p gainorloss">-1.36</td>
+				<td class="right gainorloss">-7.13%</td>
+				<td class="right num">45</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">19.07</td>
+				<td class="right num-p gainorloss">3.35</td>
+				<td class="right gainorloss">&#43;21.31%</td>
+				<td class="right num">37</td>
 			</tr>
 			
 			<tr >

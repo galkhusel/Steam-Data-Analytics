@@ -49,11 +49,11 @@
 		alt="Gothic 3 Forsaken Gods Enhanced Edition"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">11</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:47:07Z"></abbr>
+		<span class="num">22</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:43:35Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">29</span>
+		<span class="num">24</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">12.74</td>
-				<td class="right num-p gainorloss italic">-1.5</td>
-				<td class="right gainorloss italic">-10.77%</td>
-				<td class="right num italic">36</td>
+				<td class="right num-f italic">13.29</td>
+				<td class="right num-p gainorloss italic">-0.5</td>
+				<td class="right gainorloss italic">-3.61%</td>
+				<td class="right num italic">34</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">13.79</td>
+				<td class="right num-p gainorloss">0.94</td>
+				<td class="right gainorloss">&#43;7.32%</td>
+				<td class="right num">34</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">12.85</td>
+				<td class="right num-p gainorloss">-1.43</td>
+				<td class="right gainorloss">-10.02%</td>
+				<td class="right num">31</td>
 			</tr>
 			
 			<tr >

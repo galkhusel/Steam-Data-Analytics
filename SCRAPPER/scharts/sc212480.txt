@@ -49,11 +49,11 @@
 		alt="Sonic &amp; All-Stars Racing Transformed Collection"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">99</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:21:48Z"></abbr>
+		<span class="num">97</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:17:46Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">158</span>
+		<span class="num">118</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">71.63</td>
-				<td class="right num-p gainorloss italic">&#43;6.0</td>
-				<td class="right gainorloss italic">&#43;9.13%</td>
-				<td class="right num italic">164</td>
+				<td class="right num-f italic">78.35</td>
+				<td class="right num-p gainorloss italic">-4.2</td>
+				<td class="right gainorloss italic">-5.05%</td>
+				<td class="right num italic">166</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">82.52</td>
+				<td class="right num-p gainorloss">7.77</td>
+				<td class="right gainorloss">&#43;10.39%</td>
+				<td class="right num">189</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">74.75</td>
+				<td class="right num-p gainorloss">9.11</td>
+				<td class="right gainorloss">&#43;13.88%</td>
+				<td class="right num">182</td>
 			</tr>
 			
 			<tr >

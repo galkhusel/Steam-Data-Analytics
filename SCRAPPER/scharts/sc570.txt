@@ -49,11 +49,11 @@
 		alt="Dota 2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">484105</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:00:50Z"></abbr>
+		<span class="num">586912</span>
+		<br>playing <abbr class="timeago" title="2022-02-08T13:01:07Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">688514</span>
+		<span class="num">655510</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">443467.55</td>
-				<td class="right num-p gainorloss italic">-5393.0</td>
-				<td class="right gainorloss italic">-1.20%</td>
-				<td class="right num italic">756170</td>
+				<td class="right num-f italic">475030.68</td>
+				<td class="right num-p gainorloss italic">-10760.8</td>
+				<td class="right gainorloss italic">-2.22%</td>
+				<td class="right num italic">786118</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">485791.43</td>
+				<td class="right num-p gainorloss">36494.07</td>
+				<td class="right gainorloss">&#43;8.12%</td>
+				<td class="right num">786118</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">449297.37</td>
+				<td class="right num-p gainorloss">436.83</td>
+				<td class="right gainorloss">&#43;0.10%</td>
+				<td class="right num">756170</td>
 			</tr>
 			
 			<tr >

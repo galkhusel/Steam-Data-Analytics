@@ -49,11 +49,11 @@
 		alt="Iron Front : Liberation 1944"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">2</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:39:47Z"></abbr>
+		<span class="num">0</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:11:22Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">7</span>
+		<span class="num">4</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">2.76</td>
-				<td class="right num-p gainorloss italic">&#43;0.3</td>
-				<td class="right gainorloss italic">&#43;11.61%</td>
-				<td class="right num italic">9</td>
+				<td class="right num-f italic">2.24</td>
+				<td class="right num-p gainorloss italic">-0.0</td>
+				<td class="right gainorloss italic">-1.45%</td>
+				<td class="right num italic">7</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">2.28</td>
+				<td class="right num-p gainorloss">-0.54</td>
+				<td class="right gainorloss">-19.13%</td>
+				<td class="right num">7</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">2.82</td>
+				<td class="right num-p gainorloss">0.34</td>
+				<td class="right gainorloss">&#43;13.65%</td>
+				<td class="right num">9</td>
 			</tr>
 			
 			<tr >

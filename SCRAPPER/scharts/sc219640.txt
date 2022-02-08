@@ -49,11 +49,11 @@
 		alt="Chivalry: Medieval Warfare"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">151</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:21:53Z"></abbr>
+		<span class="num">183</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:15:16Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">213</span>
+		<span class="num">197</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">103.22</td>
-				<td class="right num-p gainorloss italic">&#43;3.0</td>
-				<td class="right gainorloss italic">&#43;3.02%</td>
-				<td class="right num italic">219</td>
+				<td class="right num-f italic">111.76</td>
+				<td class="right num-p gainorloss italic">-2.9</td>
+				<td class="right gainorloss italic">-2.50%</td>
+				<td class="right num italic">272</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">114.62</td>
+				<td class="right num-p gainorloss">9.25</td>
+				<td class="right gainorloss">&#43;8.78%</td>
+				<td class="right num">272</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">105.37</td>
+				<td class="right num-p gainorloss">5.17</td>
+				<td class="right gainorloss">&#43;5.16%</td>
+				<td class="right num">241</td>
 			</tr>
 			
 			<tr >

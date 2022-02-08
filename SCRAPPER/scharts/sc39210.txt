@@ -49,11 +49,11 @@
 		alt="FINAL FANTASY XIV Online"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">30536</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:00:19Z"></abbr>
+		<span class="num">27433</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:01:31Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">62789</span>
+		<span class="num">37502</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">52562.63</td>
-				<td class="right num-p gainorloss italic">&#43;26801.2</td>
-				<td class="right gainorloss italic">&#43;104.04%</td>
-				<td class="right num italic">95102</td>
+				<td class="right num-f italic">34474.07</td>
+				<td class="right num-p gainorloss italic">-2140.7</td>
+				<td class="right gainorloss italic">-5.85%</td>
+				<td class="right num italic">64754</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">36614.79</td>
+				<td class="right num-p gainorloss">-17114.38</td>
+				<td class="right gainorloss">-31.85%</td>
+				<td class="right num">65565</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">53729.17</td>
+				<td class="right num-p gainorloss">27967.73</td>
+				<td class="right gainorloss">&#43;108.56%</td>
+				<td class="right num">95102</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="Stronghold Crusader HD"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1174</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:03:32Z"></abbr>
+		<span class="num">1404</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:05:05Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">1490</span>
+		<span class="num">1495</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">803.44</td>
-				<td class="right num-p gainorloss italic">-14.1</td>
-				<td class="right gainorloss italic">-1.72%</td>
-				<td class="right num italic">1534</td>
+				<td class="right num-f italic">942.59</td>
+				<td class="right num-p gainorloss italic">-8.1</td>
+				<td class="right gainorloss italic">-0.86%</td>
+				<td class="right num italic">1810</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">950.74</td>
+				<td class="right num-p gainorloss">128.10</td>
+				<td class="right gainorloss">&#43;15.57%</td>
+				<td class="right num">1810</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">822.64</td>
+				<td class="right num-p gainorloss">5.13</td>
+				<td class="right gainorloss">&#43;0.63%</td>
+				<td class="right num">1534</td>
 			</tr>
 			
 			<tr >

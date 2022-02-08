@@ -49,11 +49,11 @@
 		alt="Bad Rats"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">62</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:20:34Z"></abbr>
+		<span class="num">34</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:30:08Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">80</span>
+		<span class="num">39</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">31.48</td>
-				<td class="right num-p gainorloss italic">&#43;2.8</td>
-				<td class="right gainorloss italic">&#43;9.59%</td>
-				<td class="right num italic">266</td>
+				<td class="right num-f italic">40.35</td>
+				<td class="right num-p gainorloss italic">-3.3</td>
+				<td class="right gainorloss italic">-7.61%</td>
+				<td class="right num italic">309</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">43.67</td>
+				<td class="right num-p gainorloss">9.22</td>
+				<td class="right gainorloss">&#43;26.74%</td>
+				<td class="right num">309</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">34.46</td>
+				<td class="right num-p gainorloss">5.74</td>
+				<td class="right gainorloss">&#43;19.97%</td>
+				<td class="right num">266</td>
 			</tr>
 			
 			<tr >

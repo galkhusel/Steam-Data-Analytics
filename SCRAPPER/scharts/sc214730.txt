@@ -49,11 +49,11 @@
 		alt="Space Rangers HD: A War Apart"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">180</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:17:06Z"></abbr>
+		<span class="num">235</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:12:36Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">207</span>
+		<span class="num">243</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">129.81</td>
-				<td class="right num-p gainorloss italic">-5.9</td>
-				<td class="right gainorloss italic">-4.33%</td>
-				<td class="right num italic">260</td>
+				<td class="right num-f italic">157.79</td>
+				<td class="right num-p gainorloss italic">-2.8</td>
+				<td class="right gainorloss italic">-1.76%</td>
+				<td class="right num italic">293</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">160.62</td>
+				<td class="right num-p gainorloss">30.50</td>
+				<td class="right gainorloss">&#43;23.44%</td>
+				<td class="right num">298</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">130.12</td>
+				<td class="right num-p gainorloss">-5.57</td>
+				<td class="right gainorloss">-4.10%</td>
+				<td class="right num">260</td>
 			</tr>
 			
 			<tr >

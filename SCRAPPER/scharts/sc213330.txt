@@ -49,11 +49,11 @@
 		alt="LEGO® Batman™ 2: DC Super Heroes"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">78</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:05:20Z"></abbr>
+		<span class="num">128</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:17:54Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">144</span>
+		<span class="num">128</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">58.70</td>
-				<td class="right num-p gainorloss italic">&#43;8.8</td>
-				<td class="right gainorloss italic">&#43;17.65%</td>
-				<td class="right num italic">144</td>
+				<td class="right num-f italic">71.61</td>
+				<td class="right num-p gainorloss italic">-1.1</td>
+				<td class="right gainorloss italic">-1.49%</td>
+				<td class="right num italic">151</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">72.70</td>
+				<td class="right num-p gainorloss">11.63</td>
+				<td class="right gainorloss">&#43;19.05%</td>
+				<td class="right num">151</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">61.06</td>
+				<td class="right num-p gainorloss">11.17</td>
+				<td class="right gainorloss">&#43;22.38%</td>
+				<td class="right num">144</td>
 			</tr>
 			
 			<tr >

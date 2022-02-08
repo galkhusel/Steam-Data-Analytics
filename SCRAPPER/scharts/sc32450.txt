@@ -49,11 +49,11 @@
 		alt="LEGO® Indiana Jones™ 2: The Adventure Continues"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">36</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:29:25Z"></abbr>
+		<span class="num">47</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:27:57Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">56</span>
+		<span class="num">57</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">22.74</td>
-				<td class="right num-p gainorloss italic">&#43;6.9</td>
-				<td class="right gainorloss italic">&#43;43.20%</td>
-				<td class="right num italic">60</td>
+				<td class="right num-f italic">29.69</td>
+				<td class="right num-p gainorloss italic">-0.7</td>
+				<td class="right gainorloss italic">-2.44%</td>
+				<td class="right num italic">73</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">30.43</td>
+				<td class="right num-p gainorloss">6.88</td>
+				<td class="right gainorloss">&#43;29.20%</td>
+				<td class="right num">73</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">23.56</td>
+				<td class="right num-p gainorloss">7.68</td>
+				<td class="right gainorloss">&#43;48.35%</td>
+				<td class="right num">60</td>
 			</tr>
 			
 			<tr >

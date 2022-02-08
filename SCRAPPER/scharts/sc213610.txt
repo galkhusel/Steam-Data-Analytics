@@ -49,11 +49,11 @@
 		alt="Sonic Adventure™ 2 "
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">199</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:12:32Z"></abbr>
+		<span class="num">267</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:12:32Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">306</span>
+		<span class="num">275</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">166.01</td>
-				<td class="right num-p gainorloss italic">&#43;22.2</td>
-				<td class="right gainorloss italic">&#43;15.45%</td>
-				<td class="right num italic">327</td>
+				<td class="right num-f italic">189.55</td>
+				<td class="right num-p gainorloss italic">-5.5</td>
+				<td class="right gainorloss italic">-2.81%</td>
+				<td class="right num italic">333</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">195.03</td>
+				<td class="right num-p gainorloss">22.01</td>
+				<td class="right gainorloss">&#43;12.72%</td>
+				<td class="right num">357</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">173.02</td>
+				<td class="right num-p gainorloss">29.23</td>
+				<td class="right gainorloss">&#43;20.33%</td>
+				<td class="right num">339</td>
 			</tr>
 			
 			<tr >

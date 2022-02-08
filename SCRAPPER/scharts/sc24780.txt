@@ -49,11 +49,11 @@
 		alt="SimCity 4 Deluxe"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">564</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T00:09:19Z"></abbr>
+		<span class="num">508</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:07:47Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">685</span>
+		<span class="num">572</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">386.22</td>
-				<td class="right num-p gainorloss italic">&#43;21.5</td>
-				<td class="right gainorloss italic">&#43;5.91%</td>
-				<td class="right num italic">685</td>
+				<td class="right num-f italic">428.60</td>
+				<td class="right num-p gainorloss italic">-13.1</td>
+				<td class="right gainorloss italic">-2.97%</td>
+				<td class="right num italic">725</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">441.73</td>
+				<td class="right num-p gainorloss">43.50</td>
+				<td class="right gainorloss">&#43;10.92%</td>
+				<td class="right num">750</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">398.23</td>
+				<td class="right num-p gainorloss">33.55</td>
+				<td class="right gainorloss">&#43;9.20%</td>
+				<td class="right num">700</td>
 			</tr>
 			
 			<tr >

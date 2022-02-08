@@ -49,11 +49,11 @@
 		alt="Joint Operations: Combined Arms"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">2</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:35:35Z"></abbr>
+		<span class="num">3</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:28:38Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">12</span>
+		<span class="num">13</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">5.97</td>
-				<td class="right num-p gainorloss italic">&#43;0.5</td>
-				<td class="right gainorloss italic">&#43;8.37%</td>
-				<td class="right num italic">19</td>
+				<td class="right num-f italic">5.31</td>
+				<td class="right num-p gainorloss italic">&#43;0.0</td>
+				<td class="right gainorloss italic">&#43;0.30%</td>
+				<td class="right num italic">23</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">5.29</td>
+				<td class="right num-p gainorloss">-0.72</td>
+				<td class="right gainorloss">-11.99%</td>
+				<td class="right num">23</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">6.01</td>
+				<td class="right num-p gainorloss">0.51</td>
+				<td class="right gainorloss">&#43;9.21%</td>
+				<td class="right num">19</td>
 			</tr>
 			
 			<tr >

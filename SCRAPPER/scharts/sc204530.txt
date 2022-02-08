@@ -49,11 +49,11 @@
 		alt="Infested Planet"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">8</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:20:49Z"></abbr>
+		<span class="num">12</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:32:02Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">23</span>
+		<span class="num">16</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">10.80</td>
-				<td class="right num-p gainorloss italic">-0.8</td>
-				<td class="right gainorloss italic">-6.65%</td>
-				<td class="right num italic">27</td>
+				<td class="right num-f italic">15.13</td>
+				<td class="right num-p gainorloss italic">-0.4</td>
+				<td class="right gainorloss italic">-2.88%</td>
+				<td class="right num italic">34</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">15.58</td>
+				<td class="right num-p gainorloss">4.38</td>
+				<td class="right gainorloss">&#43;39.14%</td>
+				<td class="right num">34</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">11.20</td>
+				<td class="right num-p gainorloss">-0.37</td>
+				<td class="right gainorloss">-3.21%</td>
+				<td class="right num">27</td>
 			</tr>
 			
 			<tr >

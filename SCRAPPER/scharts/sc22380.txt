@@ -49,11 +49,11 @@
 		alt="Fallout: New Vegas"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">6235</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T00:01:52Z"></abbr>
+		<span class="num">3932</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:00:44Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">6323</span>
+		<span class="num">5981</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">3871.90</td>
-				<td class="right num-p gainorloss italic">&#43;20.8</td>
-				<td class="right gainorloss italic">&#43;0.54%</td>
-				<td class="right num italic">6332</td>
+				<td class="right num-f italic">4297.83</td>
+				<td class="right num-p gainorloss italic">-75.8</td>
+				<td class="right gainorloss italic">-1.73%</td>
+				<td class="right num italic">7231</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">4373.63</td>
+				<td class="right num-p gainorloss">418.28</td>
+				<td class="right gainorloss">&#43;10.58%</td>
+				<td class="right num">7231</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">3955.35</td>
+				<td class="right num-p gainorloss">104.26</td>
+				<td class="right gainorloss">&#43;2.71%</td>
+				<td class="right num">6388</td>
 			</tr>
 			
 			<tr >

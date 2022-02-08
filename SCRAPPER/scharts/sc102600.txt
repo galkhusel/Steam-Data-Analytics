@@ -49,11 +49,11 @@
 		alt="Orcs Must Die!"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">44</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:29:45Z"></abbr>
+		<span class="num">39</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:32:14Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">48</span>
+		<span class="num">39</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">27.92</td>
-				<td class="right num-p gainorloss italic">-17.8</td>
-				<td class="right gainorloss italic">-38.87%</td>
-				<td class="right num italic">64</td>
+				<td class="right num-f italic">27.48</td>
+				<td class="right num-p gainorloss italic">-1.3</td>
+				<td class="right gainorloss italic">-4.68%</td>
+				<td class="right num italic">58</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">28.83</td>
+				<td class="right num-p gainorloss">0.26</td>
+				<td class="right gainorloss">&#43;0.89%</td>
+				<td class="right num">66</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">28.57</td>
+				<td class="right num-p gainorloss">-17.10</td>
+				<td class="right gainorloss">-37.44%</td>
+				<td class="right num">64</td>
 			</tr>
 			
 			<tr >

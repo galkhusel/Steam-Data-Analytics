@@ -49,11 +49,11 @@
 		alt="Sins of a Solar Empire: Rebellion"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">594</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:06:39Z"></abbr>
+		<span class="num">630</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:06:52Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">942</span>
+		<span class="num">686</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">597.96</td>
-				<td class="right num-p gainorloss italic">&#43;6.8</td>
-				<td class="right gainorloss italic">&#43;1.15%</td>
-				<td class="right num italic">1109</td>
+				<td class="right num-f italic">621.33</td>
+				<td class="right num-p gainorloss italic">-27.2</td>
+				<td class="right gainorloss italic">-4.20%</td>
+				<td class="right num italic">1384</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">648.58</td>
+				<td class="right num-p gainorloss">34.26</td>
+				<td class="right gainorloss">&#43;5.58%</td>
+				<td class="right num">1384</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">614.32</td>
+				<td class="right num-p gainorloss">23.15</td>
+				<td class="right gainorloss">&#43;3.92%</td>
+				<td class="right num">1109</td>
 			</tr>
 			
 			<tr >

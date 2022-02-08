@@ -49,11 +49,11 @@
 		alt="The Witness"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">223</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:14:54Z"></abbr>
+		<span class="num">133</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:18:30Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">248</span>
+		<span class="num">133</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">126.21</td>
-				<td class="right num-p gainorloss italic">-0.0</td>
-				<td class="right gainorloss italic">-0.03%</td>
-				<td class="right num italic">281</td>
+				<td class="right num-f italic">135.03</td>
+				<td class="right num-p gainorloss italic">-14.3</td>
+				<td class="right gainorloss italic">-9.58%</td>
+				<td class="right num italic">268</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">149.34</td>
+				<td class="right num-p gainorloss">20.64</td>
+				<td class="right gainorloss">&#43;16.04%</td>
+				<td class="right num">317</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">128.70</td>
+				<td class="right num-p gainorloss">2.46</td>
+				<td class="right gainorloss">&#43;1.95%</td>
+				<td class="right num">281</td>
 			</tr>
 			
 			<tr >

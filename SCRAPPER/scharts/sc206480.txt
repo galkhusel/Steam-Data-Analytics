@@ -49,11 +49,11 @@
 		alt="Dungeons &amp; Dragons Online®"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">144</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:11:33Z"></abbr>
+		<span class="num">240</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:13:50Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">283</span>
+		<span class="num">316</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">232.95</td>
-				<td class="right num-p gainorloss italic">-37.8</td>
-				<td class="right gainorloss italic">-13.97%</td>
-				<td class="right num italic">445</td>
+				<td class="right num-f italic">215.56</td>
+				<td class="right num-p gainorloss italic">-0.3</td>
+				<td class="right gainorloss italic">-0.14%</td>
+				<td class="right num italic">406</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">215.86</td>
+				<td class="right num-p gainorloss">-13.78</td>
+				<td class="right gainorloss">-6.00%</td>
+				<td class="right num">406</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">229.64</td>
+				<td class="right num-p gainorloss">-41.13</td>
+				<td class="right gainorloss">-15.19%</td>
+				<td class="right num">445</td>
 			</tr>
 			
 			<tr >

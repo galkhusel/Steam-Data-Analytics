@@ -49,11 +49,11 @@
 		alt="RPG Maker VX Ace"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">212</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:15:08Z"></abbr>
+		<span class="num">196</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:13:02Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">213</span>
+		<span class="num">203</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">162.18</td>
-				<td class="right num-p gainorloss italic">-3.9</td>
-				<td class="right gainorloss italic">-2.38%</td>
-				<td class="right num italic">213</td>
+				<td class="right num-f italic">188.61</td>
+				<td class="right num-p gainorloss italic">-2.4</td>
+				<td class="right gainorloss italic">-1.25%</td>
+				<td class="right num italic">258</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">191.01</td>
+				<td class="right num-p gainorloss">26.33</td>
+				<td class="right gainorloss">&#43;15.99%</td>
+				<td class="right num">258</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">164.67</td>
+				<td class="right num-p gainorloss">-1.45</td>
+				<td class="right gainorloss">-0.87%</td>
+				<td class="right num">243</td>
 			</tr>
 			
 			<tr >

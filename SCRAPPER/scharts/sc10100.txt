@@ -49,11 +49,11 @@
 		alt="King&#39;s Quest Collection"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">16</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:51:20Z"></abbr>
+		<span class="num">11</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:37:55Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">25</span>
+		<span class="num">18</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">12.07</td>
-				<td class="right num-p gainorloss italic">&#43;1.9</td>
-				<td class="right gainorloss italic">&#43;18.81%</td>
-				<td class="right num italic">29</td>
+				<td class="right num-f italic">12.40</td>
+				<td class="right num-p gainorloss italic">-1.0</td>
+				<td class="right gainorloss italic">-7.74%</td>
+				<td class="right num italic">37</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">13.44</td>
+				<td class="right num-p gainorloss">1.32</td>
+				<td class="right gainorloss">&#43;10.90%</td>
+				<td class="right num">37</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">12.12</td>
+				<td class="right num-p gainorloss">1.96</td>
+				<td class="right gainorloss">&#43;19.32%</td>
+				<td class="right num">27</td>
 			</tr>
 			
 			<tr >

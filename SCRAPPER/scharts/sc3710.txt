@@ -49,11 +49,11 @@
 		alt="Judge Dredd: Dredd vs Death"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">0</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T21:40:13Z"></abbr>
+		<span class="num">1</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:51:44Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">7</span>
+		<span class="num">5</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">2.79</td>
+				<td class="right num-f italic">2.42</td>
 				<td class="right num-p gainorloss italic">-0.2</td>
-				<td class="right gainorloss italic">-6.74%</td>
-				<td class="right num italic">10</td>
+				<td class="right gainorloss italic">-8.22%</td>
+				<td class="right num italic">8</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">2.64</td>
+				<td class="right num-p gainorloss">-0.04</td>
+				<td class="right gainorloss">-1.43%</td>
+				<td class="right num">9</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">2.67</td>
+				<td class="right num-p gainorloss">-0.32</td>
+				<td class="right gainorloss">-10.56%</td>
+				<td class="right num">10</td>
 			</tr>
 			
 			<tr >

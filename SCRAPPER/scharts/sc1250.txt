@@ -49,11 +49,11 @@
 		alt="Killing Floor"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">429</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:09:07Z"></abbr>
+		<span class="num">306</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:10:12Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">459</span>
+		<span class="num">463</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">279.25</td>
-				<td class="right num-p gainorloss italic">-2.7</td>
-				<td class="right gainorloss italic">-0.97%</td>
-				<td class="right num italic">524</td>
+				<td class="right num-f italic">304.88</td>
+				<td class="right num-p gainorloss italic">-10.2</td>
+				<td class="right gainorloss italic">-3.25%</td>
+				<td class="right num italic">588</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">315.10</td>
+				<td class="right num-p gainorloss">33.16</td>
+				<td class="right gainorloss">&#43;11.76%</td>
+				<td class="right num">588</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">281.95</td>
+				<td class="right num-p gainorloss">-0.03</td>
+				<td class="right gainorloss">-0.01%</td>
+				<td class="right num">524</td>
 			</tr>
 			
 			<tr >

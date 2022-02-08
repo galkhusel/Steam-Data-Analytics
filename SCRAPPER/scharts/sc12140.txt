@@ -49,11 +49,11 @@
 		alt="Max Payne"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">85</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:19:32Z"></abbr>
+		<span class="num">60</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:24:52Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">127</span>
+		<span class="num">94</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">71.93</td>
-				<td class="right num-p gainorloss italic">&#43;21.8</td>
-				<td class="right gainorloss italic">&#43;43.59%</td>
-				<td class="right num italic">142</td>
+				<td class="right num-f italic">55.07</td>
+				<td class="right num-p gainorloss italic">-4.6</td>
+				<td class="right gainorloss italic">-7.65%</td>
+				<td class="right num italic">125</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">59.63</td>
+				<td class="right num-p gainorloss">-12.50</td>
+				<td class="right gainorloss">-17.33%</td>
+				<td class="right num">170</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">72.13</td>
+				<td class="right num-p gainorloss">22.04</td>
+				<td class="right gainorloss">&#43;43.99%</td>
+				<td class="right num">142</td>
 			</tr>
 			
 			<tr >

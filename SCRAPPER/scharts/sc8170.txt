@@ -49,11 +49,11 @@
 		alt="Battlestations: Pacific"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">12</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:51:54Z"></abbr>
+		<span class="num">14</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:39:15Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">19</span>
+		<span class="num">20</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">11.99</td>
-				<td class="right num-p gainorloss italic">-0.2</td>
-				<td class="right gainorloss italic">-1.46%</td>
-				<td class="right num italic">27</td>
+				<td class="right num-f italic">13.03</td>
+				<td class="right num-p gainorloss italic">-0.3</td>
+				<td class="right gainorloss italic">-2.16%</td>
+				<td class="right num italic">28</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">13.32</td>
+				<td class="right num-p gainorloss">1.17</td>
+				<td class="right gainorloss">&#43;9.66%</td>
+				<td class="right num">28</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">12.15</td>
+				<td class="right num-p gainorloss">-0.02</td>
+				<td class="right gainorloss">-0.18%</td>
+				<td class="right num">27</td>
 			</tr>
 			
 			<tr >

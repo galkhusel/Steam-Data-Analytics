@@ -49,11 +49,11 @@
 		alt="Silent Hunter III"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">82</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:22:06Z"></abbr>
+		<span class="num">85</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:22:22Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">113</span>
+		<span class="num">118</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">62.15</td>
+				<td class="right num-f italic">71.99</td>
 				<td class="right num-p gainorloss italic">-0.6</td>
-				<td class="right gainorloss italic">-0.94%</td>
-				<td class="right num italic">124</td>
+				<td class="right gainorloss italic">-0.82%</td>
+				<td class="right num italic">141</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">72.58</td>
+				<td class="right num-p gainorloss">9.57</td>
+				<td class="right gainorloss">&#43;15.19%</td>
+				<td class="right num">141</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">63.01</td>
+				<td class="right num-p gainorloss">0.27</td>
+				<td class="right gainorloss">&#43;0.42%</td>
+				<td class="right num">124</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="STAR WARS™: Dark Forces"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">9</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:42:13Z"></abbr>
+		<span class="num">17</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:41:15Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">19</span>
+		<span class="num">18</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">8.06</td>
-				<td class="right num-p gainorloss italic">&#43;0.6</td>
-				<td class="right gainorloss italic">&#43;7.82%</td>
-				<td class="right num italic">23</td>
+				<td class="right num-f italic">10.07</td>
+				<td class="right num-p gainorloss italic">-0.3</td>
+				<td class="right gainorloss italic">-2.69%</td>
+				<td class="right num italic">29</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">10.35</td>
+				<td class="right num-p gainorloss">2.15</td>
+				<td class="right gainorloss">&#43;26.24%</td>
+				<td class="right num">29</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">8.20</td>
+				<td class="right num-p gainorloss">0.72</td>
+				<td class="right gainorloss">&#43;9.69%</td>
+				<td class="right num">24</td>
 			</tr>
 			
 			<tr >

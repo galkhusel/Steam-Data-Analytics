@@ -49,11 +49,11 @@
 		alt="Star Wars: Battlefront 2 (Classic, 2005)"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">489</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:09:06Z"></abbr>
+		<span class="num">295</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:07:43Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">489</span>
+		<span class="num">501</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">262.77</td>
-				<td class="right num-p gainorloss italic">&#43;5.0</td>
-				<td class="right gainorloss italic">&#43;1.94%</td>
-				<td class="right num italic">489</td>
+				<td class="right num-f italic">313.68</td>
+				<td class="right num-p gainorloss italic">-0.9</td>
+				<td class="right gainorloss italic">-0.28%</td>
+				<td class="right num italic">589</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">314.57</td>
+				<td class="right num-p gainorloss">49.42</td>
+				<td class="right gainorloss">&#43;18.64%</td>
+				<td class="right num">589</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">265.16</td>
+				<td class="right num-p gainorloss">7.38</td>
+				<td class="right gainorloss">&#43;2.86%</td>
+				<td class="right num">489</td>
 			</tr>
 			
 			<tr >

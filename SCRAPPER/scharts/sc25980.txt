@@ -49,11 +49,11 @@
 		alt="Majesty 2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">24</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:37:59Z"></abbr>
+		<span class="num">26</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:36:36Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">38</span>
+		<span class="num">29</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">18.25</td>
-				<td class="right num-p gainorloss italic">-0.1</td>
-				<td class="right gainorloss italic">-0.57%</td>
-				<td class="right num italic">38</td>
+				<td class="right num-f italic">23.66</td>
+				<td class="right num-p gainorloss italic">-0.5</td>
+				<td class="right gainorloss italic">-2.07%</td>
+				<td class="right num italic">52</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">24.16</td>
+				<td class="right num-p gainorloss">5.57</td>
+				<td class="right gainorloss">&#43;29.93%</td>
+				<td class="right num">52</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">18.60</td>
+				<td class="right num-p gainorloss">0.24</td>
+				<td class="right gainorloss">&#43;1.33%</td>
+				<td class="right num">41</td>
 			</tr>
 			
 			<tr >

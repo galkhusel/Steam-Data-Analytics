@@ -49,11 +49,11 @@
 		alt="The Stanley Parable"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">83</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:17:38Z"></abbr>
+		<span class="num">84</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:24:11Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">197</span>
+		<span class="num">89</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">70.49</td>
-				<td class="right num-p gainorloss italic">&#43;8.9</td>
-				<td class="right gainorloss italic">&#43;14.38%</td>
-				<td class="right num italic">197</td>
+				<td class="right num-f italic">67.89</td>
+				<td class="right num-p gainorloss italic">-4.0</td>
+				<td class="right gainorloss italic">-5.50%</td>
+				<td class="right num italic">145</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">71.84</td>
+				<td class="right num-p gainorloss">0.35</td>
+				<td class="right gainorloss">&#43;0.49%</td>
+				<td class="right num">171</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">71.49</td>
+				<td class="right num-p gainorloss">9.86</td>
+				<td class="right gainorloss">&#43;16.00%</td>
+				<td class="right num">197</td>
 			</tr>
 			
 			<tr >

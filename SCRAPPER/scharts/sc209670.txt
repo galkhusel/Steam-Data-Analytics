@@ -49,11 +49,11 @@
 		alt="Cortex Command"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">11</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:44:07Z"></abbr>
+		<span class="num">17</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:43:53Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">22</span>
+		<span class="num">19</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">11.42</td>
-				<td class="right num-p gainorloss italic">-0.6</td>
-				<td class="right gainorloss italic">-5.17%</td>
-				<td class="right num italic">29</td>
+				<td class="right num-f italic">12.43</td>
+				<td class="right num-p gainorloss italic">-0.1</td>
+				<td class="right gainorloss italic">-0.57%</td>
+				<td class="right num italic">27</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">12.50</td>
+				<td class="right num-p gainorloss">0.93</td>
+				<td class="right gainorloss">&#43;8.03%</td>
+				<td class="right num">28</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">11.57</td>
+				<td class="right num-p gainorloss">-0.47</td>
+				<td class="right gainorloss">-3.93%</td>
+				<td class="right num">29</td>
 			</tr>
 			
 			<tr >

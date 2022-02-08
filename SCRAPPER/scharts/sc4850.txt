@@ -49,11 +49,11 @@
 		alt="Cossacks: Back to War"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">189</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:15:08Z"></abbr>
+		<span class="num">201</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:12:49Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">237</span>
+		<span class="num">267</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">131.40</td>
-				<td class="right num-p gainorloss italic">&#43;2.3</td>
-				<td class="right gainorloss italic">&#43;1.79%</td>
-				<td class="right num italic">277</td>
+				<td class="right num-f italic">140.22</td>
+				<td class="right num-p gainorloss italic">-3.0</td>
+				<td class="right gainorloss italic">-2.09%</td>
+				<td class="right num italic">318</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">143.22</td>
+				<td class="right num-p gainorloss">11.94</td>
+				<td class="right gainorloss">&#43;9.09%</td>
+				<td class="right num">318</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">131.28</td>
+				<td class="right num-p gainorloss">2.18</td>
+				<td class="right gainorloss">&#43;1.69%</td>
+				<td class="right num">277</td>
 			</tr>
 			
 			<tr >

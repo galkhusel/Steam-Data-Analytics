@@ -49,11 +49,11 @@
 		alt="Kerbal Space Program"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">3954</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:03:01Z"></abbr>
+		<span class="num">4239</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:01:10Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">4770</span>
+		<span class="num">4243</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">2759.74</td>
-				<td class="right num-p gainorloss italic">-117.4</td>
-				<td class="right gainorloss italic">-4.08%</td>
-				<td class="right num italic">4770</td>
+				<td class="right num-f italic">3320.88</td>
+				<td class="right num-p gainorloss italic">-85.6</td>
+				<td class="right gainorloss italic">-2.51%</td>
+				<td class="right num italic">5558</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">3406.47</td>
+				<td class="right num-p gainorloss">549.58</td>
+				<td class="right gainorloss">&#43;19.24%</td>
+				<td class="right num">5558</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">2856.89</td>
+				<td class="right num-p gainorloss">-20.23</td>
+				<td class="right gainorloss">-0.70%</td>
+				<td class="right num">4915</td>
 			</tr>
 			
 			<tr >

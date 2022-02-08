@@ -49,11 +49,11 @@
 		alt="Fable - The Lost Chapters"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">66</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:24:45Z"></abbr>
+		<span class="num">73</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:23:03Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">97</span>
+		<span class="num">87</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">52.96</td>
-				<td class="right num-p gainorloss italic">&#43;2.6</td>
-				<td class="right gainorloss italic">&#43;5.24%</td>
-				<td class="right num italic">106</td>
+				<td class="right num-f italic">62.31</td>
+				<td class="right num-p gainorloss italic">-2.0</td>
+				<td class="right gainorloss italic">-3.14%</td>
+				<td class="right num italic">132</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">64.33</td>
+				<td class="right num-p gainorloss">10.74</td>
+				<td class="right gainorloss">&#43;20.04%</td>
+				<td class="right num">132</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">53.59</td>
+				<td class="right num-p gainorloss">3.27</td>
+				<td class="right gainorloss">&#43;6.51%</td>
+				<td class="right num">106</td>
 			</tr>
 			
 			<tr >

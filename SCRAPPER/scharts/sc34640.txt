@@ -49,11 +49,11 @@
 		alt="Massive Assault: Phantom Renaissance"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">7</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:06:46Z"></abbr>
+		<span class="num">1</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:50:38Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">8</span>
+		<span class="num">7</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">3.74</td>
-				<td class="right num-p gainorloss italic">&#43;0.1</td>
-				<td class="right gainorloss italic">&#43;3.99%</td>
+				<td class="right num-f italic">4.07</td>
+				<td class="right num-p gainorloss italic">&#43;0.0</td>
+				<td class="right gainorloss italic">&#43;0.92%</td>
 				<td class="right num italic">10</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">4.03</td>
+				<td class="right num-p gainorloss">0.24</td>
+				<td class="right gainorloss">&#43;6.21%</td>
+				<td class="right num">10</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">3.79</td>
+				<td class="right num-p gainorloss">0.19</td>
+				<td class="right gainorloss">&#43;5.36%</td>
+				<td class="right num">10</td>
 			</tr>
 			
 			<tr >

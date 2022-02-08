@@ -49,11 +49,11 @@
 		alt="The Binding of Isaac"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">678</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:06:40Z"></abbr>
+		<span class="num">364</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:09:05Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">678</span>
+		<span class="num">413</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">501.91</td>
-				<td class="right num-p gainorloss italic">&#43;100.8</td>
-				<td class="right gainorloss italic">&#43;25.13%</td>
-				<td class="right num italic">1235</td>
+				<td class="right num-f italic">384.92</td>
+				<td class="right num-p gainorloss italic">-27.3</td>
+				<td class="right gainorloss italic">-6.62%</td>
+				<td class="right num italic">814</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">412.22</td>
+				<td class="right num-p gainorloss">-73.84</td>
+				<td class="right gainorloss">-15.19%</td>
+				<td class="right num">814</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">486.06</td>
+				<td class="right num-p gainorloss">84.95</td>
+				<td class="right gainorloss">&#43;21.18%</td>
+				<td class="right num">1171</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="TrackMania Nations Forever"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">775</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:06:33Z"></abbr>
+		<span class="num">685</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:05:32Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">960</span>
+		<span class="num">823</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">539.71</td>
-				<td class="right num-p gainorloss italic">&#43;80.2</td>
-				<td class="right gainorloss italic">&#43;17.44%</td>
-				<td class="right num italic">968</td>
+				<td class="right num-f italic">581.64</td>
+				<td class="right num-p gainorloss italic">-13.0</td>
+				<td class="right gainorloss italic">-2.18%</td>
+				<td class="right num italic">1052</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">594.61</td>
+				<td class="right num-p gainorloss">48.51</td>
+				<td class="right gainorloss">&#43;8.88%</td>
+				<td class="right num">1078</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">546.10</td>
+				<td class="right num-p gainorloss">86.55</td>
+				<td class="right gainorloss">&#43;18.83%</td>
+				<td class="right num">973</td>
 			</tr>
 			
 			<tr >

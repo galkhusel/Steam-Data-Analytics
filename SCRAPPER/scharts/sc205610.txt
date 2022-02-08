@@ -49,11 +49,11 @@
 		alt="Port Royale 3"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">83</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:24:37Z"></abbr>
+		<span class="num">85</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:23:37Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">118</span>
+		<span class="num">85</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">51.53</td>
-				<td class="right num-p gainorloss italic">&#43;1.7</td>
-				<td class="right gainorloss italic">&#43;3.31%</td>
-				<td class="right num italic">118</td>
+				<td class="right num-f italic">54.66</td>
+				<td class="right num-p gainorloss italic">-2.6</td>
+				<td class="right gainorloss italic">-4.56%</td>
+				<td class="right num italic">127</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">57.27</td>
+				<td class="right num-p gainorloss">3.93</td>
+				<td class="right gainorloss">&#43;7.37%</td>
+				<td class="right num">127</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">53.34</td>
+				<td class="right num-p gainorloss">3.46</td>
+				<td class="right gainorloss">&#43;6.94%</td>
+				<td class="right num">118</td>
 			</tr>
 			
 			<tr >

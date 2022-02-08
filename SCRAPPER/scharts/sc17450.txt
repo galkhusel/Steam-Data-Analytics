@@ -49,11 +49,11 @@
 		alt="Dragon Age: Origins"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">173</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:05:39Z"></abbr>
+		<span class="num">133</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:15:40Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">257</span>
+		<span class="num">170</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">115.04</td>
-				<td class="right num-p gainorloss italic">-15.2</td>
-				<td class="right gainorloss italic">-11.65%</td>
-				<td class="right num italic">258</td>
+				<td class="right num-f italic">138.18</td>
+				<td class="right num-p gainorloss italic">-11.8</td>
+				<td class="right gainorloss italic">-7.89%</td>
+				<td class="right num italic">285</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">150.01</td>
+				<td class="right num-p gainorloss">30.76</td>
+				<td class="right gainorloss">&#43;25.79%</td>
+				<td class="right num">339</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">119.25</td>
+				<td class="right num-p gainorloss">-10.96</td>
+				<td class="right gainorloss">-8.42%</td>
+				<td class="right num">258</td>
 			</tr>
 			
 			<tr >

@@ -40,7 +40,7 @@ def scrapper (idlist,start,end):
 		id_ = idlist[id_pos]
 		print(id_)
 		scrapper_(id_)
-		time.sleep(5)
+		time.sleep(30)
 
 
 def get_id(PATH):

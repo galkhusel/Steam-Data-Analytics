@@ -49,11 +49,11 @@
 		alt="King&#39;s Bounty: Crossworlds"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">95</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:20:11Z"></abbr>
+		<span class="num">112</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:21:58Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">107</span>
+		<span class="num">112</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">63.85</td>
-				<td class="right num-p gainorloss italic">-4.2</td>
-				<td class="right gainorloss italic">-6.16%</td>
-				<td class="right num italic">117</td>
+				<td class="right num-f italic">71.72</td>
+				<td class="right num-p gainorloss italic">-1.9</td>
+				<td class="right gainorloss italic">-2.53%</td>
+				<td class="right num italic">144</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">73.58</td>
+				<td class="right num-p gainorloss">8.51</td>
+				<td class="right gainorloss">&#43;13.07%</td>
+				<td class="right num">144</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">65.07</td>
+				<td class="right num-p gainorloss">-2.96</td>
+				<td class="right gainorloss">-4.36%</td>
+				<td class="right num">117</td>
 			</tr>
 			
 			<tr >

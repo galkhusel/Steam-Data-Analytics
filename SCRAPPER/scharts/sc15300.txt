@@ -49,11 +49,11 @@
 		alt="Tom Clancy&#39;s Ghost Recon"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">15</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:45:59Z"></abbr>
+		<span class="num">18</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:31:02Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">25</span>
+		<span class="num">37</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">11.77</td>
-				<td class="right num-p gainorloss italic">&#43;0.8</td>
-				<td class="right gainorloss italic">&#43;7.53%</td>
-				<td class="right num italic">37</td>
+				<td class="right num-f italic">18.64</td>
+				<td class="right num-p gainorloss italic">&#43;0.2</td>
+				<td class="right gainorloss italic">&#43;0.85%</td>
+				<td class="right num italic">52</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">18.48</td>
+				<td class="right num-p gainorloss">6.34</td>
+				<td class="right gainorloss">&#43;52.21%</td>
+				<td class="right num">52</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">12.14</td>
+				<td class="right num-p gainorloss">1.20</td>
+				<td class="right gainorloss">&#43;10.95%</td>
+				<td class="right num">37</td>
 			</tr>
 			
 			<tr >

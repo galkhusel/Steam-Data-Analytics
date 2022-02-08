@@ -49,11 +49,11 @@
 		alt="LEGO® The Lord of the Rings™"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">274</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:12:44Z"></abbr>
+		<span class="num">372</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:09:59Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">364</span>
+		<span class="num">381</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">143.05</td>
-				<td class="right num-p gainorloss italic">&#43;17.6</td>
-				<td class="right gainorloss italic">&#43;14.00%</td>
-				<td class="right num italic">371</td>
+				<td class="right num-f italic">196.69</td>
+				<td class="right num-p gainorloss italic">-1.7</td>
+				<td class="right gainorloss italic">-0.85%</td>
+				<td class="right num italic">480</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">198.37</td>
+				<td class="right num-p gainorloss">48.94</td>
+				<td class="right gainorloss">&#43;32.75%</td>
+				<td class="right num">480</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">149.43</td>
+				<td class="right num-p gainorloss">23.94</td>
+				<td class="right gainorloss">&#43;19.07%</td>
+				<td class="right num">375</td>
 			</tr>
 			
 			<tr >

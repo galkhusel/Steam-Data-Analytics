@@ -49,8 +49,8 @@
 		alt="STAR WARS™: The Clone Wars - Republic Heroes™"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">6</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:42:46Z"></abbr>
+		<span class="num">4</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:25:48Z"></abbr>
 	</div>
 	<div class="app-stat"> 
 		<span class="num">6</span>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">2.89</td>
-				<td class="right num-p gainorloss italic">&#43;1.0</td>
-				<td class="right gainorloss italic">&#43;55.63%</td>
-				<td class="right num italic">14</td>
+				<td class="right num-f italic">2.58</td>
+				<td class="right num-p gainorloss italic">&#43;0.1</td>
+				<td class="right gainorloss italic">&#43;2.16%</td>
+				<td class="right num italic">9</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">2.53</td>
+				<td class="right num-p gainorloss">-0.51</td>
+				<td class="right gainorloss">-16.67%</td>
+				<td class="right num">9</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">3.03</td>
+				<td class="right num-p gainorloss">1.17</td>
+				<td class="right gainorloss">&#43;63.10%</td>
+				<td class="right num">14</td>
 			</tr>
 			
 			<tr >

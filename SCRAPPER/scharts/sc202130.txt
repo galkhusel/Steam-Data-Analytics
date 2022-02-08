@@ -49,11 +49,11 @@
 		alt="Impire"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">0</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T08:04:22Z"></abbr>
+		<span class="num">2</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:07:28Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">1</span>
+		<span class="num">2</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,13 +88,25 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">0.95</td>
-				<td class="right num-p gainorloss italic">-0.3</td>
-				<td class="right gainorloss italic">-22.75%</td>
-				<td class="right num italic">5</td>
+				<td class="right num-f italic">1.50</td>
+				<td class="right num-p gainorloss italic">-0.0</td>
+				<td class="right gainorloss italic">-1.35%</td>
+				<td class="right num italic">6</td>
 			</tr>
 			
 			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">1.53</td>
+				<td class="right num-p gainorloss">0.29</td>
+				<td class="right gainorloss">&#43;23.88%</td>
+				<td class="right num">6</td>
+			</tr>
+			
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					October 2021
@@ -106,7 +118,7 @@
 				<td class="right num">5</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					August 2021
@@ -118,7 +130,7 @@
 				<td class="right num">5</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					July 2021
@@ -130,7 +142,7 @@
 				<td class="right num">6</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					June 2021
@@ -142,7 +154,7 @@
 				<td class="right num">4</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					May 2021
@@ -154,7 +166,7 @@
 				<td class="right num">5</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					April 2021
@@ -166,7 +178,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					March 2021
@@ -178,7 +190,7 @@
 				<td class="right num">6</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					February 2021
@@ -190,7 +202,7 @@
 				<td class="right num">6</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					January 2021
@@ -202,7 +214,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					December 2020
@@ -214,7 +226,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					November 2020
@@ -226,7 +238,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					October 2020
@@ -238,7 +250,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					September 2020
@@ -250,7 +262,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					August 2020
@@ -262,7 +274,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					July 2020
@@ -274,7 +286,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					June 2020
@@ -286,7 +298,7 @@
 				<td class="right num">6</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					May 2020
@@ -298,7 +310,7 @@
 				<td class="right num">13</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					April 2020
@@ -310,7 +322,7 @@
 				<td class="right num">6</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					March 2020
@@ -322,7 +334,7 @@
 				<td class="right num">10</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					February 2020
@@ -334,7 +346,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					January 2020
@@ -346,7 +358,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					December 2019
@@ -358,7 +370,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					November 2019
@@ -370,7 +382,7 @@
 				<td class="right num">9</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					October 2019
@@ -382,7 +394,7 @@
 				<td class="right num">5</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					September 2019
@@ -394,7 +406,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					August 2019
@@ -406,7 +418,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					July 2019
@@ -418,7 +430,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					June 2019
@@ -430,7 +442,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					May 2019
@@ -442,7 +454,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					April 2019
@@ -454,7 +466,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					March 2019
@@ -466,7 +478,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					February 2019
@@ -478,7 +490,7 @@
 				<td class="right num">9</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					January 2019
@@ -490,7 +502,7 @@
 				<td class="right num">10</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					December 2018
@@ -502,7 +514,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					November 2018
@@ -514,7 +526,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					October 2018
@@ -526,7 +538,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					September 2018
@@ -538,7 +550,7 @@
 				<td class="right num">9</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					August 2018
@@ -550,7 +562,7 @@
 				<td class="right num">9</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					July 2018
@@ -562,7 +574,7 @@
 				<td class="right num">9</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					June 2018
@@ -574,7 +586,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					May 2018
@@ -586,7 +598,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					April 2018
@@ -598,7 +610,7 @@
 				<td class="right num">7</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					March 2018
@@ -610,7 +622,7 @@
 				<td class="right num">10</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					February 2018
@@ -622,7 +634,7 @@
 				<td class="right num">11</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					January 2018
@@ -634,7 +646,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					December 2017
@@ -646,7 +658,7 @@
 				<td class="right num">9</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					November 2017
@@ -658,7 +670,7 @@
 				<td class="right num">9</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					October 2017
@@ -670,7 +682,7 @@
 				<td class="right num">10</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					September 2017
@@ -682,7 +694,7 @@
 				<td class="right num">10</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					August 2017
@@ -694,7 +706,7 @@
 				<td class="right num">9</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					July 2017
@@ -706,7 +718,7 @@
 				<td class="right num">8</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					June 2017
@@ -718,7 +730,7 @@
 				<td class="right num">10</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					May 2017
@@ -730,7 +742,7 @@
 				<td class="right num">11</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					April 2017
@@ -742,7 +754,7 @@
 				<td class="right num">15</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					March 2017
@@ -754,7 +766,7 @@
 				<td class="right num">9</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					February 2017
@@ -766,7 +778,7 @@
 				<td class="right num">10</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					January 2017
@@ -778,7 +790,7 @@
 				<td class="right num">14</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					December 2016
@@ -790,7 +802,7 @@
 				<td class="right num">9</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					November 2016
@@ -802,7 +814,7 @@
 				<td class="right num">14</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					October 2016
@@ -814,7 +826,7 @@
 				<td class="right num">11</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					September 2016
@@ -826,7 +838,7 @@
 				<td class="right num">30</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					August 2016
@@ -838,7 +850,7 @@
 				<td class="right num">11</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					July 2016
@@ -850,7 +862,7 @@
 				<td class="right num">15</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					June 2016
@@ -862,7 +874,7 @@
 				<td class="right num">12</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					May 2016
@@ -874,7 +886,7 @@
 				<td class="right num">13</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					April 2016
@@ -886,7 +898,7 @@
 				<td class="right num">13</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					March 2016
@@ -898,7 +910,7 @@
 				<td class="right num">14</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					February 2016
@@ -910,7 +922,7 @@
 				<td class="right num">11</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					January 2016
@@ -922,7 +934,7 @@
 				<td class="right num">17</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					December 2015
@@ -934,7 +946,7 @@
 				<td class="right num">18</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					November 2015
@@ -946,7 +958,7 @@
 				<td class="right num">16</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					October 2015
@@ -958,7 +970,7 @@
 				<td class="right num">82</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					September 2015
@@ -970,7 +982,7 @@
 				<td class="right num">20</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					August 2015
@@ -982,7 +994,7 @@
 				<td class="right num">15</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					July 2015
@@ -994,7 +1006,7 @@
 				<td class="right num">17</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					June 2015
@@ -1006,7 +1018,7 @@
 				<td class="right num">30</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					May 2015
@@ -1018,7 +1030,7 @@
 				<td class="right num">95</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					April 2015
@@ -1030,7 +1042,7 @@
 				<td class="right num">27</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					March 2015
@@ -1042,7 +1054,7 @@
 				<td class="right num">20</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					February 2015
@@ -1054,7 +1066,7 @@
 				<td class="right num">24</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					January 2015
@@ -1066,7 +1078,7 @@
 				<td class="right num">25</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					December 2014
@@ -1078,7 +1090,7 @@
 				<td class="right num">22</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					November 2014
@@ -1090,7 +1102,7 @@
 				<td class="right num">27</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					October 2014
@@ -1102,7 +1114,7 @@
 				<td class="right num">31</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					September 2014
@@ -1114,7 +1126,7 @@
 				<td class="right num">17</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					August 2014
@@ -1126,7 +1138,7 @@
 				<td class="right num">21</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					July 2014
@@ -1138,7 +1150,7 @@
 				<td class="right num">34</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					June 2014
@@ -1150,7 +1162,7 @@
 				<td class="right num">23</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					May 2014
@@ -1162,7 +1174,7 @@
 				<td class="right num">19</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					April 2014
@@ -1174,7 +1186,7 @@
 				<td class="right num">22</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					March 2014
@@ -1186,7 +1198,7 @@
 				<td class="right num">28</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					February 2014
@@ -1198,7 +1210,7 @@
 				<td class="right num">37</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					January 2014
@@ -1210,7 +1222,7 @@
 				<td class="right num">49</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					December 2013
@@ -1222,7 +1234,7 @@
 				<td class="right num">53</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					November 2013
@@ -1234,7 +1246,7 @@
 				<td class="right num">104</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					October 2013
@@ -1246,7 +1258,7 @@
 				<td class="right num">71</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					September 2013
@@ -1258,7 +1270,7 @@
 				<td class="right num">41</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					August 2013
@@ -1270,7 +1282,7 @@
 				<td class="right num">47</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					July 2013
@@ -1282,7 +1294,7 @@
 				<td class="right num">296</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					June 2013
@@ -1294,7 +1306,7 @@
 				<td class="right num">147</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					May 2013
@@ -1306,7 +1318,7 @@
 				<td class="right num">101</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					April 2013
@@ -1318,7 +1330,7 @@
 				<td class="right num">715</td>
 			</tr>
 			
-			<tr >
+			<tr class="odd">
 				
 				<td class="month-cell left">
 					March 2013
@@ -1330,7 +1342,7 @@
 				<td class="right num">320</td>
 			</tr>
 			
-			<tr class="odd">
+			<tr >
 				
 				<td class="month-cell left">
 					February 2013

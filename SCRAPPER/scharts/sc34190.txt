@@ -49,11 +49,11 @@
 		alt="Sonic and SEGA All Stars Racing"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">32</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:34:26Z"></abbr>
+		<span class="num">29</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:35:18Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">37</span>
+		<span class="num">46</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">22.44</td>
-				<td class="right num-p gainorloss italic">&#43;0.6</td>
-				<td class="right gainorloss italic">&#43;2.93%</td>
-				<td class="right num italic">49</td>
+				<td class="right num-f italic">20.98</td>
+				<td class="right num-p gainorloss italic">-0.5</td>
+				<td class="right gainorloss italic">-2.47%</td>
+				<td class="right num italic">52</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">21.51</td>
+				<td class="right num-p gainorloss">-1.66</td>
+				<td class="right gainorloss">-7.16%</td>
+				<td class="right num">52</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">23.17</td>
+				<td class="right num-p gainorloss">1.37</td>
+				<td class="right gainorloss">&#43;6.26%</td>
+				<td class="right num">49</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="DOOM II: Hell on Earth"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">69</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:26:53Z"></abbr>
+		<span class="num">47</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:02:08Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">79</span>
+		<span class="num">86</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">45.02</td>
-				<td class="right num-p gainorloss italic">&#43;1.0</td>
-				<td class="right gainorloss italic">&#43;2.37%</td>
-				<td class="right num italic">91</td>
+				<td class="right num-f italic">49.37</td>
+				<td class="right num-p gainorloss italic">-1.1</td>
+				<td class="right gainorloss italic">-2.10%</td>
+				<td class="right num italic">101</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">50.43</td>
+				<td class="right num-p gainorloss">4.54</td>
+				<td class="right gainorloss">&#43;9.90%</td>
+				<td class="right num">102</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">45.88</td>
+				<td class="right num-p gainorloss">1.90</td>
+				<td class="right gainorloss">&#43;4.33%</td>
+				<td class="right num">91</td>
 			</tr>
 			
 			<tr >

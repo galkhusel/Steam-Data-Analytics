@@ -49,11 +49,11 @@
 		alt="SEGA Mega Drive &amp; Genesis Classics"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">99</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:13:01Z"></abbr>
+		<span class="num">145</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:15:35Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">201</span>
+		<span class="num">153</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">111.30</td>
-				<td class="right num-p gainorloss italic">&#43;16.4</td>
-				<td class="right gainorloss italic">&#43;17.28%</td>
-				<td class="right num italic">204</td>
+				<td class="right num-f italic">120.60</td>
+				<td class="right num-p gainorloss italic">-5.3</td>
+				<td class="right gainorloss italic">-4.23%</td>
+				<td class="right num italic">214</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">125.93</td>
+				<td class="right num-p gainorloss">10.43</td>
+				<td class="right gainorloss">&#43;9.03%</td>
+				<td class="right num">240</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">115.50</td>
+				<td class="right num-p gainorloss">20.61</td>
+				<td class="right gainorloss">&#43;21.71%</td>
+				<td class="right num">218</td>
 			</tr>
 			
 			<tr >

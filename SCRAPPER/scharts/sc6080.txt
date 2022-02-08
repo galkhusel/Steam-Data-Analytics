@@ -49,15 +49,15 @@
 		alt="Thrillville: Off the Rails"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">12</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T21:59:08Z"></abbr>
+		<span class="num">5</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:46:05Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">17</span>
+		<span class="num">16</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
-		<span class="num">33</span>
+		<span class="num">42</span>
 		<br>all-time peak
 	</div>
 </div>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">6.45</td>
-				<td class="right num-p gainorloss italic">&#43;0.3</td>
-				<td class="right gainorloss italic">&#43;4.80%</td>
-				<td class="right num italic">20</td>
+				<td class="right num-f italic">11.57</td>
+				<td class="right num-p gainorloss italic">-0.2</td>
+				<td class="right gainorloss italic">-2.03%</td>
+				<td class="right num italic">42</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">11.81</td>
+				<td class="right num-p gainorloss">5.28</td>
+				<td class="right gainorloss">&#43;80.98%</td>
+				<td class="right num">42</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">6.53</td>
+				<td class="right num-p gainorloss">0.37</td>
+				<td class="right gainorloss">&#43;6.00%</td>
+				<td class="right num">24</td>
 			</tr>
 			
 			<tr >

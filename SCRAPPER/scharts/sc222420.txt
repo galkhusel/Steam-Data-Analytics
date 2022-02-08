@@ -49,11 +49,11 @@
 		alt="THE KING OF FIGHTERS &#39;98 ULTIMATE MATCH FINAL EDITION"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">117</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:16:59Z"></abbr>
+		<span class="num">69</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:19:28Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">171</span>
+		<span class="num">132</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">83.71</td>
-				<td class="right num-p gainorloss italic">&#43;32.3</td>
-				<td class="right gainorloss italic">&#43;62.83%</td>
-				<td class="right num italic">438</td>
+				<td class="right num-f italic">93.76</td>
+				<td class="right num-p gainorloss italic">-1.5</td>
+				<td class="right gainorloss italic">-1.60%</td>
+				<td class="right num italic">180</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">95.29</td>
+				<td class="right num-p gainorloss">11.62</td>
+				<td class="right gainorloss">&#43;13.89%</td>
+				<td class="right num">180</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">83.66</td>
+				<td class="right num-p gainorloss">32.26</td>
+				<td class="right gainorloss">&#43;62.75%</td>
+				<td class="right num">292</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="Red Faction: Armageddon"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">4</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:28:01Z"></abbr>
+		<span class="num">12</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:50:18Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">10</span>
+		<span class="num">13</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">7.43</td>
-				<td class="right num-p gainorloss italic">-0.6</td>
-				<td class="right gainorloss italic">-7.42%</td>
-				<td class="right num italic">22</td>
+				<td class="right num-f italic">9.48</td>
+				<td class="right num-p gainorloss italic">-0.1</td>
+				<td class="right gainorloss italic">-1.39%</td>
+				<td class="right num italic">27</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">9.61</td>
+				<td class="right num-p gainorloss">2.34</td>
+				<td class="right gainorloss">&#43;32.11%</td>
+				<td class="right num">27</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">7.27</td>
+				<td class="right num-p gainorloss">-0.75</td>
+				<td class="right gainorloss">-9.34%</td>
+				<td class="right num">21</td>
 			</tr>
 			
 			<tr >

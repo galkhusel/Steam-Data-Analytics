@@ -49,11 +49,11 @@
 		alt="Men of War: Vietnam"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">16</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:51:33Z"></abbr>
+		<span class="num">21</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:38:41Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">24</span>
+		<span class="num">26</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">7.73</td>
-				<td class="right num-p gainorloss italic">&#43;0.7</td>
-				<td class="right gainorloss italic">&#43;10.18%</td>
-				<td class="right num italic">25</td>
+				<td class="right num-f italic">8.33</td>
+				<td class="right num-p gainorloss italic">-0.0</td>
+				<td class="right gainorloss italic">-0.13%</td>
+				<td class="right num italic">26</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">8.34</td>
+				<td class="right num-p gainorloss">0.52</td>
+				<td class="right gainorloss">&#43;6.60%</td>
+				<td class="right num">23</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">7.82</td>
+				<td class="right num-p gainorloss">0.81</td>
+				<td class="right gainorloss">&#43;11.56%</td>
+				<td class="right num">25</td>
 			</tr>
 			
 			<tr >

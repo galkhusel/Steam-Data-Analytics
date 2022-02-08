@@ -49,11 +49,11 @@
 		alt="A New Beginning - Final Cut"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">13</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:25:37Z"></abbr>
+		<span class="num">6</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:30:20Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">15</span>
+		<span class="num">8</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">5.17</td>
-				<td class="right num-p gainorloss italic">-1.4</td>
-				<td class="right gainorloss italic">-20.80%</td>
-				<td class="right num italic">18</td>
+				<td class="right num-f italic">5.15</td>
+				<td class="right num-p gainorloss italic">-0.2</td>
+				<td class="right gainorloss italic">-3.96%</td>
+				<td class="right num italic">17</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">5.36</td>
+				<td class="right num-p gainorloss">0.15</td>
+				<td class="right gainorloss">&#43;2.86%</td>
+				<td class="right num">17</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">5.21</td>
+				<td class="right num-p gainorloss">-1.32</td>
+				<td class="right gainorloss">-20.19%</td>
+				<td class="right num">18</td>
 			</tr>
 			
 			<tr >

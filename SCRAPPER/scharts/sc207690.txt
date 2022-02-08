@@ -49,11 +49,11 @@
 		alt="Botanicula"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">18</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:50:42Z"></abbr>
+		<span class="num">12</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:42:52Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">21</span>
+		<span class="num">18</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">9.51</td>
-				<td class="right num-p gainorloss italic">-2.6</td>
-				<td class="right gainorloss italic">-21.71%</td>
-				<td class="right num italic">26</td>
+				<td class="right num-f italic">9.54</td>
+				<td class="right num-p gainorloss italic">-0.8</td>
+				<td class="right gainorloss italic">-7.37%</td>
+				<td class="right num italic">28</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">10.30</td>
+				<td class="right num-p gainorloss">0.54</td>
+				<td class="right gainorloss">&#43;5.59%</td>
+				<td class="right num">34</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">9.75</td>
+				<td class="right num-p gainorloss">-2.39</td>
+				<td class="right gainorloss">-19.71%</td>
+				<td class="right num">29</td>
 			</tr>
 			
 			<tr >

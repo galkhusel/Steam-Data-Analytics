@@ -49,11 +49,11 @@
 		alt="The Guild II"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">16</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:51:49Z"></abbr>
+		<span class="num">11</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:26:03Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">23</span>
+		<span class="num">19</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">9.00</td>
-				<td class="right num-p gainorloss italic">&#43;3.0</td>
-				<td class="right gainorloss italic">&#43;49.25%</td>
-				<td class="right num italic">30</td>
+				<td class="right num-f italic">7.28</td>
+				<td class="right num-p gainorloss italic">-0.4</td>
+				<td class="right gainorloss italic">-4.77%</td>
+				<td class="right num italic">23</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">7.65</td>
+				<td class="right num-p gainorloss">-1.71</td>
+				<td class="right gainorloss">-18.30%</td>
+				<td class="right num">24</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">9.36</td>
+				<td class="right num-p gainorloss">3.33</td>
+				<td class="right gainorloss">&#43;55.19%</td>
+				<td class="right num">30</td>
 			</tr>
 			
 			<tr >

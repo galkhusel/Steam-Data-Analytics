@@ -49,11 +49,11 @@
 		alt="Broken Sword 2 - the Smoking Mirror: Remastered"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">16</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:48:46Z"></abbr>
+		<span class="num">19</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:45:14Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">26</span>
+		<span class="num">24</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">9.45</td>
-				<td class="right num-p gainorloss italic">&#43;1.2</td>
-				<td class="right gainorloss italic">&#43;13.93%</td>
-				<td class="right num italic">29</td>
+				<td class="right num-f italic">12.83</td>
+				<td class="right num-p gainorloss italic">-0.4</td>
+				<td class="right gainorloss italic">-2.98%</td>
+				<td class="right num italic">39</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">13.22</td>
+				<td class="right num-p gainorloss">3.22</td>
+				<td class="right gainorloss">&#43;32.18%</td>
+				<td class="right num">42</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">10.00</td>
+				<td class="right num-p gainorloss">1.71</td>
+				<td class="right gainorloss">&#43;20.57%</td>
+				<td class="right num">32</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="Alien: Isolation"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">325</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:12:20Z"></abbr>
+		<span class="num">332</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:10:14Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">429</span>
+		<span class="num">370</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">212.06</td>
-				<td class="right num-p gainorloss italic">&#43;16.0</td>
-				<td class="right gainorloss italic">&#43;8.16%</td>
-				<td class="right num italic">463</td>
+				<td class="right num-f italic">231.91</td>
+				<td class="right num-p gainorloss italic">-7.8</td>
+				<td class="right gainorloss italic">-3.24%</td>
+				<td class="right num italic">466</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">239.68</td>
+				<td class="right num-p gainorloss">22.62</td>
+				<td class="right gainorloss">&#43;10.42%</td>
+				<td class="right num">491</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">217.06</td>
+				<td class="right num-p gainorloss">20.99</td>
+				<td class="right gainorloss">&#43;10.71%</td>
+				<td class="right num">463</td>
 			</tr>
 			
 			<tr >

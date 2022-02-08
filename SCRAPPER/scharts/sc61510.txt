@@ -49,11 +49,11 @@
 		alt="Age of Wonders 2: The Wizard&#39;s Throne"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">15</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:44:16Z"></abbr>
+		<span class="num">14</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:44:08Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">33</span>
+		<span class="num">20</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">13.11</td>
-				<td class="right num-p gainorloss italic">&#43;0.5</td>
-				<td class="right gainorloss italic">&#43;4.23%</td>
-				<td class="right num italic">33</td>
+				<td class="right num-f italic">15.57</td>
+				<td class="right num-p gainorloss italic">&#43;0.1</td>
+				<td class="right gainorloss italic">&#43;0.57%</td>
+				<td class="right num italic">37</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">15.48</td>
+				<td class="right num-p gainorloss">2.10</td>
+				<td class="right gainorloss">&#43;15.66%</td>
+				<td class="right num">37</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">13.38</td>
+				<td class="right num-p gainorloss">0.81</td>
+				<td class="right gainorloss">&#43;6.42%</td>
+				<td class="right num">33</td>
 			</tr>
 			
 			<tr >

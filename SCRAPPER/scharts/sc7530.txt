@@ -49,11 +49,11 @@
 		alt="Two Worlds II Castle Defense"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">2</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:30:53Z"></abbr>
+		<span class="num">1</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:54:30Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">4</span>
+		<span class="num">2</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">2.45</td>
-				<td class="right num-p gainorloss italic">-22.6</td>
-				<td class="right gainorloss italic">-90.25%</td>
-				<td class="right num italic">13</td>
+				<td class="right num-f italic">38.05</td>
+				<td class="right num-p gainorloss italic">&#43;2.3</td>
+				<td class="right gainorloss italic">&#43;6.39%</td>
+				<td class="right num italic">819</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">35.76</td>
+				<td class="right num-p gainorloss">33.34</td>
+				<td class="right gainorloss">&#43;1376.47%</td>
+				<td class="right num">819</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">2.42</td>
+				<td class="right num-p gainorloss">-22.66</td>
+				<td class="right gainorloss">-90.34%</td>
+				<td class="right num">13</td>
 			</tr>
 			
 			<tr >

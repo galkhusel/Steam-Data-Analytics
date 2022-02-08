@@ -49,11 +49,11 @@
 		alt="DC Universe Online"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">761</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T00:07:30Z"></abbr>
+		<span class="num">546</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:05:39Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">847</span>
+		<span class="num">822</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">561.15</td>
-				<td class="right num-p gainorloss italic">&#43;51.1</td>
-				<td class="right gainorloss italic">&#43;10.02%</td>
-				<td class="right num italic">1026</td>
+				<td class="right num-f italic">649.96</td>
+				<td class="right num-p gainorloss italic">-8.8</td>
+				<td class="right gainorloss italic">-1.34%</td>
+				<td class="right num italic">1114</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">658.75</td>
+				<td class="right num-p gainorloss">89.09</td>
+				<td class="right gainorloss">&#43;15.64%</td>
+				<td class="right num">1114</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">569.66</td>
+				<td class="right num-p gainorloss">59.61</td>
+				<td class="right gainorloss">&#43;11.69%</td>
+				<td class="right num">1026</td>
 			</tr>
 			
 			<tr >

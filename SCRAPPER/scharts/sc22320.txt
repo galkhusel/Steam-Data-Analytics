@@ -49,11 +49,11 @@
 		alt="The Elder Scrolls III: Morrowind"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">680</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:07:09Z"></abbr>
+		<span class="num">463</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:07:43Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">701</span>
+		<span class="num">601</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">420.13</td>
-				<td class="right num-p gainorloss italic">&#43;15.5</td>
-				<td class="right gainorloss italic">&#43;3.84%</td>
-				<td class="right num italic">739</td>
+				<td class="right num-f italic">497.18</td>
+				<td class="right num-p gainorloss italic">-17.8</td>
+				<td class="right gainorloss italic">-3.46%</td>
+				<td class="right num italic">874</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">515.00</td>
+				<td class="right num-p gainorloss">84.78</td>
+				<td class="right gainorloss">&#43;19.71%</td>
+				<td class="right num">876</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">430.22</td>
+				<td class="right num-p gainorloss">25.63</td>
+				<td class="right gainorloss">&#43;6.34%</td>
+				<td class="right num">739</td>
 			</tr>
 			
 			<tr >

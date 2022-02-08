@@ -49,11 +49,11 @@
 		alt="Painkiller Hell &amp; Damnation"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">16</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:50:24Z"></abbr>
+		<span class="num">17</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:04:57Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">25</span>
+		<span class="num">26</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">8.82</td>
-				<td class="right num-p gainorloss italic">&#43;0.5</td>
-				<td class="right gainorloss italic">&#43;6.14%</td>
-				<td class="right num italic">34</td>
+				<td class="right num-f italic">9.88</td>
+				<td class="right num-p gainorloss italic">-0.0</td>
+				<td class="right gainorloss italic">-0.07%</td>
+				<td class="right num italic">31</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">9.89</td>
+				<td class="right num-p gainorloss">0.74</td>
+				<td class="right gainorloss">&#43;8.07%</td>
+				<td class="right num">31</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">9.15</td>
+				<td class="right num-p gainorloss">0.84</td>
+				<td class="right gainorloss">&#43;10.09%</td>
+				<td class="right num">34</td>
 			</tr>
 			
 			<tr >

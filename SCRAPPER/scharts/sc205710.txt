@@ -49,11 +49,11 @@
 		alt="EverQuest Free-to-Play"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">273</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:08:38Z"></abbr>
+		<span class="num">323</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:11:10Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">498</span>
+		<span class="num">491</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">298.89</td>
-				<td class="right num-p gainorloss italic">&#43;28.4</td>
-				<td class="right gainorloss italic">&#43;10.50%</td>
-				<td class="right num italic">498</td>
+				<td class="right num-f italic">325.98</td>
+				<td class="right num-p gainorloss italic">-5.2</td>
+				<td class="right gainorloss italic">-1.57%</td>
+				<td class="right num italic">528</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">331.17</td>
+				<td class="right num-p gainorloss">27.48</td>
+				<td class="right gainorloss">&#43;9.05%</td>
+				<td class="right num">530</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">303.69</td>
+				<td class="right num-p gainorloss">33.20</td>
+				<td class="right gainorloss">&#43;12.27%</td>
+				<td class="right num">498</td>
 			</tr>
 			
 			<tr >

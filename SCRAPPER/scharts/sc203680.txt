@@ -49,11 +49,11 @@
 		alt="F1 Race Stars"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">22</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:38:07Z"></abbr>
+		<span class="num">29</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:24:51Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">39</span>
+		<span class="num">29</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">13.05</td>
-				<td class="right num-p gainorloss italic">&#43;3.7</td>
-				<td class="right gainorloss italic">&#43;39.48%</td>
-				<td class="right num italic">52</td>
+				<td class="right num-f italic">13.37</td>
+				<td class="right num-p gainorloss italic">-0.7</td>
+				<td class="right gainorloss italic">-4.88%</td>
+				<td class="right num italic">46</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">14.05</td>
+				<td class="right num-p gainorloss">-0.06</td>
+				<td class="right gainorloss">-0.41%</td>
+				<td class="right num">50</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">14.11</td>
+				<td class="right num-p gainorloss">4.76</td>
+				<td class="right gainorloss">&#43;50.89%</td>
+				<td class="right num">60</td>
 			</tr>
 			
 			<tr >

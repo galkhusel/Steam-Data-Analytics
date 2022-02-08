@@ -49,11 +49,11 @@
 		alt="Jane&#39;s Advanced Strike Fighters"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:58:34Z"></abbr>
+		<span class="num">0</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:14:32Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">2</span>
+		<span class="num">1</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">1.12</td>
-				<td class="right num-p gainorloss italic">&#43;0.5</td>
-				<td class="right gainorloss italic">&#43;84.93%</td>
-				<td class="right num italic">4</td>
+				<td class="right num-f italic">0.59</td>
+				<td class="right num-p gainorloss italic">-0.2</td>
+				<td class="right gainorloss italic">-28.48%</td>
+				<td class="right num italic">2</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">0.82</td>
+				<td class="right num-p gainorloss">-0.34</td>
+				<td class="right gainorloss">-29.24%</td>
+				<td class="right num">2</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">1.17</td>
+				<td class="right num-p gainorloss">0.56</td>
+				<td class="right gainorloss">&#43;91.77%</td>
+				<td class="right num">4</td>
 			</tr>
 			
 			<tr >

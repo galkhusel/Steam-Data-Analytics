@@ -49,11 +49,11 @@
 		alt="Sniper Elite V2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">79</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:22:44Z"></abbr>
+		<span class="num">104</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:22:12Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">152</span>
+		<span class="num">113</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">63.29</td>
-				<td class="right num-p gainorloss italic">&#43;1.3</td>
-				<td class="right gainorloss italic">&#43;2.10%</td>
-				<td class="right num italic">152</td>
+				<td class="right num-f italic">67.28</td>
+				<td class="right num-p gainorloss italic">-2.0</td>
+				<td class="right gainorloss italic">-2.93%</td>
+				<td class="right num italic">162</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">69.30</td>
+				<td class="right num-p gainorloss">4.83</td>
+				<td class="right gainorloss">&#43;7.49%</td>
+				<td class="right num">166</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">64.47</td>
+				<td class="right num-p gainorloss">2.48</td>
+				<td class="right gainorloss">&#43;4.01%</td>
+				<td class="right num">152</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="Mixcraft 8 Home Studio"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">52</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:30:03Z"></abbr>
+		<span class="num">38</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:31:25Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">52</span>
+		<span class="num">47</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">41.70</td>
-				<td class="right num-p gainorloss italic">-0.9</td>
-				<td class="right gainorloss italic">-2.10%</td>
-				<td class="right num italic">64</td>
+				<td class="right num-f italic">40.73</td>
+				<td class="right num-p gainorloss italic">-1.0</td>
+				<td class="right gainorloss italic">-2.35%</td>
+				<td class="right num italic">62</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">41.71</td>
+				<td class="right num-p gainorloss">-0.31</td>
+				<td class="right gainorloss">-0.73%</td>
+				<td class="right num">62</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">42.02</td>
+				<td class="right num-p gainorloss">-0.57</td>
+				<td class="right gainorloss">-1.35%</td>
+				<td class="right num">64</td>
 			</tr>
 			
 			<tr >

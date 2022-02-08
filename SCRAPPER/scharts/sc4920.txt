@@ -49,11 +49,11 @@
 		alt="Natural Selection 2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">242</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:12:42Z"></abbr>
+		<span class="num">123</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:12:37Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">308</span>
+		<span class="num">284</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">141.30</td>
-				<td class="right num-p gainorloss italic">&#43;14.3</td>
-				<td class="right gainorloss italic">&#43;11.27%</td>
-				<td class="right num italic">334</td>
+				<td class="right num-f italic">168.87</td>
+				<td class="right num-p gainorloss italic">-8.8</td>
+				<td class="right gainorloss italic">-4.97%</td>
+				<td class="right num italic">356</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">177.70</td>
+				<td class="right num-p gainorloss">30.17</td>
+				<td class="right gainorloss">&#43;20.45%</td>
+				<td class="right num">424</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">147.53</td>
+				<td class="right num-p gainorloss">20.54</td>
+				<td class="right gainorloss">&#43;16.17%</td>
+				<td class="right num">334</td>
 			</tr>
 			
 			<tr >

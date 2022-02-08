@@ -49,15 +49,15 @@
 		alt="DayZ"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">36103</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:02:18Z"></abbr>
+		<span class="num">41243</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:00:30Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">43430</span>
+		<span class="num">41570</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
-		<span class="num">45973</span>
+		<span class="num">52696</span>
 		<br>all-time peak
 	</div>
 </div>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">25625.13</td>
-				<td class="right num-p gainorloss italic">&#43;1149.3</td>
-				<td class="right gainorloss italic">&#43;4.70%</td>
-				<td class="right num italic">43591</td>
+				<td class="right num-f italic">30305.69</td>
+				<td class="right num-p gainorloss italic">-785.0</td>
+				<td class="right gainorloss italic">-2.52%</td>
+				<td class="right num italic">52696</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">31090.68</td>
+				<td class="right num-p gainorloss">5108.16</td>
+				<td class="right gainorloss">&#43;19.66%</td>
+				<td class="right num">52696</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">25982.52</td>
+				<td class="right num-p gainorloss">1506.65</td>
+				<td class="right gainorloss">&#43;6.16%</td>
+				<td class="right num">44592</td>
 			</tr>
 			
 			<tr >

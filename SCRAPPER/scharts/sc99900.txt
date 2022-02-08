@@ -49,11 +49,11 @@
 		alt="Spiral Knights"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">131</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:16:30Z"></abbr>
+		<span class="num">137</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:16:08Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">207</span>
+		<span class="num">182</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">147.24</td>
-				<td class="right num-p gainorloss italic">&#43;4.9</td>
-				<td class="right gainorloss italic">&#43;3.42%</td>
-				<td class="right num italic">313</td>
+				<td class="right num-f italic">137.09</td>
+				<td class="right num-p gainorloss italic">-4.6</td>
+				<td class="right gainorloss italic">-3.24%</td>
+				<td class="right num italic">232</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">141.68</td>
+				<td class="right num-p gainorloss">-2.97</td>
+				<td class="right gainorloss">-2.06%</td>
+				<td class="right num">240</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">144.66</td>
+				<td class="right num-p gainorloss">2.29</td>
+				<td class="right gainorloss">&#43;1.61%</td>
+				<td class="right num">235</td>
 			</tr>
 			
 			<tr >

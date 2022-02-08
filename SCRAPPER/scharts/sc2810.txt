@@ -49,11 +49,11 @@
 		alt="X3: Reunion"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">28</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T21:38:52Z"></abbr>
+		<span class="num">12</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:37:59Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">32</span>
+		<span class="num">20</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">12.42</td>
-				<td class="right num-p gainorloss italic">&#43;2.0</td>
-				<td class="right gainorloss italic">&#43;18.72%</td>
-				<td class="right num italic">33</td>
+				<td class="right num-f italic">14.94</td>
+				<td class="right num-p gainorloss italic">-0.6</td>
+				<td class="right gainorloss italic">-3.92%</td>
+				<td class="right num italic">37</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">15.55</td>
+				<td class="right num-p gainorloss">2.78</td>
+				<td class="right gainorloss">&#43;21.75%</td>
+				<td class="right num">37</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">12.77</td>
+				<td class="right num-p gainorloss">2.31</td>
+				<td class="right gainorloss">&#43;22.10%</td>
+				<td class="right num">33</td>
 			</tr>
 			
 			<tr >

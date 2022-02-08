@@ -49,11 +49,11 @@
 		alt="Bloodline Champions"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:55:16Z"></abbr>
+		<span class="num">8</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T13:58:51Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">16</span>
+		<span class="num">10</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">4.00</td>
-				<td class="right num-p gainorloss italic">&#43;1.6</td>
-				<td class="right gainorloss italic">&#43;68.72%</td>
-				<td class="right num italic">22</td>
+				<td class="right num-f italic">3.66</td>
+				<td class="right num-p gainorloss italic">-0.6</td>
+				<td class="right gainorloss italic">-13.91%</td>
+				<td class="right num italic">16</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">4.26</td>
+				<td class="right num-p gainorloss">0.05</td>
+				<td class="right gainorloss">&#43;1.21%</td>
+				<td class="right num">31</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">4.20</td>
+				<td class="right num-p gainorloss">1.83</td>
+				<td class="right gainorloss">&#43;77.19%</td>
+				<td class="right num">22</td>
 			</tr>
 			
 			<tr >

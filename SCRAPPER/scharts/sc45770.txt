@@ -49,11 +49,11 @@
 		alt="Dead Rising 2: Off the Record"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">26</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:27:36Z"></abbr>
+		<span class="num">25</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:30:08Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">57</span>
+		<span class="num">58</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">21.46</td>
-				<td class="right num-p gainorloss italic">&#43;0.2</td>
-				<td class="right gainorloss italic">&#43;1.01%</td>
-				<td class="right num italic">57</td>
+				<td class="right num-f italic">28.69</td>
+				<td class="right num-p gainorloss italic">&#43;0.9</td>
+				<td class="right gainorloss italic">&#43;3.29%</td>
+				<td class="right num italic">58</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">27.78</td>
+				<td class="right num-p gainorloss">5.68</td>
+				<td class="right gainorloss">&#43;25.71%</td>
+				<td class="right num">58</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">22.10</td>
+				<td class="right num-p gainorloss">0.86</td>
+				<td class="right gainorloss">&#43;4.03%</td>
+				<td class="right num">57</td>
 			</tr>
 			
 			<tr >

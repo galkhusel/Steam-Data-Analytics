@@ -49,8 +49,8 @@
 		alt="Kohan: Ahriman&#39;s Gift"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:58:34Z"></abbr>
+		<span class="num">4</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:19:04Z"></abbr>
 	</div>
 	<div class="app-stat"> 
 		<span class="num">6</span>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">3.20</td>
-				<td class="right num-p gainorloss italic">-0.6</td>
-				<td class="right gainorloss italic">-15.25%</td>
-				<td class="right num italic">9</td>
+				<td class="right num-f italic">2.71</td>
+				<td class="right num-p gainorloss italic">-0.0</td>
+				<td class="right gainorloss italic">-1.25%</td>
+				<td class="right num italic">10</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">2.74</td>
+				<td class="right num-p gainorloss">-0.39</td>
+				<td class="right gainorloss">-12.36%</td>
+				<td class="right num">10</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">3.13</td>
+				<td class="right num-p gainorloss">-0.65</td>
+				<td class="right gainorloss">-17.16%</td>
+				<td class="right num">9</td>
 			</tr>
 			
 			<tr >

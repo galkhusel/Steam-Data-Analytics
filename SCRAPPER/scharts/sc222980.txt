@@ -49,8 +49,8 @@
 		alt="Dead Pixels"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">0</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:20:58Z"></abbr>
+		<span class="num">3</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:16:03Z"></abbr>
 	</div>
 	<div class="app-stat"> 
 		<span class="num">3</span>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">1.34</td>
-				<td class="right num-p gainorloss italic">&#43;0.2</td>
-				<td class="right gainorloss italic">&#43;12.61%</td>
-				<td class="right num italic">4</td>
+				<td class="right num-f italic">1.50</td>
+				<td class="right num-p gainorloss italic">-0.1</td>
+				<td class="right gainorloss italic">-4.13%</td>
+				<td class="right num italic">5</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">1.56</td>
+				<td class="right num-p gainorloss">0.17</td>
+				<td class="right gainorloss">&#43;12.45%</td>
+				<td class="right num">6</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">1.39</td>
+				<td class="right num-p gainorloss">0.20</td>
+				<td class="right gainorloss">&#43;16.41%</td>
+				<td class="right num">5</td>
 			</tr>
 			
 			<tr >

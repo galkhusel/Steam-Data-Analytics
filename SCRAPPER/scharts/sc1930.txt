@@ -49,11 +49,11 @@
 		alt="Two Worlds: Epic Edition"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">36</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:29:55Z"></abbr>
+		<span class="num">34</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:12:30Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">60</span>
+		<span class="num">312</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">58.43</td>
-				<td class="right num-p gainorloss italic">-126.5</td>
-				<td class="right gainorloss italic">-68.40%</td>
-				<td class="right num italic">632</td>
+				<td class="right num-f italic">197.09</td>
+				<td class="right num-p gainorloss italic">-15.9</td>
+				<td class="right gainorloss italic">-7.47%</td>
+				<td class="right num italic">2541</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">213.00</td>
+				<td class="right num-p gainorloss">149.47</td>
+				<td class="right gainorloss">&#43;235.29%</td>
+				<td class="right num">2541</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">63.53</td>
+				<td class="right num-p gainorloss">-121.37</td>
+				<td class="right gainorloss">-65.64%</td>
+				<td class="right num">674</td>
 			</tr>
 			
 			<tr >

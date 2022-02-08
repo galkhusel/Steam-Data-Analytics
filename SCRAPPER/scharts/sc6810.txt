@@ -49,11 +49,11 @@
 		alt="Commandos: Beyond the Call of Duty"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">19</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:39:08Z"></abbr>
+		<span class="num">20</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:33:06Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">34</span>
+		<span class="num">30</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">16.92</td>
-				<td class="right num-p gainorloss italic">&#43;1.1</td>
-				<td class="right gainorloss italic">&#43;6.69%</td>
-				<td class="right num italic">37</td>
+				<td class="right num-f italic">20.63</td>
+				<td class="right num-p gainorloss italic">-0.0</td>
+				<td class="right gainorloss italic">-0.01%</td>
+				<td class="right num italic">42</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">20.63</td>
+				<td class="right num-p gainorloss">3.28</td>
+				<td class="right gainorloss">&#43;18.89%</td>
+				<td class="right num">42</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">17.35</td>
+				<td class="right num-p gainorloss">1.50</td>
+				<td class="right gainorloss">&#43;9.47%</td>
+				<td class="right num">37</td>
 			</tr>
 			
 			<tr >

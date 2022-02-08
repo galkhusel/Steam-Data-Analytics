@@ -49,11 +49,11 @@
 		alt="Counter-Strike: Global Offensive"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">602154</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:00:50Z"></abbr>
+		<span class="num">876920</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:00:12Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">780394</span>
+		<span class="num">876920</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">548678.03</td>
-				<td class="right num-p gainorloss italic">&#43;516.4</td>
-				<td class="right gainorloss italic">&#43;0.09%</td>
-				<td class="right num italic">950586</td>
+				<td class="right num-f italic">607636.63</td>
+				<td class="right num-p gainorloss italic">&#43;5260.4</td>
+				<td class="right gainorloss italic">&#43;0.87%</td>
+				<td class="right num italic">991625</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">602376.27</td>
+				<td class="right num-p gainorloss">55762.08</td>
+				<td class="right gainorloss">&#43;10.20%</td>
+				<td class="right num">991625</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">546614.19</td>
+				<td class="right num-p gainorloss">-1547.48</td>
+				<td class="right gainorloss">-0.28%</td>
+				<td class="right num">950586</td>
 			</tr>
 			
 			<tr >

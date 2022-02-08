@@ -49,11 +49,11 @@
 		alt="Warhammer 40,000: Dawn of War - Soulstorm"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">794</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:05:23Z"></abbr>
+		<span class="num">888</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:05:16Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">1297</span>
+		<span class="num">1212</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">777.02</td>
-				<td class="right num-p gainorloss italic">&#43;85.3</td>
-				<td class="right gainorloss italic">&#43;12.34%</td>
-				<td class="right num italic">1311</td>
+				<td class="right num-f italic">871.66</td>
+				<td class="right num-p gainorloss italic">-26.3</td>
+				<td class="right gainorloss italic">-2.93%</td>
+				<td class="right num italic">1530</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">897.98</td>
+				<td class="right num-p gainorloss">98.50</td>
+				<td class="right gainorloss">&#43;12.32%</td>
+				<td class="right num">1569</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">799.48</td>
+				<td class="right num-p gainorloss">107.79</td>
+				<td class="right gainorloss">&#43;15.58%</td>
+				<td class="right num">1392</td>
 			</tr>
 			
 			<tr >

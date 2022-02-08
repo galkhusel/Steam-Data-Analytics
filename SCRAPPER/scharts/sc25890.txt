@@ -49,11 +49,11 @@
 		alt="Hearts of Iron III"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">126</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:18:57Z"></abbr>
+		<span class="num">129</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:18:15Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">148</span>
+		<span class="num">144</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">95.72</td>
-				<td class="right num-p gainorloss italic">&#43;2.9</td>
-				<td class="right gainorloss italic">&#43;3.08%</td>
-				<td class="right num italic">179</td>
+				<td class="right num-f italic">96.50</td>
+				<td class="right num-p gainorloss italic">-2.9</td>
+				<td class="right gainorloss italic">-2.95%</td>
+				<td class="right num italic">187</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">99.43</td>
+				<td class="right num-p gainorloss">2.24</td>
+				<td class="right gainorloss">&#43;2.31%</td>
+				<td class="right num">187</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">97.19</td>
+				<td class="right num-p gainorloss">4.33</td>
+				<td class="right gainorloss">&#43;4.67%</td>
+				<td class="right num">179</td>
 			</tr>
 			
 			<tr >

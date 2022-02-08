@@ -49,11 +49,11 @@
 		alt="Delta Force: Task Force Dagger"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">8</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:30:27Z"></abbr>
+		<span class="num">3</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:13:34Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">9</span>
+		<span class="num">8</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">4.12</td>
-				<td class="right num-p gainorloss italic">&#43;0.4</td>
-				<td class="right gainorloss italic">&#43;11.73%</td>
-				<td class="right num italic">12</td>
+				<td class="right num-f italic">4.28</td>
+				<td class="right num-p gainorloss italic">-0.2</td>
+				<td class="right gainorloss italic">-4.96%</td>
+				<td class="right num italic">9</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">4.50</td>
+				<td class="right num-p gainorloss">0.31</td>
+				<td class="right gainorloss">&#43;7.26%</td>
+				<td class="right num">12</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">4.20</td>
+				<td class="right num-p gainorloss">0.51</td>
+				<td class="right gainorloss">&#43;13.83%</td>
+				<td class="right num">12</td>
 			</tr>
 			
 			<tr >

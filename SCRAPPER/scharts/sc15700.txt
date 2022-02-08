@@ -49,11 +49,11 @@
 		alt="Oddworld: Abe&#39;s Oddysee"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">55</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:30:45Z"></abbr>
+		<span class="num">9</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:39:21Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">58</span>
+		<span class="num">53</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">26.64</td>
-				<td class="right num-p gainorloss italic">&#43;8.7</td>
-				<td class="right gainorloss italic">&#43;48.37%</td>
-				<td class="right num italic">70</td>
+				<td class="right num-f italic">35.90</td>
+				<td class="right num-p gainorloss italic">-2.6</td>
+				<td class="right gainorloss italic">-6.71%</td>
+				<td class="right num italic">72</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">38.49</td>
+				<td class="right num-p gainorloss">7.83</td>
+				<td class="right gainorloss">&#43;25.56%</td>
+				<td class="right num">73</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">30.65</td>
+				<td class="right num-p gainorloss">12.70</td>
+				<td class="right gainorloss">&#43;70.73%</td>
+				<td class="right num">70</td>
 			</tr>
 			
 			<tr >

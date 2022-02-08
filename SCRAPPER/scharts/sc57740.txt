@@ -49,11 +49,11 @@
 		alt="Jagged Alliance - Back in Action"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">54</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:25:13Z"></abbr>
+		<span class="num">61</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:24:41Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">82</span>
+		<span class="num">71</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">46.32</td>
-				<td class="right num-p gainorloss italic">&#43;1.0</td>
-				<td class="right gainorloss italic">&#43;2.31%</td>
-				<td class="right num italic">87</td>
+				<td class="right num-f italic">49.53</td>
+				<td class="right num-p gainorloss italic">-1.0</td>
+				<td class="right gainorloss italic">-1.89%</td>
+				<td class="right num italic">97</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">50.48</td>
+				<td class="right num-p gainorloss">3.20</td>
+				<td class="right gainorloss">&#43;6.76%</td>
+				<td class="right num">97</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">47.28</td>
+				<td class="right num-p gainorloss">2.01</td>
+				<td class="right gainorloss">&#43;4.44%</td>
+				<td class="right num">87</td>
 			</tr>
 			
 			<tr >

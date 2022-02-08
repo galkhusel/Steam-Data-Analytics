@@ -49,11 +49,11 @@
 		alt="The Witcher: Enhanced Edition"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">4439</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:02:07Z"></abbr>
+		<span class="num">2083</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:02:47Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">5390</span>
+		<span class="num">2387</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">1273.71</td>
-				<td class="right num-p gainorloss italic">&#43;562.7</td>
-				<td class="right gainorloss italic">&#43;79.14%</td>
-				<td class="right num italic">5390</td>
+				<td class="right num-f italic">2008.86</td>
+				<td class="right num-p gainorloss italic">-292.5</td>
+				<td class="right gainorloss italic">-12.71%</td>
+				<td class="right num italic">5132</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">2301.37</td>
+				<td class="right num-p gainorloss">790.03</td>
+				<td class="right gainorloss">&#43;52.27%</td>
+				<td class="right num">6468</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">1511.34</td>
+				<td class="right num-p gainorloss">800.34</td>
+				<td class="right gainorloss">&#43;112.56%</td>
+				<td class="right num">5390</td>
 			</tr>
 			
 			<tr >

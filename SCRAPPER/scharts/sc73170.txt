@@ -49,11 +49,11 @@
 		alt="Darkest Hour: A Hearts of Iron Game"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">114</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:17:46Z"></abbr>
+		<span class="num">141</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:17:35Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">153</span>
+		<span class="num">144</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">98.25</td>
-				<td class="right num-p gainorloss italic">&#43;1.4</td>
-				<td class="right gainorloss italic">&#43;1.42%</td>
-				<td class="right num italic">176</td>
+				<td class="right num-f italic">107.46</td>
+				<td class="right num-p gainorloss italic">-2.0</td>
+				<td class="right gainorloss italic">-1.86%</td>
+				<td class="right num italic">210</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">109.49</td>
+				<td class="right num-p gainorloss">9.11</td>
+				<td class="right gainorloss">&#43;9.07%</td>
+				<td class="right num">210</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">100.39</td>
+				<td class="right num-p gainorloss">3.51</td>
+				<td class="right gainorloss">&#43;3.62%</td>
+				<td class="right num">176</td>
 			</tr>
 			
 			<tr >

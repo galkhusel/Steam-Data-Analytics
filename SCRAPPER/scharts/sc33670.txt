@@ -49,11 +49,11 @@
 		alt="Disciples III: Renaissance"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">11</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T11:54:00Z"></abbr>
+		<span class="num">4</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:26:24Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">11</span>
+		<span class="num">8</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">7.14</td>
-				<td class="right num-p gainorloss italic">-1.8</td>
-				<td class="right gainorloss italic">-20.56%</td>
-				<td class="right num italic">24</td>
+				<td class="right num-f italic">6.30</td>
+				<td class="right num-p gainorloss italic">-0.4</td>
+				<td class="right gainorloss italic">-5.99%</td>
+				<td class="right num italic">18</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">6.70</td>
+				<td class="right num-p gainorloss">-0.61</td>
+				<td class="right gainorloss">-8.33%</td>
+				<td class="right num">18</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">7.31</td>
+				<td class="right num-p gainorloss">-1.68</td>
+				<td class="right gainorloss">-18.66%</td>
+				<td class="right num">24</td>
 			</tr>
 			
 			<tr >

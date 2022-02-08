@@ -49,11 +49,11 @@
 		alt="Far Cry 2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">147</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:14:29Z"></abbr>
+		<span class="num">134</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:17:09Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">216</span>
+		<span class="num">187</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">132.42</td>
-				<td class="right num-p gainorloss italic">&#43;42.6</td>
-				<td class="right gainorloss italic">&#43;47.51%</td>
-				<td class="right num italic">284</td>
+				<td class="right num-f italic">106.05</td>
+				<td class="right num-p gainorloss italic">-3.7</td>
+				<td class="right gainorloss italic">-3.36%</td>
+				<td class="right num italic">219</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">109.74</td>
+				<td class="right num-p gainorloss">-22.93</td>
+				<td class="right gainorloss">-17.28%</td>
+				<td class="right num">219</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">132.66</td>
+				<td class="right num-p gainorloss">42.89</td>
+				<td class="right gainorloss">&#43;47.78%</td>
+				<td class="right num">284</td>
 			</tr>
 			
 			<tr >

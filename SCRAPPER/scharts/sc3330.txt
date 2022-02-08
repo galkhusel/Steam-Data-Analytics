@@ -49,15 +49,15 @@
 		alt="Zuma Deluxe"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">433</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:08:33Z"></abbr>
+		<span class="num">621</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:05:35Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">578</span>
+		<span class="num">640</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
-		<span class="num">578</span>
+		<span class="num">643</span>
 		<br>all-time peak
 	</div>
 </div>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">418.20</td>
-				<td class="right num-p gainorloss italic">&#43;18.5</td>
-				<td class="right gainorloss italic">&#43;4.63%</td>
-				<td class="right num italic">578</td>
+				<td class="right num-f italic">475.67</td>
+				<td class="right num-p gainorloss italic">&#43;3.7</td>
+				<td class="right gainorloss italic">&#43;0.79%</td>
+				<td class="right num italic">643</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">471.93</td>
+				<td class="right num-p gainorloss">50.22</td>
+				<td class="right gainorloss">&#43;11.91%</td>
+				<td class="right num">643</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">421.71</td>
+				<td class="right num-p gainorloss">22.00</td>
+				<td class="right gainorloss">&#43;5.50%</td>
+				<td class="right num">578</td>
 			</tr>
 			
 			<tr >

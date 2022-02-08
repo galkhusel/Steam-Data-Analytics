@@ -49,15 +49,15 @@
 		alt="Bejeweled Deluxe"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">6</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:04:54Z"></abbr>
-	</div>
-	<div class="app-stat"> 
-		<span class="num">8</span>
-		<br>24-hour peak
+		<span class="num">7</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:50:43Z"></abbr>
 	</div>
 	<div class="app-stat"> 
 		<span class="num">14</span>
+		<br>24-hour peak
+	</div>
+	<div class="app-stat"> 
+		<span class="num">16</span>
 		<br>all-time peak
 	</div>
 </div>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">5.96</td>
-				<td class="right num-p gainorloss italic">&#43;0.0</td>
-				<td class="right gainorloss italic">&#43;0.33%</td>
-				<td class="right num italic">14</td>
+				<td class="right num-f italic">7.94</td>
+				<td class="right num-p gainorloss italic">&#43;0.2</td>
+				<td class="right gainorloss italic">&#43;2.52%</td>
+				<td class="right num italic">16</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">7.74</td>
+				<td class="right num-p gainorloss">1.74</td>
+				<td class="right gainorloss">&#43;28.88%</td>
+				<td class="right num">16</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">6.01</td>
+				<td class="right num-p gainorloss">0.06</td>
+				<td class="right gainorloss">&#43;1.08%</td>
+				<td class="right num">14</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="Chocolatier: Decadence by Design"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">3</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:35:08Z"></abbr>
+		<span class="num">0</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T12:59:16Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">12</span>
+		<span class="num">10</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">3.63</td>
-				<td class="right num-p gainorloss italic">-0.8</td>
-				<td class="right gainorloss italic">-18.71%</td>
+				<td class="right num-f italic">4.42</td>
+				<td class="right num-p gainorloss italic">-0.3</td>
+				<td class="right gainorloss italic">-5.90%</td>
 				<td class="right num italic">12</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">4.70</td>
+				<td class="right num-p gainorloss">0.90</td>
+				<td class="right gainorloss">&#43;23.62%</td>
+				<td class="right num">13</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">3.80</td>
+				<td class="right num-p gainorloss">-0.66</td>
+				<td class="right gainorloss">-14.85%</td>
+				<td class="right num">12</td>
 			</tr>
 			
 			<tr >

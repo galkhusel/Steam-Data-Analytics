@@ -49,11 +49,11 @@
 		alt="Saints Row IV"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">476</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:08:59Z"></abbr>
+		<span class="num">361</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:09:15Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">549</span>
+		<span class="num">444</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">319.90</td>
-				<td class="right num-p gainorloss italic">-93.8</td>
-				<td class="right gainorloss italic">-22.68%</td>
-				<td class="right num italic">659</td>
+				<td class="right num-f italic">295.12</td>
+				<td class="right num-p gainorloss italic">-13.5</td>
+				<td class="right gainorloss italic">-4.37%</td>
+				<td class="right num italic">549</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">308.61</td>
+				<td class="right num-p gainorloss">-10.33</td>
+				<td class="right gainorloss">-3.24%</td>
+				<td class="right num">642</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">318.94</td>
+				<td class="right num-p gainorloss">-94.81</td>
+				<td class="right gainorloss">-22.91%</td>
+				<td class="right num">584</td>
 			</tr>
 			
 			<tr >

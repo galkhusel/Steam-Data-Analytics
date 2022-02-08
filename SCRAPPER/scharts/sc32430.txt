@@ -49,11 +49,11 @@
 		alt="STAR WARS™: The Force Unleashed™ Ultimate Sith Edition"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">88</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:17:59Z"></abbr>
+		<span class="num">139</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:14:33Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">145</span>
+		<span class="num">196</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">75.47</td>
-				<td class="right num-p gainorloss italic">&#43;5.5</td>
-				<td class="right gainorloss italic">&#43;7.92%</td>
-				<td class="right num italic">170</td>
+				<td class="right num-f italic">84.22</td>
+				<td class="right num-p gainorloss italic">-1.0</td>
+				<td class="right gainorloss italic">-1.16%</td>
+				<td class="right num italic">215</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">85.21</td>
+				<td class="right num-p gainorloss">8.26</td>
+				<td class="right gainorloss">&#43;10.73%</td>
+				<td class="right num">215</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">76.95</td>
+				<td class="right num-p gainorloss">7.02</td>
+				<td class="right gainorloss">&#43;10.04%</td>
+				<td class="right num">173</td>
 			</tr>
 			
 			<tr >

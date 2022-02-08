@@ -49,11 +49,11 @@
 		alt="Syberia"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">75</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:22:22Z"></abbr>
+		<span class="num">78</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:22:26Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">117</span>
+		<span class="num">85</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">53.92</td>
-				<td class="right num-p gainorloss italic">-5.4</td>
-				<td class="right gainorloss italic">-9.04%</td>
-				<td class="right num italic">163</td>
+				<td class="right num-f italic">44.87</td>
+				<td class="right num-p gainorloss italic">-3.5</td>
+				<td class="right gainorloss italic">-7.31%</td>
+				<td class="right num italic">109</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">48.41</td>
+				<td class="right num-p gainorloss">-6.86</td>
+				<td class="right gainorloss">-12.41%</td>
+				<td class="right num">125</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">55.26</td>
+				<td class="right num-p gainorloss">-4.01</td>
+				<td class="right gainorloss">-6.77%</td>
+				<td class="right num">163</td>
 			</tr>
 			
 			<tr >

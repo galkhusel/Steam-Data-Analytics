@@ -49,11 +49,11 @@
 		alt="Train Simulator"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1258</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T00:04:04Z"></abbr>
+		<span class="num">1776</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:03:01Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">2411</span>
+		<span class="num">1826</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">1107.80</td>
-				<td class="right num-p gainorloss italic">&#43;124.5</td>
-				<td class="right gainorloss italic">&#43;12.66%</td>
-				<td class="right num italic">2434</td>
+				<td class="right num-f italic">1184.72</td>
+				<td class="right num-p gainorloss italic">-50.8</td>
+				<td class="right gainorloss italic">-4.11%</td>
+				<td class="right num italic">2566</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">1235.49</td>
+				<td class="right num-p gainorloss">87.69</td>
+				<td class="right gainorloss">&#43;7.64%</td>
+				<td class="right num">2566</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">1147.80</td>
+				<td class="right num-p gainorloss">164.46</td>
+				<td class="right gainorloss">&#43;16.73%</td>
+				<td class="right num">2434</td>
 			</tr>
 			
 			<tr >

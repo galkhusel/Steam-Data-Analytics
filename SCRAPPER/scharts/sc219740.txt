@@ -49,11 +49,11 @@
 		alt="Don&#39;t Starve"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">3540</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:03:02Z"></abbr>
+		<span class="num">1727</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:01:12Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">3720</span>
+		<span class="num">3693</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">2216.13</td>
-				<td class="right num-p gainorloss italic">&#43;213.5</td>
-				<td class="right gainorloss italic">&#43;10.66%</td>
-				<td class="right num italic">4220</td>
+				<td class="right num-f italic">2368.66</td>
+				<td class="right num-p gainorloss italic">-29.8</td>
+				<td class="right gainorloss italic">-1.24%</td>
+				<td class="right num italic">4039</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">2398.48</td>
+				<td class="right num-p gainorloss">166.30</td>
+				<td class="right gainorloss">&#43;7.45%</td>
+				<td class="right num">4267</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">2232.17</td>
+				<td class="right num-p gainorloss">229.56</td>
+				<td class="right gainorloss">&#43;11.46%</td>
+				<td class="right num">4220</td>
 			</tr>
 			
 			<tr >

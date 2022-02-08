@@ -49,11 +49,11 @@
 		alt="X3: Terran Conflict"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">85</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:24:32Z"></abbr>
+		<span class="num">83</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:20:04Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">98</span>
+		<span class="num">116</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">58.72</td>
-				<td class="right num-p gainorloss italic">-6.2</td>
-				<td class="right gainorloss italic">-9.58%</td>
-				<td class="right num italic">112</td>
+				<td class="right num-f italic">73.78</td>
+				<td class="right num-p gainorloss italic">-1.2</td>
+				<td class="right gainorloss italic">-1.57%</td>
+				<td class="right num italic">145</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">74.96</td>
+				<td class="right num-p gainorloss">15.65</td>
+				<td class="right gainorloss">&#43;26.39%</td>
+				<td class="right num">145</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">59.31</td>
+				<td class="right num-p gainorloss">-5.63</td>
+				<td class="right gainorloss">-8.67%</td>
+				<td class="right num">110</td>
 			</tr>
 			
 			<tr >

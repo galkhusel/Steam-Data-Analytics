@@ -49,11 +49,11 @@
 		alt="Sanctum 2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">20</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:30:16Z"></abbr>
+		<span class="num">47</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:35:40Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">73</span>
+		<span class="num">58</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">24.01</td>
-				<td class="right num-p gainorloss italic">-1.1</td>
-				<td class="right gainorloss italic">-4.36%</td>
-				<td class="right num italic">73</td>
+				<td class="right num-f italic">29.97</td>
+				<td class="right num-p gainorloss italic">-1.0</td>
+				<td class="right gainorloss italic">-3.10%</td>
+				<td class="right num italic">78</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">30.93</td>
+				<td class="right num-p gainorloss">5.93</td>
+				<td class="right gainorloss">&#43;23.71%</td>
+				<td class="right num">78</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">25.00</td>
+				<td class="right num-p gainorloss">-0.10</td>
+				<td class="right gainorloss">-0.42%</td>
+				<td class="right num">73</td>
 			</tr>
 			
 			<tr >

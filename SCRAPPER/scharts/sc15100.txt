@@ -49,11 +49,11 @@
 		alt="Assassin&#39;s Creed"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">303</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:11:33Z"></abbr>
+		<span class="num">194</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:13:04Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">369</span>
+		<span class="num">224</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">187.91</td>
-				<td class="right num-p gainorloss italic">&#43;106.3</td>
-				<td class="right gainorloss italic">&#43;130.17%</td>
-				<td class="right num italic">541</td>
+				<td class="right num-f italic">132.30</td>
+				<td class="right num-p gainorloss italic">-12.4</td>
+				<td class="right gainorloss italic">-8.57%</td>
+				<td class="right num italic">309</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">144.70</td>
+				<td class="right num-p gainorloss">-51.77</td>
+				<td class="right gainorloss">-26.35%</td>
+				<td class="right num">401</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">196.47</td>
+				<td class="right num-p gainorloss">114.83</td>
+				<td class="right gainorloss">&#43;140.65%</td>
+				<td class="right num">541</td>
 			</tr>
 			
 			<tr >

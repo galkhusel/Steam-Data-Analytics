@@ -49,11 +49,11 @@
 		alt="Dead Island"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">52</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:29:09Z"></abbr>
+		<span class="num">73</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:24:09Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">78</span>
+		<span class="num">80</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">45.93</td>
-				<td class="right num-p gainorloss italic">-0.4</td>
-				<td class="right gainorloss italic">-0.78%</td>
-				<td class="right num italic">92</td>
+				<td class="right num-f italic">49.74</td>
+				<td class="right num-p gainorloss italic">-0.1</td>
+				<td class="right gainorloss italic">-0.23%</td>
+				<td class="right num italic">112</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">49.85</td>
+				<td class="right num-p gainorloss">3.43</td>
+				<td class="right gainorloss">&#43;7.39%</td>
+				<td class="right num">112</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">46.42</td>
+				<td class="right num-p gainorloss">0.14</td>
+				<td class="right gainorloss">&#43;0.30%</td>
+				<td class="right num">92</td>
 			</tr>
 			
 			<tr >

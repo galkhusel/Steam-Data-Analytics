@@ -49,15 +49,15 @@
 		alt="Alien Shooter: Revisited"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">49</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:15:08Z"></abbr>
+		<span class="num">64</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:17:27Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">159</span>
+		<span class="num">132</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
-		<span class="num">545</span>
+		<span class="num">905</span>
 		<br>all-time peak
 	</div>
 </div>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">35.67</td>
-				<td class="right num-p gainorloss italic">&#43;31.8</td>
-				<td class="right gainorloss italic">&#43;830.51%</td>
-				<td class="right num italic">545</td>
+				<td class="right num-f italic">30.60</td>
+				<td class="right num-p gainorloss italic">&#43;3.8</td>
+				<td class="right gainorloss italic">&#43;14.14%</td>
+				<td class="right num italic">570</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">26.81</td>
+				<td class="right num-p gainorloss">-19.89</td>
+				<td class="right gainorloss">-42.59%</td>
+				<td class="right num">463</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">46.70</td>
+				<td class="right num-p gainorloss">42.87</td>
+				<td class="right gainorloss">&#43;1118.07%</td>
+				<td class="right num">905</td>
 			</tr>
 			
 			<tr >

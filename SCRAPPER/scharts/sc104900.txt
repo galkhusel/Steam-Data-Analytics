@@ -49,11 +49,11 @@
 		alt="ORION: Prelude"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">10</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:36:38Z"></abbr>
+		<span class="num">3</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:55:48Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">27</span>
+		<span class="num">15</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">7.27</td>
-				<td class="right num-p gainorloss italic">&#43;0.1</td>
-				<td class="right gainorloss italic">&#43;0.78%</td>
-				<td class="right num italic">27</td>
+				<td class="right num-f italic">8.15</td>
+				<td class="right num-p gainorloss italic">-0.9</td>
+				<td class="right gainorloss italic">-9.78%</td>
+				<td class="right num italic">24</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">9.04</td>
+				<td class="right num-p gainorloss">1.23</td>
+				<td class="right gainorloss">&#43;15.77%</td>
+				<td class="right num">27</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">7.80</td>
+				<td class="right num-p gainorloss">0.59</td>
+				<td class="right gainorloss">&#43;8.24%</td>
+				<td class="right num">27</td>
 			</tr>
 			
 			<tr >

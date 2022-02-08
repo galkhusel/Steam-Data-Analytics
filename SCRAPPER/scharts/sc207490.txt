@@ -49,11 +49,11 @@
 		alt="Rayman Origins"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">70</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:27:37Z"></abbr>
+		<span class="num">75</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:26:08Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">87</span>
+		<span class="num">75</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">32.48</td>
-				<td class="right num-p gainorloss italic">&#43;8.0</td>
-				<td class="right gainorloss italic">&#43;32.49%</td>
-				<td class="right num italic">87</td>
+				<td class="right num-f italic">34.20</td>
+				<td class="right num-p gainorloss italic">-1.8</td>
+				<td class="right gainorloss italic">-4.95%</td>
+				<td class="right num italic">86</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">35.98</td>
+				<td class="right num-p gainorloss">1.56</td>
+				<td class="right gainorloss">&#43;4.53%</td>
+				<td class="right num">107</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">34.42</td>
+				<td class="right num-p gainorloss">9.90</td>
+				<td class="right gainorloss">&#43;40.37%</td>
+				<td class="right num">87</td>
 			</tr>
 			
 			<tr >

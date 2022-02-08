@@ -49,11 +49,11 @@
 		alt="S.T.A.L.K.E.R.: Clear Sky"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">245</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:02:57Z"></abbr>
+		<span class="num">466</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:07:56Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">451</span>
+		<span class="num">545</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">220.37</td>
-				<td class="right num-p gainorloss italic">-4.6</td>
-				<td class="right gainorloss italic">-2.04%</td>
-				<td class="right num italic">471</td>
+				<td class="right num-f italic">282.68</td>
+				<td class="right num-p gainorloss italic">-4.8</td>
+				<td class="right gainorloss italic">-1.67%</td>
+				<td class="right num italic">620</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">287.48</td>
+				<td class="right num-p gainorloss">62.76</td>
+				<td class="right gainorloss">&#43;27.93%</td>
+				<td class="right num">620</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">224.72</td>
+				<td class="right num-p gainorloss">-0.24</td>
+				<td class="right gainorloss">-0.11%</td>
+				<td class="right num">517</td>
 			</tr>
 			
 			<tr >

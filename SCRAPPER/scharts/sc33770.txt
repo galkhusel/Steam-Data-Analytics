@@ -49,11 +49,11 @@
 		alt="Drakensang The River of Time"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">4</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T11:42:31Z"></abbr>
+		<span class="num">9</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:47:43Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">11</span>
+		<span class="num">15</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">3.96</td>
-				<td class="right num-p gainorloss italic">-0.7</td>
-				<td class="right gainorloss italic">-15.10%</td>
-				<td class="right num italic">14</td>
+				<td class="right num-f italic">5.79</td>
+				<td class="right num-p gainorloss italic">-0.0</td>
+				<td class="right gainorloss italic">-0.83%</td>
+				<td class="right num italic">16</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">5.84</td>
+				<td class="right num-p gainorloss">1.64</td>
+				<td class="right gainorloss">&#43;39.03%</td>
+				<td class="right num">16</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">4.20</td>
+				<td class="right num-p gainorloss">-0.46</td>
+				<td class="right gainorloss">-9.88%</td>
+				<td class="right num">14</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="PlanetSide 2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1626</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:05:06Z"></abbr>
+		<span class="num">2413</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:02:58Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">1933</span>
+		<span class="num">2742</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">1621.18</td>
-				<td class="right num-p gainorloss italic">&#43;38.3</td>
-				<td class="right gainorloss italic">&#43;2.42%</td>
-				<td class="right num italic">2782</td>
+				<td class="right num-f italic">1799.80</td>
+				<td class="right num-p gainorloss italic">&#43;18.1</td>
+				<td class="right gainorloss italic">&#43;1.02%</td>
+				<td class="right num italic">3640</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">1781.68</td>
+				<td class="right num-p gainorloss">158.01</td>
+				<td class="right gainorloss">&#43;9.73%</td>
+				<td class="right num">3640</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">1623.67</td>
+				<td class="right num-p gainorloss">40.80</td>
+				<td class="right gainorloss">&#43;2.58%</td>
+				<td class="right num">2782</td>
 			</tr>
 			
 			<tr >

@@ -49,11 +49,11 @@
 		alt="Painkiller Overdose"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">5</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:33:44Z"></abbr>
+		<span class="num">0</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:42:47Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">10</span>
+		<span class="num">13</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">2.80</td>
-				<td class="right num-p gainorloss italic">-0.2</td>
-				<td class="right gainorloss italic">-8.20%</td>
-				<td class="right num italic">12</td>
+				<td class="right num-f italic">3.09</td>
+				<td class="right num-p gainorloss italic">&#43;0.1</td>
+				<td class="right gainorloss italic">&#43;4.60%</td>
+				<td class="right num italic">13</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">2.96</td>
+				<td class="right num-p gainorloss">0.13</td>
+				<td class="right gainorloss">&#43;4.77%</td>
+				<td class="right num">9</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">2.82</td>
+				<td class="right num-p gainorloss">-0.22</td>
+				<td class="right gainorloss">-7.38%</td>
+				<td class="right num">12</td>
 			</tr>
 			
 			<tr >

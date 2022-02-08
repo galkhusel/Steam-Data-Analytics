@@ -49,11 +49,11 @@
 		alt="STAR WARS™ Jedi Knight: Jedi Academy™"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">175</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:17:00Z"></abbr>
+		<span class="num">124</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:17:05Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">204</span>
+		<span class="num">209</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">102.96</td>
-				<td class="right num-p gainorloss italic">&#43;2.8</td>
-				<td class="right gainorloss italic">&#43;2.83%</td>
-				<td class="right num italic">215</td>
+				<td class="right num-f italic">121.44</td>
+				<td class="right num-p gainorloss italic">-1.8</td>
+				<td class="right gainorloss italic">-1.48%</td>
+				<td class="right num italic">237</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">123.26</td>
+				<td class="right num-p gainorloss">19.57</td>
+				<td class="right gainorloss">&#43;18.87%</td>
+				<td class="right num">237</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">103.70</td>
+				<td class="right num-p gainorloss">3.58</td>
+				<td class="right gainorloss">&#43;3.57%</td>
+				<td class="right num">204</td>
 			</tr>
 			
 			<tr >

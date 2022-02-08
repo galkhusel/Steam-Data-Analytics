@@ -49,11 +49,11 @@
 		alt="Spore: Creepy &amp; Cute Parts Pack"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">86</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:21:55Z"></abbr>
+		<span class="num">57</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:22:50Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">117</span>
+		<span class="num">82</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">47.70</td>
-				<td class="right num-p gainorloss italic">&#43;2.3</td>
-				<td class="right gainorloss italic">&#43;5.06%</td>
-				<td class="right num italic">128</td>
+				<td class="right num-f italic">50.83</td>
+				<td class="right num-p gainorloss italic">-2.7</td>
+				<td class="right gainorloss italic">-5.06%</td>
+				<td class="right num italic">116</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">53.54</td>
+				<td class="right num-p gainorloss">3.63</td>
+				<td class="right gainorloss">&#43;7.28%</td>
+				<td class="right num">117</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">49.91</td>
+				<td class="right num-p gainorloss">4.51</td>
+				<td class="right gainorloss">&#43;9.93%</td>
+				<td class="right num">128</td>
 			</tr>
 			
 			<tr >

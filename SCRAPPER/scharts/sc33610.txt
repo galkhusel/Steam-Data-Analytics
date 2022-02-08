@@ -49,11 +49,11 @@
 		alt="Broken Sword 3 - the Sleeping Dragon"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">5</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:42:50Z"></abbr>
+		<span class="num">9</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:43:24Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">10</span>
+		<span class="num">14</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">3.74</td>
-				<td class="right num-p gainorloss italic">&#43;0.1</td>
-				<td class="right gainorloss italic">&#43;2.06%</td>
-				<td class="right num italic">17</td>
+				<td class="right num-f italic">5.43</td>
+				<td class="right num-p gainorloss italic">-0.2</td>
+				<td class="right gainorloss italic">-3.61%</td>
+				<td class="right num italic">19</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">5.64</td>
+				<td class="right num-p gainorloss">1.76</td>
+				<td class="right gainorloss">&#43;45.44%</td>
+				<td class="right num">21</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">3.87</td>
+				<td class="right num-p gainorloss">0.21</td>
+				<td class="right gainorloss">&#43;5.62%</td>
+				<td class="right num">17</td>
 			</tr>
 			
 			<tr >

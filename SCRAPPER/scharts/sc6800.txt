@@ -49,11 +49,11 @@
 		alt="Commandos: Behind Enemy Lines"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">86</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:22:22Z"></abbr>
+		<span class="num">72</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:22:10Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">107</span>
+		<span class="num">97</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">56.20</td>
-				<td class="right num-p gainorloss italic">&#43;5.5</td>
-				<td class="right gainorloss italic">&#43;10.89%</td>
-				<td class="right num italic">111</td>
+				<td class="right num-f italic">68.53</td>
+				<td class="right num-p gainorloss italic">-1.4</td>
+				<td class="right gainorloss italic">-1.96%</td>
+				<td class="right num italic">137</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">69.89</td>
+				<td class="right num-p gainorloss">12.47</td>
+				<td class="right gainorloss">&#43;21.71%</td>
+				<td class="right num">137</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">57.43</td>
+				<td class="right num-p gainorloss">6.74</td>
+				<td class="right gainorloss">&#43;13.31%</td>
+				<td class="right num">116</td>
 			</tr>
 			
 			<tr >

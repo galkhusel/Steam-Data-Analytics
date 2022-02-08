@@ -49,11 +49,11 @@
 		alt="Realm of the Mad God Exalt"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1420</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:03:53Z"></abbr>
+		<span class="num">1401</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:04:09Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">2165</span>
+		<span class="num">1541</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">1415.24</td>
-				<td class="right num-p gainorloss italic">&#43;100.4</td>
-				<td class="right gainorloss italic">&#43;7.63%</td>
-				<td class="right num italic">2267</td>
+				<td class="right num-f italic">1408.41</td>
+				<td class="right num-p gainorloss italic">-62.6</td>
+				<td class="right gainorloss italic">-4.26%</td>
+				<td class="right num italic">2186</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">1471.02</td>
+				<td class="right num-p gainorloss">21.27</td>
+				<td class="right gainorloss">&#43;1.47%</td>
+				<td class="right num">2363</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">1449.74</td>
+				<td class="right num-p gainorloss">134.88</td>
+				<td class="right gainorloss">&#43;10.26%</td>
+				<td class="right num">2267</td>
 			</tr>
 			
 			<tr >

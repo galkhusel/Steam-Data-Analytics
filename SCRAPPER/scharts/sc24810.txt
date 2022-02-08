@@ -49,11 +49,11 @@
 		alt="Command and Conquer 3: Kane&#39;s Wrath"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">337</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:11:23Z"></abbr>
+		<span class="num">343</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:10:20Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">403</span>
+		<span class="num">386</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">256.22</td>
-				<td class="right num-p gainorloss italic">&#43;16.3</td>
-				<td class="right gainorloss italic">&#43;6.77%</td>
-				<td class="right num italic">431</td>
+				<td class="right num-f italic">277.91</td>
+				<td class="right num-p gainorloss italic">-7.8</td>
+				<td class="right gainorloss italic">-2.74%</td>
+				<td class="right num italic">477</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">285.74</td>
+				<td class="right num-p gainorloss">24.79</td>
+				<td class="right gainorloss">&#43;9.50%</td>
+				<td class="right num">497</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">260.95</td>
+				<td class="right num-p gainorloss">20.98</td>
+				<td class="right gainorloss">&#43;8.74%</td>
+				<td class="right num">431</td>
 			</tr>
 			
 			<tr >

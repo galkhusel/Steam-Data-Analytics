@@ -49,11 +49,11 @@
 		alt="CivCity: Rome"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">23</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:41:21Z"></abbr>
+		<span class="num">12</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:44:05Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">30</span>
+		<span class="num">23</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">14.02</td>
-				<td class="right num-p gainorloss italic">&#43;0.7</td>
-				<td class="right gainorloss italic">&#43;5.17%</td>
-				<td class="right num italic">38</td>
+				<td class="right num-f italic">15.88</td>
+				<td class="right num-p gainorloss italic">-1.0</td>
+				<td class="right gainorloss italic">-6.02%</td>
+				<td class="right num italic">44</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">16.90</td>
+				<td class="right num-p gainorloss">2.60</td>
+				<td class="right gainorloss">&#43;18.20%</td>
+				<td class="right num">44</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">14.29</td>
+				<td class="right num-p gainorloss">0.96</td>
+				<td class="right gainorloss">&#43;7.20%</td>
+				<td class="right num">38</td>
 			</tr>
 			
 			<tr >

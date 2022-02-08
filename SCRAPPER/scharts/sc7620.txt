@@ -49,11 +49,11 @@
 		alt="Railroad Tycoon 2: Platinum"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">147</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:17:46Z"></abbr>
+		<span class="num">84</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:19:31Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">164</span>
+		<span class="num">155</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">95.08</td>
-				<td class="right num-p gainorloss italic">&#43;0.5</td>
-				<td class="right gainorloss italic">&#43;0.54%</td>
-				<td class="right num italic">164</td>
+				<td class="right num-f italic">96.17</td>
+				<td class="right num-p gainorloss italic">-2.4</td>
+				<td class="right gainorloss italic">-2.41%</td>
+				<td class="right num italic">188</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">98.55</td>
+				<td class="right num-p gainorloss">2.63</td>
+				<td class="right gainorloss">&#43;2.74%</td>
+				<td class="right num">188</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">95.92</td>
+				<td class="right num-p gainorloss">1.35</td>
+				<td class="right gainorloss">&#43;1.43%</td>
+				<td class="right num">165</td>
 			</tr>
 			
 			<tr >

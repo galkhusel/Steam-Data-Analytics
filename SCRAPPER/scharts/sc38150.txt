@@ -49,11 +49,11 @@
 		alt="Farm Frenzy 3"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">2</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:45:02Z"></abbr>
+		<span class="num">4</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:08:58Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">5</span>
+		<span class="num">7</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">2.42</td>
+				<td class="right num-f italic">2.77</td>
 				<td class="right num-p gainorloss italic">-0.0</td>
-				<td class="right gainorloss italic">-1.35%</td>
-				<td class="right num italic">9</td>
+				<td class="right gainorloss italic">-0.29%</td>
+				<td class="right num italic">11</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">2.78</td>
+				<td class="right num-p gainorloss">0.38</td>
+				<td class="right gainorloss">&#43;15.88%</td>
+				<td class="right num">11</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">2.40</td>
+				<td class="right num-p gainorloss">-0.05</td>
+				<td class="right gainorloss">-2.21%</td>
+				<td class="right num">9</td>
 			</tr>
 			
 			<tr >

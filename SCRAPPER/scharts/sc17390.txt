@@ -49,11 +49,11 @@
 		alt="Spore"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1920</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:04:07Z"></abbr>
+		<span class="num">1064</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T15:05:00Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">2292</span>
+		<span class="num">1272</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">864.57</td>
-				<td class="right num-p gainorloss italic">&#43;116.0</td>
-				<td class="right gainorloss italic">&#43;15.49%</td>
-				<td class="right num italic">2443</td>
+				<td class="right num-f italic">922.39</td>
+				<td class="right num-p gainorloss italic">-86.4</td>
+				<td class="right gainorloss italic">-8.57%</td>
+				<td class="right num italic">1846</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">1008.81</td>
+				<td class="right num-p gainorloss">69.59</td>
+				<td class="right gainorloss">&#43;7.41%</td>
+				<td class="right num">2222</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">939.21</td>
+				<td class="right num-p gainorloss">190.60</td>
+				<td class="right gainorloss">&#43;25.46%</td>
+				<td class="right num">2443</td>
 			</tr>
 			
 			<tr >

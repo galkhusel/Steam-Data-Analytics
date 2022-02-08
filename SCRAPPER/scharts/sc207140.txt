@@ -49,11 +49,11 @@
 		alt="SpeedRunners"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">351</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:06:29Z"></abbr>
+		<span class="num">365</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:10:57Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">791</span>
+		<span class="num">582</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">262.06</td>
-				<td class="right num-p gainorloss italic">&#43;50.8</td>
-				<td class="right gainorloss italic">&#43;24.05%</td>
-				<td class="right num italic">791</td>
+				<td class="right num-f italic">320.52</td>
+				<td class="right num-p gainorloss italic">-19.5</td>
+				<td class="right gainorloss italic">-5.73%</td>
+				<td class="right num italic">735</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">339.99</td>
+				<td class="right num-p gainorloss">57.27</td>
+				<td class="right gainorloss">&#43;20.26%</td>
+				<td class="right num">811</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">282.72</td>
+				<td class="right num-p gainorloss">71.46</td>
+				<td class="right gainorloss">&#43;33.82%</td>
+				<td class="right num">825</td>
 			</tr>
 			
 			<tr >

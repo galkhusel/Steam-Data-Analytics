@@ -49,15 +49,15 @@
 		alt="Myst: Masterpiece Edition"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">17</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:32:20Z"></abbr>
+		<span class="num">38</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:31:57Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">43</span>
+		<span class="num">40</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
-		<span class="num">63</span>
+		<span class="num">73</span>
 		<br>all-time peak
 	</div>
 </div>
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">13.12</td>
-				<td class="right num-p gainorloss italic">&#43;2.6</td>
-				<td class="right gainorloss italic">&#43;24.19%</td>
-				<td class="right num italic">43</td>
+				<td class="right num-f italic">20.61</td>
+				<td class="right num-p gainorloss italic">&#43;0.4</td>
+				<td class="right gainorloss italic">&#43;1.82%</td>
+				<td class="right num italic">73</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">20.24</td>
+				<td class="right num-p gainorloss">6.53</td>
+				<td class="right gainorloss">&#43;47.57%</td>
+				<td class="right num">73</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">13.72</td>
+				<td class="right num-p gainorloss">3.16</td>
+				<td class="right gainorloss">&#43;29.89%</td>
+				<td class="right num">43</td>
 			</tr>
 			
 			<tr >

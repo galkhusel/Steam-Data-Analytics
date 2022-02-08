@@ -49,11 +49,11 @@
 		alt="The Walking Dead"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">221</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:14:09Z"></abbr>
+		<span class="num">306</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T18:11:17Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">315</span>
+		<span class="num">330</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">114.07</td>
-				<td class="right num-p gainorloss italic">&#43;1.1</td>
-				<td class="right gainorloss italic">&#43;1.01%</td>
-				<td class="right num italic">315</td>
+				<td class="right num-f italic">180.09</td>
+				<td class="right num-p gainorloss italic">&#43;2.5</td>
+				<td class="right gainorloss italic">&#43;1.39%</td>
+				<td class="right num italic">485</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">177.63</td>
+				<td class="right num-p gainorloss">55.54</td>
+				<td class="right gainorloss">&#43;45.49%</td>
+				<td class="right num">485</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">122.09</td>
+				<td class="right num-p gainorloss">9.16</td>
+				<td class="right gainorloss">&#43;8.11%</td>
+				<td class="right num">315</td>
 			</tr>
 			
 			<tr >

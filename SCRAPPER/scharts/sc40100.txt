@@ -49,11 +49,11 @@
 		alt="Supreme Commander 2"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">251</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:08:25Z"></abbr>
+		<span class="num">332</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:12:21Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">483</span>
+		<span class="num">389</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">243.16</td>
-				<td class="right num-p gainorloss italic">-4.5</td>
-				<td class="right gainorloss italic">-1.84%</td>
-				<td class="right num italic">483</td>
+				<td class="right num-f italic">263.82</td>
+				<td class="right num-p gainorloss italic">-10.2</td>
+				<td class="right gainorloss italic">-3.73%</td>
+				<td class="right num italic">502</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">274.05</td>
+				<td class="right num-p gainorloss">23.48</td>
+				<td class="right gainorloss">&#43;9.37%</td>
+				<td class="right num">552</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">250.57</td>
+				<td class="right num-p gainorloss">2.87</td>
+				<td class="right gainorloss">&#43;1.16%</td>
+				<td class="right num">483</td>
 			</tr>
 			
 			<tr >

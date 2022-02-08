@@ -49,11 +49,11 @@
 		alt="Cooking Dash"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">2</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T12:12:06Z"></abbr>
+		<span class="num">1</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:53:05Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">9</span>
+		<span class="num">3</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">3.12</td>
-				<td class="right num-p gainorloss italic">-0.4</td>
-				<td class="right gainorloss italic">-10.29%</td>
+				<td class="right num-f italic">2.86</td>
+				<td class="right num-p gainorloss italic">&#43;0.1</td>
+				<td class="right gainorloss italic">&#43;2.73%</td>
 				<td class="right num italic">10</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">2.78</td>
+				<td class="right num-p gainorloss">-0.36</td>
+				<td class="right gainorloss">-11.39%</td>
+				<td class="right num">10</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">3.14</td>
+				<td class="right num-p gainorloss">-0.34</td>
+				<td class="right gainorloss">-9.78%</td>
+				<td class="right num">10</td>
 			</tr>
 			
 			<tr >

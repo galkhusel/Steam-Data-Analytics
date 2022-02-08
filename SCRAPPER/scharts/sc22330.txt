@@ -49,11 +49,11 @@
 		alt="The Elder Scrolls IV: Oblivion "
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1679</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T23:04:22Z"></abbr>
+		<span class="num">1200</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T16:03:19Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">1771</span>
+		<span class="num">1582</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">1042.57</td>
-				<td class="right num-p gainorloss italic">&#43;53.9</td>
-				<td class="right gainorloss italic">&#43;5.45%</td>
-				<td class="right num italic">1790</td>
+				<td class="right num-f italic">1191.57</td>
+				<td class="right num-p gainorloss italic">-34.8</td>
+				<td class="right gainorloss italic">-2.84%</td>
+				<td class="right num italic">2002</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">1226.36</td>
+				<td class="right num-p gainorloss">163.60</td>
+				<td class="right gainorloss">&#43;15.39%</td>
+				<td class="right num">2143</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">1062.76</td>
+				<td class="right num-p gainorloss">74.12</td>
+				<td class="right gainorloss">&#43;7.50%</td>
+				<td class="right num">1790</td>
 			</tr>
 			
 			<tr >

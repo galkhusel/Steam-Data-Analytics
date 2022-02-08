@@ -49,11 +49,11 @@
 		alt="Ragnarok"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">30</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:32:04Z"></abbr>
+		<span class="num">39</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:29:20Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">43</span>
+		<span class="num">51</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">28.16</td>
-				<td class="right num-p gainorloss italic">-3.4</td>
-				<td class="right gainorloss italic">-10.84%</td>
-				<td class="right num italic">52</td>
+				<td class="right num-f italic">32.04</td>
+				<td class="right num-p gainorloss italic">-0.6</td>
+				<td class="right gainorloss italic">-1.96%</td>
+				<td class="right num italic">63</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">32.68</td>
+				<td class="right num-p gainorloss">4.27</td>
+				<td class="right gainorloss">&#43;15.02%</td>
+				<td class="right num">63</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">28.42</td>
+				<td class="right num-p gainorloss">-3.17</td>
+				<td class="right gainorloss">-10.04%</td>
+				<td class="right num">52</td>
 			</tr>
 			
 			<tr >

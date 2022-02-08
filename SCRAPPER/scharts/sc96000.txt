@@ -49,11 +49,11 @@
 		alt="The Tiny Bang Story"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">16</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T13:47:11Z"></abbr>
+		<span class="num">19</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:41:24Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">25</span>
+		<span class="num">22</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">29.09</td>
-				<td class="right num-p gainorloss italic">&#43;10.4</td>
-				<td class="right gainorloss italic">&#43;55.49%</td>
-				<td class="right num italic">532</td>
+				<td class="right num-f italic">39.31</td>
+				<td class="right num-p gainorloss italic">-0.2</td>
+				<td class="right gainorloss italic">-0.53%</td>
+				<td class="right num italic">328</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">39.52</td>
+				<td class="right num-p gainorloss">10.50</td>
+				<td class="right gainorloss">&#43;36.19%</td>
+				<td class="right num">328</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">29.02</td>
+				<td class="right num-p gainorloss">10.31</td>
+				<td class="right gainorloss">&#43;55.10%</td>
+				<td class="right num">532</td>
 			</tr>
 			
 			<tr >

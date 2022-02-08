@@ -49,11 +49,11 @@
 		alt="Little Inferno"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">45</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T15:27:41Z"></abbr>
+		<span class="num">37</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T19:31:55Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">90</span>
+		<span class="num">43</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">80.18</td>
-				<td class="right num-p gainorloss italic">&#43;57.2</td>
-				<td class="right gainorloss italic">&#43;249.10%</td>
-				<td class="right num italic">749</td>
+				<td class="right num-f italic">30.23</td>
+				<td class="right num-p gainorloss italic">-3.6</td>
+				<td class="right gainorloss italic">-10.66%</td>
+				<td class="right num italic">76</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">33.84</td>
+				<td class="right num-p gainorloss">-47.94</td>
+				<td class="right gainorloss">-58.62%</td>
+				<td class="right num">99</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">81.78</td>
+				<td class="right num-p gainorloss">58.81</td>
+				<td class="right gainorloss">&#43;256.07%</td>
+				<td class="right num">749</td>
 			</tr>
 			
 			<tr >

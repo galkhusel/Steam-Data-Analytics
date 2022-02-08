@@ -49,11 +49,11 @@
 		alt="Sid Meier&#39;s Pirates!"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">262</span>
-		<br>playing <abbr class="timeago" title="2021-12-28T22:14:51Z"></abbr>
+		<span class="num">106</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T14:15:18Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">262</span>
+		<span class="num">160</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">116.72</td>
-				<td class="right num-p gainorloss italic">&#43;7.9</td>
-				<td class="right gainorloss italic">&#43;7.25%</td>
-				<td class="right num italic">262</td>
+				<td class="right num-f italic">133.03</td>
+				<td class="right num-p gainorloss italic">-8.6</td>
+				<td class="right gainorloss italic">-6.08%</td>
+				<td class="right num italic">242</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">141.64</td>
+				<td class="right num-p gainorloss">18.27</td>
+				<td class="right gainorloss">&#43;14.81%</td>
+				<td class="right num">295</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">123.38</td>
+				<td class="right num-p gainorloss">14.54</td>
+				<td class="right gainorloss">&#43;13.36%</td>
+				<td class="right num">272</td>
 			</tr>
 			
 			<tr >

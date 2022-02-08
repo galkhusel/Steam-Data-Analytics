@@ -49,11 +49,11 @@
 		alt="Dementium II HD"
 		width="184" height="69">
 	<div class="app-stat"> 
-		<span class="num">1</span>
-		<br>playing <abbr class="timeago" title="2021-12-29T14:25:27Z"></abbr>
+		<span class="num">0</span>
+		<br>playing <abbr class="timeago" title="2022-02-04T17:20:19Z"></abbr>
 	</div>
 	<div class="app-stat"> 
-		<span class="num">1</span>
+		<span class="num">2</span>
 		<br>24-hour peak
 	</div>
 	<div class="app-stat"> 
@@ -88,10 +88,34 @@
 		<tbody>
 			<tr class="odd">
 				<td class="month-cell left italic">Last 30 Days</td>
-				<td class="right num-f italic">1.77</td>
-				<td class="right num-p gainorloss italic">-0.5</td>
-				<td class="right gainorloss italic">-23.53%</td>
-				<td class="right num italic">10</td>
+				<td class="right num-f italic">0.74</td>
+				<td class="right num-p gainorloss italic">-0.7</td>
+				<td class="right gainorloss italic">-47.12%</td>
+				<td class="right num italic">5</td>
+			</tr>
+			
+			<tr >
+				
+				<td class="month-cell left">
+					January 2022
+				</td>
+				
+				<td class="right num-f">1.40</td>
+				<td class="right num-p gainorloss">-0.75</td>
+				<td class="right gainorloss">-34.83%</td>
+				<td class="right num">13</td>
+			</tr>
+			
+			<tr class="odd">
+				
+				<td class="month-cell left">
+					December 2021
+				</td>
+				
+				<td class="right num-f">2.15</td>
+				<td class="right num-p gainorloss">-0.16</td>
+				<td class="right gainorloss">-7.08%</td>
+				<td class="right num">10</td>
 			</tr>
 			
 			<tr >
