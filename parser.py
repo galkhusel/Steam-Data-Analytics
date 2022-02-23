@@ -49,14 +49,21 @@ def parser(game_id):
 
 			soup_sp = BeautifulSoup(sp_txt, 'html.parser')
 			table_separator_sp = soup_sp.find_all('table')
+
 			if len(table_separator_sp) < 4: return [],[],[]
-			_, player_price_history, sales_table, _ = table_separator_sp
+
+			
+			 , player_price_history, sales_table, _ = table_separator_sp
 			print(game_id)
 			lph = parse_table(player_price_history,game_id)
 			ls = parse_table(sales_table,game_id)
 			soup_sc = BeautifulSoup(sc_txt, 'html.parser')
 			aux=soup_sc.find_all('table')
+
+			
 			if len(aux) == 0: return [],[],[]
+
+
 			table_player_base = aux[0]
 			lpb = parse_table(table_player_base,game_id)
 

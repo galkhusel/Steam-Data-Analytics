@@ -34,13 +34,16 @@ def scrapper_(id_):
 			ERROR.write("ERROR")
 
 def scrapper (idlist,start,end):
-
+	x = 0
 	for id_pos in range(start, end+1):
 
 		id_ = idlist[id_pos]
 		print(id_)
 		scrapper_(id_)
-		time.sleep(30)
+		time.sleep(60)
+		print(x)
+		x += 1
+
 
 
 def get_id(PATH):
