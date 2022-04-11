@@ -8,6 +8,7 @@ END = 29237
 "END_END = 29237"
 
 PARSED_CSV_PATH = "PARSER/"
+SCRAPPER_PATH = "SCRAPPER/"
 
 HEADER_PRICE_HISTORY = ['Date', 'Price', 'Gain', 'Discount','game_id']
 HEADER_SALES = ['Sale', 'Date Start', 'Price', 'Discount','game_id']
@@ -23,9 +24,10 @@ def parse(soup):
 	line =soup.find_all(['th', 'td'])
 
 	for col in line:
-
+		
 		aux = col.get_text().strip()
 		line_list.append(aux)
+		#print(aux)
 
 	return line_list
 
@@ -37,7 +39,6 @@ def parse_table(soup,game_id):
 
 	for line in tr:
 		list_csv.append(parse(line)+[game_id])
-
 
 	return list_csv[1:]
 
@@ -53,13 +54,13 @@ def parser(game_id):
 			if len(table_separator_sp) < 4: return [],[],[]
 
 			
-			 , player_price_history, sales_table, _ = table_separator_sp
-			print(game_id)
+			a , player_price_history, sales_table, v = table_separator_sp
+			#print(player_price_history)
 			lph = parse_table(player_price_history,game_id)
 			ls = parse_table(sales_table,game_id)
 			soup_sc = BeautifulSoup(sc_txt, 'html.parser')
 			aux=soup_sc.find_all('table')
-
+			#print(lph)
 			
 			if len(aux) == 0: return [],[],[]
 
@@ -71,7 +72,7 @@ def parser(game_id):
 	except FileNotFoundError:
 		return [],[],[]
 
-	return lph, ls, lpb
+	return lpb, ls, lph
 
 def write_csv (idlist,start,end):
 
